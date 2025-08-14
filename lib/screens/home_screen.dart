@@ -77,40 +77,27 @@ class _HomeScreenState extends State<HomeScreen> {
     return Scaffold(
       appBar: AppBar(
         automaticallyImplyLeading: false,
-        backgroundColor: Color(0xFF00406a),
-        foregroundColor: Colors.white,
+        backgroundColor: Color(0xFF78A4BF),
+        foregroundColor: Color(0xFF402B1F),
         title: Row(
           mainAxisAlignment:
               MainAxisAlignment.end, // Alinea el título a la derecha
-          children: [Text('JimiLe')],
+          children: [Text('L´Jimie')],
         ),
-      ),
-      // drawer: const AppDrawer(),
-      floatingActionButton: FloatingActionButton(
-        backgroundColor: Colors.white,
-        onPressed: () {
-          print('FAB presionado');
-        },
-        child: const Icon(Icons.help),
       ),
       body: Container(
         decoration: const BoxDecoration(
-          image: DecorationImage(
-            image: AssetImage(
-              'assets/fondo.png',
-            ), // Aquí pones tu imagen de fondo
-            fit: BoxFit.cover,
-          ),
+          color: Color(0xFFFFF8E1), // azul petróleo
         ),
         child: ListView(
           padding: const EdgeInsets.all(16),
           children: [
-            const SizedBox(height: 10),
+            const SizedBox(height: 200),
             Image.asset('assets/logo.png', height: 150),
             const SizedBox(height: 4),
             const Text(
               'Bienvenido',
-              style: TextStyle(color: Colors.white, fontSize: 22),
+              style: TextStyle(color: Color(0xFF402B1F), fontSize: 22),
               textAlign: TextAlign.center,
             ),
             const SizedBox(height: 32),

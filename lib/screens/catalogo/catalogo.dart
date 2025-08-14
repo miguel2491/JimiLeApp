@@ -6,8 +6,6 @@ import 'package:jimile/screens/carrito/carrito.dart';
 //import 'package:neru/services/db_helper.dart';
 import 'package:jimile/widget/bottom_nav.dart';
 
-// 🔹 Asegúrate de tener tus clases DBHelper, LoginScreen, CustomActionButton, CenteredDivider ya creadas
-
 class CatalogoScreen extends StatefulWidget {
   const CatalogoScreen({super.key});
 
@@ -16,7 +14,7 @@ class CatalogoScreen extends StatefulWidget {
 }
 
 class _CatalogoScreenState extends State<CatalogoScreen> {
-  final int _selectedIndex = 2;
+  final int _selectedIndex = 0;
   String nombre = "Usuario"; // 🔹 Aquí pones el nombre dinámico
   double progreso = 0.65; // 🔹 Entre 0.0 y 1.0
   final List<String> etiquetas = ["Éstres", "AutoConfianza", "Concentración"];
@@ -59,15 +57,15 @@ class _CatalogoScreenState extends State<CatalogoScreen> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        backgroundColor: Color(0xFF00406a),
-        foregroundColor: Colors.white,
+        backgroundColor: Color(0xFF78A4BF),
+        foregroundColor: Color(0xFF402B1F),
         title: Stack(
           children: [
             // 🔹 Ícono centrado
             Align(
               alignment: Alignment.center,
               child: FaIcon(
-                FontAwesomeIcons.user,
+                FontAwesomeIcons.bookBookmark,
                 color: Colors.white,
                 size: 20,
               ),
@@ -76,7 +74,7 @@ class _CatalogoScreenState extends State<CatalogoScreen> {
             Align(
               alignment: Alignment.centerRight,
               child: Text(
-                'JimiLe',
+                'L´Jimie',
                 style: const TextStyle(color: Colors.white, fontSize: 18),
               ),
             ),
@@ -85,10 +83,7 @@ class _CatalogoScreenState extends State<CatalogoScreen> {
       ),
       body: Container(
         decoration: const BoxDecoration(
-          image: DecorationImage(
-            image: AssetImage('assets/fondo.png'),
-            fit: BoxFit.cover,
-          ),
+          color: Color(0xFFFFF8E1), // azul petróleo
         ),
         child: SafeArea(
           child: SingleChildScrollView(
@@ -101,7 +96,7 @@ class _CatalogoScreenState extends State<CatalogoScreen> {
                   padding: const EdgeInsets.symmetric(horizontal: 60.0),
                   child: Text(
                     "Desarrolla tu mente, una habilidad por semana.",
-                    style: TextStyle(color: Colors.white, fontSize: 16),
+                    style: TextStyle(color: Color(0xFF402B1F), fontSize: 16),
                   ),
                 ),
               ],

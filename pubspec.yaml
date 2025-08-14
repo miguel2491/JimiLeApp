@@ -32,6 +32,9 @@ dev_dependencies:
   flutter_lints: ^6.0.0
   flutter_native_splash: ^2.4.6
 
+flutter_launcher_name:
+  name: "L´Jimie"
+  
 flutter_launcher_icons:
   android: true
   image_path: "assets/logo.png"
@@ -50,8 +53,8 @@ flutter:
           weight: 700
 
 flutter_native_splash:
-  color: "#302F40"
-  image: assets/logo.png
+  color: "#D4D4D4"
+  image: assets/splash.png
   android_12:
-    image: assets/logo.png
-    icon_background_color: "#302F40"
+    image: assets/splash.png
+    icon_background_color: "#D4D4D4"

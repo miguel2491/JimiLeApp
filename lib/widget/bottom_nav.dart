@@ -14,9 +14,9 @@ class CustomBottomNavBar extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return BottomNavigationBar(
-      backgroundColor: const Color(0xFF00406a),
-      selectedItemColor: Colors.white,
-      unselectedItemColor: Colors.white70,
+      backgroundColor: const Color(0xFF78A4BF),
+      selectedItemColor: Color(0xFFF2E9D8),
+      unselectedItemColor: Color(0xFF402B1F),
       currentIndex: selectedIndex,
       onTap: onItemTapped,
       type: BottomNavigationBarType.fixed,
