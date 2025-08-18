@@ -1,9 +1,12 @@
 import 'package:flutter/material.dart';
 import 'package:jimile/screens/login/check_auth.dart';
+import 'package:permission_handler/permission_handler.dart';
 
 Future<void> main() async {
   WidgetsFlutterBinding.ensureInitialized();
-
+  if (await Permission.notification.isDenied) {
+    await Permission.notification.request();
+  }
   runApp(const MyApp());
 }
 
