@@ -1,4 +1,6 @@
 import 'dart:convert';
+import 'package:jimile/model/categorias.dart';
+import 'package:jimile/model/presentacion.dart';
 import 'package:jimile/model/productos.dart';
 import 'package:http/http.dart' as http;
 import 'package:jimile/services/db_helper.dart';
@@ -7,13 +9,37 @@ import 'package:shared_preferences/shared_preferences.dart';
 //Fijas
 Future<List<Productos>> fProductos() async {
   final response = await http.get(
-    Uri.parse(
-      'https://gcconsultoresmexico.com/api/api.php?action=get_variables',
-    ),
+    Uri.parse('http://apicatsa.catsaconcretos.mx:2543/api/LJ/GetProducto'),
   );
   if (response.statusCode == 200) {
     final List data = jsonDecode(response.body);
     return data.map((json) => Productos.fromJson(json)).toList();
+  } else {
+    throw Exception('Error al cargar productos');
+  }
+}
+
+Future<List<Presentacion>> fPresentacion(id_categoria) async {
+  final response = await http.get(
+    Uri.parse(
+      'http://apicatsa.catsaconcretos.mx:2543/api/LJ/GetPresentacion/$id_categoria',
+    ),
+  );
+  if (response.statusCode == 200) {
+    final List data = jsonDecode(response.body);
+    return data.map((json) => Presentacion.fromJson(json)).toList();
+  } else {
+    throw Exception('Error al cargar productos');
+  }
+}
+
+Future<List<Categoria>> fCategoria() async {
+  final response = await http.get(
+    Uri.parse('http://apicatsa.catsaconcretos.mx:2543/api/LJ/GetCategoria'),
+  );
+  if (response.statusCode == 200) {
+    final List data = jsonDecode(response.body);
+    return data.map((json) => Categoria.fromJson(json)).toList();
   } else {
     throw Exception('Error al cargar productos');
   }

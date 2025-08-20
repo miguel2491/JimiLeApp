@@ -22,11 +22,11 @@ class Productos {
   factory Productos.fromJson(Map<String, dynamic> json) {
     return Productos(
       id: int.parse(json['id'].toString()),
-      clave: json['clave'].toString(),
-      tendencia: json['tendencia'].toString(),
-      familiaOlfativa: json['familia_olfativa'].toString(),
-      notaPrincipal: json['nota_principal'].toString(),
-      diaNoche: json['dia_noche'].toString(),
+      clave: json['clave'].toString().trim(),
+      tendencia: json['tendencia'].toString().trim(),
+      familiaOlfativa: json['familia_olfativa'].toString().trim(),
+      notaPrincipal: json['nota_principal'].toString().trim(),
+      diaNoche: json['dia_noche'].toString().trim(),
       genero: json['genero'].toString(),
       estatus: json['estatus'].toString(),
     );
