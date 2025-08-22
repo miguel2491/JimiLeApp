@@ -1,107 +1,137 @@
 [
     {
       "clave": "02/02275B",
-      "nombre": "CESENCIA ELIXIR",
+      "tendencia": "CESENCIA ELIXIR",
       "familia_olfativa": "ORIENTAL",
       "nota_principal": "CUERO",
-      "momento_uso": "Noche"
+      "dia_noche": "Noche",
+      "tipo":"N",
+      "genero":"U"
     },
     {
       "clave": "S/03052",
-      "nombre": "UBLIECKER STREET",
+      "tendencia": "UBLEECKER STREET",
       "familia_olfativa": "ORIENTAL",
-      "nota_principal": "VANILLA",
-      "momento_uso": "Noche"
+      "nota_principal": "VAINILLA",
+      "dia_noche": "Noche",
+      "tipo":"N",
+      "genero":"U"
     },
     {
       "clave": "01/00120B",
-      "nombre": "UCK BI",
+      "tendencia": "UCK BI",
       "familia_olfativa": "ORIENTAL",
       "nota_principal": "CÍTRICOS",
-      "momento_uso": "Noche"
+      "dia_noche": "Noche",
+      "tipo":"N",
+      "genero":"U"
     },
     {
       "clave": "02/01793A",
-      "nombre": "UCK EVERYONE",
+      "tendencia": "UCK EVERYONE",
       "familia_olfativa": "FRESCA",
       "nota_principal": "CÍTRICOS",
-      "momento_uso": "Noche"
+      "dia_noche": "Noche",
+      "tipo":"N",
+      "genero":"U"
     },
     {
       "clave": "03/00110A",
-      "nombre": "UCK EVERYONE EDP",
+      "tendencia": "UCK EVERYONE EDP",
       "familia_olfativa": "FRESCA",
       "nota_principal": "VETIVER",
-      "momento_uso": "Noche"
+      "dia_noche": "Noche",
+      "tipo":"N",
+      "genero":"U"
     },
     {
       "clave": "02/00039A",
-      "nombre": "UCK ONE",
+      "tendencia": "UCK ONE",
       "familia_olfativa": "FRESCA",
       "nota_principal": "CÍTRICOS",
-      "momento_uso": "Noche"
+      "dia_noche": "Noche",
+      "tipo":"N",
+      "genero":"U"
     },
     {
       "clave": "02/01643A",
-      "nombre": "UCK ONE PLATINUM",
+      "tendencia": "UCK ONE PLATINUM",
       "familia_olfativa": "MADEROSA",
       "nota_principal": "LAVANDA",
-      "momento_uso": "Noche"
+      "dia_noche": "Noche",
+      "tipo":"N",
+      "genero":"U"
     },
     {
       "clave": "02/01213A",
-      "nombre": "UCK ONE SUMMER 13",
+      "tendencia": "UCK ONE SUMMER 13",
       "familia_olfativa": "FRESCA",
       "nota_principal": "SANDÍA",
-      "momento_uso": "Noche"
+      "dia_noche": "Noche",
+      "tipo":"N",
+      "genero":"U"
     },
     {
       "clave": "03/00138A",
-      "nombre": "UD BY DIESEL",
+      "tendencia": "UD BY DIESEL",
       "familia_olfativa": "ORIENTAL",
       "nota_principal": "JENGBRE",
-      "momento_uso": "Noche"
+      "dia_noche": "Noche",
+      "tipo":"N",
+      "genero":"U"
     },
     {
       "clave": "03/00373A",
-      "nombre": "UDCVIB3 EDP",
+      "tendencia": "UDGVIB3 EDP",
       "familia_olfativa": "ORIENTAL",
       "nota_principal": "LAVANDA",
-      "momento_uso": "Noche"
+      "dia_noche": "Noche",
+      "tipo":"N",
+      "genero":"U"
     },
     {
       "clave": "03/00320A",
-      "nombre": "UEILISH No 2",
+      "tendencia": "UEILISH No 2",
       "familia_olfativa": "FRESCA",
       "nota_principal": "FLOR DE NARANJO",
-      "momento_uso": "Noche"
+      "dia_noche": "Noche",
+      "tipo":"N",
+      "genero":"U"
     },
     {
       "clave": "01/01847A",
-      "nombre": "UFRESH COUTURE",
+      "tendencia": "UFRESH COUTURE",
       "familia_olfativa": "FRUTAL",
       "nota_principal": "FRAMBUESA",
-      "momento_uso": "Noche"
+      "dia_noche": "Noche",
+      "tipo":"N",
+      "genero":"U"
     },
     {
       "clave": "02/02005A",
-      "nombre": "UFUSION DISSEY EXT",
+      "tendencia": "UFUSION DISSEY EXT",
       "familia_olfativa": "ORIENTAL",
       "nota_principal": "LAVANDA",
-      "momento_uso": "Noche"
+      "dia_noche": "Noche",
+      "tipo":"N",
+      "genero":"U"
     },
     {
       "clave": "03/00102A",
-      "nombre": "UPAULA IBIZA ELECT",
+      "tendencia": "UPAULA IBIZA ELECT",
       "familia_olfativa": "ORIENTAL",
       "nota_principal": "JAZMÍN",
-      "momento_uso": "Noche"
+      "dia_noche": "Noche",
+      "tipo":"N",
+      "genero":"U"
     },
     {
       "clave": "03/00282A",
-      "nombre": "UTCY 2 PEARL",
+      "tendencia": "UTOY 2 PEARL",
       "familia_olfativa": "ORIENTAL",
       "nota_principal": "JAZMÍN",
-      "momento_uso": "Noche"
+      "dia_noche": "Noche",
+      "tipo":"N",
+      "genero":"U"
     }
   ]

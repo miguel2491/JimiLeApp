@@ -1,1143 +1,2135 @@
 [
   {
-    "Clave": "02/00655A",
-    "Tendencia": "C1 MILLION",
-    "Familia_Olfativa": "ORIENTAL",
-    "Nota_Principal": "CÍTRICOS",
-    "DiaNoche": "✅"
-  },
-  {
-    "Clave": "02/01584A",
-    "Tendencia": "C1 MILLION LUCKY",
-    "Familia_Olfativa": "MADEROSA",
-    "Nota_Principal": "CÍTRICOS",
-    "DiaNoche": "✅"
-  },
-  {
-    "Clave": "02/02130A",
-    "Tendencia": "C1 MILLION ROYAL",
-    "Familia_Olfativa": "ORIENTAL",
-    "Nota_Principal": "CARDAMOMO",
-    "DiaNoche": "✅"
-  },
-  {
-    "Clave": "02/00002A",
-    "Tendencia": "C2/12 H2O",
-    "Familia_Olfativa": "FOUGERE",
-    "Nota_Principal": "CÍTRICOS",
-    "DiaNoche": "✅"
-  },
-  {
-    "Clave": "02/01918A",
-    "Tendencia": "C2/12 HEROES",
-    "Familia_Olfativa": "ORIENTAL",
-    "Nota_Principal": "NOTAS ACUOSAS",
-    "DiaNoche": "✅"
-  },
-  {
-    "Clave": "02/00001A",
-    "Tendencia": "C2/12 MAN",
-    "Familia_Olfativa": "MADEROSA",
-    "Nota_Principal": "CÍTRICOS",
-    "DiaNoche": "✅"
-  },
-  {
-    "Clave": "02/00207A",
-    "Tendencia": "C2/12 SEXY MAN",
-    "Familia_Olfativa": "ORIENTAL",
-    "Nota_Principal": "VANILLA",
-    "DiaNoche": "✅"
-  },
-  {
-    "Clave": "02/01078A",
-    "Tendencia": "C2/12 VIP",
-    "Familia_Olfativa": "ORIENTAL",
-    "Nota_Principal": "CÍTRICOS",
-    "DiaNoche": "✅"
-  },
-  {
-    "Clave": "02/01683A",
-    "Tendencia": "C2/12 VIP BLACK",
-    "Familia_Olfativa": "ORIENTAL",
-    "Nota_Principal": "LAVANDA",
-    "DiaNoche": "✅"
-  },
-  {
-    "Clave": "02/01226A",
-    "Tendencia": "C2/12 VIP BLACK NY",
-    "Familia_Olfativa": "ORIENTAL",
-    "Nota_Principal": "CAFÉ",
-    "DiaNoche": "✅"
-  },
-  {
-    "Clave": "02/01812A",
-    "Tendencia": "C2/12 VIP BLACK RED",
-    "Familia_Olfativa": "MADEROSA",
-    "Nota_Principal": "PIMIENTA",
-    "DiaNoche": "✅"
-  },
-  {
-    "Clave": "02/02040A",
-    "Tendencia": "C2/12 VIP WINS",
-    "Familia_Olfativa": "ORIENTAL",
-    "Nota_Principal": "LAVANDA",
-    "DiaNoche": "✅"
-  },
-  {
-    "Clave": "02/00004A",
-    "Tendencia": "C360",
-    "Familia_Olfativa": "ORIENTAL",
-    "Nota_Principal": "LAVANDA",
-    "DiaNoche": "✅"
-  },
-  {
-    "Clave": "02/00883A",
-    "Tendencia": "C360 BLACK",
-    "Familia_Olfativa": "ORIENTAL",
-    "Nota_Principal": "NUEZ MOSCADA",
-    "DiaNoche": "✅"
-  },
-  {
-    "Clave": "02/00692A",
-    "Tendencia": "C360 BLUE",
-    "Familia_Olfativa": "ORIENTAL",
-    "Nota_Principal": "LAVANDA",
-    "DiaNoche": "✅"
-  },
-  {
-    "Clave": "02/00005A",
-    "Tendencia": "C360 RED",
-    "Familia_Olfativa": "FOUGERE",
-    "Nota_Principal": "CÍTRICOS",
-    "DiaNoche": "✅"
-  },
-  {
-    "Clave": "02/02910C",
-    "Tendencia": "CABSOLUTE NOR",
-    "Familia_Olfativa": "ORIENTAL",
-    "Nota_Principal": "CUBIO",
-    "DiaNoche": "✅"
-  },
-  {
-    "Clave": "02/00703A",
-    "Tendencia": "CADIDAS",
-    "Familia_Olfativa": "FOUGERE",
-    "Nota_Principal": "NUEZ MOSCADA",
-    "DiaNoche": "✅"
-  },
-  {
-    "Clave": "02/00723A",
-    "Tendencia": "CALURE",
-    "Familia_Olfativa": "ORIENTAL",
-    "Nota_Principal": "CÍTRICOS",
-    "DiaNoche": "✅"
-  },
-  {
-    "Clave": "02/00205A",
-    "Tendencia": "CALURE HOMME SPOR",
-    "Familia_Olfativa": "MADEROSA",
-    "Nota_Principal": "CÍTRICOS",
-    "DiaNoche": "✅"
-  },
-  {
-    "Clave": "02/00159A",
-    "Tendencia": "CANOR AMOR TENTATI",
-    "Familia_Olfativa": "FOUGERE",
-    "Nota_Principal": "GROSELLA NEGRA",
-    "DiaNoche": "✅"
-  },
-  {
-    "Clave": "02/00012A",
-    "Tendencia": "CANIMAL",
-    "Familia_Olfativa": "FOUGERE",
-    "Nota_Principal": "CÍTRICOS",
-    "DiaNoche": "✅"
-  },
-  {
-    "Clave": "02/00693B",
-    "Tendencia": "CANTEUS",
-    "Familia_Olfativa": "MADEROSA",
-    "Nota_Principal": "SALVIA",
-    "DiaNoche": "✅"
-  },
-  {
-    "Clave": "02/00014A",
-    "Tendencia": "CAQUA GIO",
-    "Familia_Olfativa": "FRESCA",
-    "Nota_Principal": "CÍTRICOS",
-    "DiaNoche": "✅"
-  },
-  {
-    "Clave": "02/01582X",
-    "Tendencia": "CAQUA GIO ABSOLU",
-    "Familia_Olfativa": "MADEROSA",
-    "Nota_Principal": "NOTAS ACUOSAS",
-    "DiaNoche": "✅"
-  },
-  {
-    "Clave": "02/02215A",
-    "Tendencia": "CAQUA GIO PARFUM",
-    "Familia_Olfativa": "FRESCA",
-    "Nota_Principal": "LAVANDA",
-    "DiaNoche": "✅"
-  },
-  {
-    "Clave": "02/01814A",
-    "Tendencia": "CAQUA GIO PROFONDO",
-    "Familia_Olfativa": "ORIENTAL",
-    "Nota_Principal": "ROMERO",
-    "DiaNoche": "✅"
-  },
-  {
-    "Clave": "02/00689A",
-    "Tendencia": "CARAMIS",
-    "Familia_Olfativa": "FOUGERE",
-    "Nota_Principal": "CUBIO",
-    "DiaNoche": "✅"
-  },
-  {
-    "Clave": "02/00692A",
-    "Tendencia": "CARMANI BLACK CODE",
-    "Familia_Olfativa": "ORIENTAL",
-    "Nota_Principal": "CÍTRICOS",
-    "DiaNoche": "✅"
-  },
-  {
-    "Clave": "02/07074A",
-    "Tendencia": "CARMANI CODE ABSO",
-    "Familia_Olfativa": "ORIENTAL",
-    "Nota_Principal": "MANZANA",
-    "DiaNoche": "✅"
-  },
-  {
-    "Clave": "02/02062A",
-    "Tendencia": "CARMANI CODE PARFU",
-    "Familia_Olfativa": "ORIENTAL",
-    "Nota_Principal": "MADERAS",
-    "DiaNoche": "✅"
-  },
-  {
-    "Clave": "02/00685A",
-    "Tendencia": "CAZZARO",
-    "Familia_Olfativa": "ORIENTAL",
-    "Nota_Principal": "LAVANDA",
-    "DiaNoche": "✅"
-  },
-  {
-    "Clave": "02/01725C",
-    "Tendencia": "CBAD BOY",
-    "Familia_Olfativa": "ORIENTAL",
-    "Nota_Principal": "MADERAS",
-    "DiaNoche": "✅"
-  },
-  {
-    "Clave": "02/02864A",
-    "Tendencia": "CBAD BOY DAZZLING",
-    "Familia_Olfativa": "ORIENTAL",
-    "Nota_Principal": "CACAO",
-    "DiaNoche": "✅"
-  },
-  {
-    "Clave": "02/02634A",
-    "Tendencia": "CBAD BOY EXTREME",
-    "Familia_Olfativa": "ORIENTAL",
-    "Nota_Principal": "HABA TONKA",
-    "DiaNoche": "✅"
-  },
-  {
-    "Clave": "02/01964A",
-    "Tendencia": "CBAD BOY LE PARFUM",
-    "Familia_Olfativa": "ORIENTAL",
-    "Nota_Principal": "CUBIO",
-    "DiaNoche": "✅"
-  },
-  {
-    "Clave": "02/02023A",
-    "Tendencia": "CBAD BOY SUPERSIA",
-    "Familia_Olfativa": "ORIENTAL",
-    "Nota_Principal": "PIMIENTA",
-    "DiaNoche": "✅"
-  },
-  {
-    "Clave": "02/01402A",
-    "Tendencia": "CBAD DIESEL",
-    "Familia_Olfativa": "MADEROSA",
-    "Nota_Principal": "CÍTRICOS",
-    "DiaNoche": "✅"
-  },
-  {
-    "Clave": "02/01009A",
-    "Tendencia": "CBLU",
-    "Familia_Olfativa": "ORIENTAL",
-    "Nota_Principal": "MENTA",
-    "DiaNoche": "✅"
-  },
-  {
-    "Clave": "02/00019A",
-    "Tendencia": "CBLUE JEAN",
-    "Familia_Olfativa": "ORIENTAL",
-    "Nota_Principal": "AMBAR",
-    "DiaNoche": "✅"
-  },
-  {
-    "Clave": "02/02203A",
-    "Tendencia": "GEORN IN ROMA ROCK",
-    "Familia_Olfativa": "FOUGERE",
-    "Nota_Principal": "CÍTRICOS",
-    "DiaNoche": "✅"
-  },
-  {
-    "Clave": "02/01035A",
-    "Tendencia": "C3/06 ORANGE MAN",
-    "Familia_Olfativa": "MADEROSA",
-    "Nota_Principal": "VANILLA",
-    "DiaNoche": "✅"
-  },
-  {
-    "Clave": "02/00707A",
-    "Tendencia": "C3/06 SPORT",
-    "Familia_Olfativa": "ORIENTAL",
-    "Nota_Principal": "LAVANDA",
-    "DiaNoche": "✅"
-  },
-  {
-    "Clave": "02/01561A",
-    "Tendencia": "C3/06 SHESSENT",
-    "Familia_Olfativa": "ORIENTAL",
-    "Nota_Principal": "CUBIO",
-    "DiaNoche": "✅"
-  },
-  {
-    "Clave": "02/02035A",
-    "Tendencia": "C3/06 SHESSENT PARE",
-    "Familia_Olfativa": "ORIENTAL",
-    "Nota_Principal": "IRIS",
-    "DiaNoche": "✅"
-  },
-  {
-    "Clave": "02/00022A",
-    "Tendencia": "C3/06 THED",
-    "Familia_Olfativa": "MADEROSA",
-    "Nota_Principal": "MADERAS",
-    "DiaNoche": "✅"
-  },
-  {
-    "Clave": "02/01786A",
-    "Tendencia": "C3/06 THED ABSOLUTE",
-    "Familia_Olfativa": "MADEROSA",
-    "Nota_Principal": "MADERAS",
-    "DiaNoche": "✅"
-  },
-  {
-    "Clave": "02/02221A",
-    "Tendencia": "C3/06 THED ELIXIR",
-    "Familia_Olfativa": "MADEROSA",
-    "Nota_Principal": "INCENSO",
-    "DiaNoche": "✅"
-  },
-  {
-    "Clave": "02/01721A",
-    "Tendencia": "C3/06 THED INFINITE",
-    "Familia_Olfativa": "MADEROSA",
-    "Nota_Principal": "SÁNDALO",
-    "DiaNoche": "✅"
-  },
-  {
-    "Clave": "02/01307A",
-    "Tendencia": "C3/06 THED INTENS",
-    "Familia_Olfativa": "MADEROSA",
-    "Nota_Principal": "MANZANA",
-    "DiaNoche": "✅"
-  },
-  {
-    "Clave": "02/02071A",
-    "Tendencia": "C3/06 THED MARINE",
-    "Familia_Olfativa": "MADEROSA",
-    "Nota_Principal": "MENTA",
-    "DiaNoche": "✅"
-  },
-  {
-    "Clave": "02/01990A",
-    "Tendencia": "C3/06 THED UNITED",
-    "Familia_Olfativa": "MADEROSA",
-    "Nota_Principal": "CÍTRICOS",
-    "DiaNoche": "✅"
-  },
-  {
-    "Clave": "02/00733A",
-    "Tendencia": "C3/06 UCHERON",
-    "Familia_Olfativa": "FOUGERE",
-    "Nota_Principal": "CÍTRICOS",
-    "DiaNoche": "✅"
-  },
-  {
-    "Clave": "02/00029A",
-    "Tendencia": "C3/06 BERRY'S",
-    "Familia_Olfativa": "MADEROSA",
-    "Nota_Principal": "LAVANDA",
-    "DiaNoche": "✅"
-  },
-  {
-    "Clave": "02/00716B",
-    "Tendencia": "C3/06 GARI",
-    "Familia_Olfativa": "ORIENTAL",
-    "Nota_Principal": "VETIVER",
-    "DiaNoche": "✅"
-  },
-  {
-    "Clave": "02/00253A",
-    "Tendencia": "C3/06 GARI",
-    "Familia_Olfativa": "MADEROSA",
-    "Nota_Principal": "SÁNDALO",
-    "DiaNoche": "✅"
-  },
-  {
-    "Clave": "02/00324A",
-    "Tendencia": "C3/06 GARI",
-    "Familia_Olfativa": "FOUGERE",
-    "Nota_Principal": "CÍTRICOS",
-    "DiaNoche": "✅"
-  },
-  {
-    "Clave": "02/01196B",
-    "Tendencia": "C3/06 GARI",
-    "Familia_Olfativa": "ORIENTAL",
-    "Nota_Principal": "SÁNDALO",
-    "DiaNoche": "✅"
-  },
-  {
-    "Clave": "02/02052A",
-    "Tendencia": "C3/06 GARI",
-    "Familia_Olfativa": "ORIENTAL",
-    "Nota_Principal": "CÍTRICOS",
-    "DiaNoche": "✅"
-  },
-  {
-    "Clave": "02/00866A",
-    "Tendencia": "C3/06 GARI",
-    "Familia_Olfativa": "MADEROSA",
-    "Nota_Principal": "SÁNDALO",
-    "DiaNoche": "✅"
-  },
-  {
-    "Clave": "02/02660A",
-    "Tendencia": "C3/06 GARI",
-    "Familia_Olfativa": "ORIENTAL",
-    "Nota_Principal": "CÍTRICOS",
-    "DiaNoche": "✅"
-  },
-  {
-    "Clave": "02/01723A",
-    "Tendencia": "C3/06 GARI",
-    "Familia_Olfativa": "ORIENTAL",
-    "Nota_Principal": "LAVANDA",
-    "DiaNoche": "✅"
-  },
-  {
-    "Clave": "02/02767A",
-    "Tendencia": "C3/06 GARI",
-    "Familia_Olfativa": "ORIENTAL",
-    "Nota_Principal": "AMBERWOOD",
-    "DiaNoche": "✅"
-  },
-  {
-    "Clave": "02/01554A",
-    "Tendencia": "C3/06 GARI",
-    "Familia_Olfativa": "FOUGERE",
-    "Nota_Principal": "CÍTRICOS",
-    "DiaNoche": "✅"
-  },
-  {
-    "Clave": "02/00713B",
-    "Tendencia": "C3/06 GARI",
-    "Familia_Olfativa": "FRESCA",
-    "Nota_Principal": "CÍTRICOS",
-    "DiaNoche": "✅"
-  },
-  {
-    "Clave": "02/02234A",
-    "Tendencia": "C3/06 GARI",
-    "Familia_Olfativa": "FRESCA",
-    "Nota_Principal": "CÍTRICOS",
-    "DiaNoche": "✅"
-  },
-  {
-    "Clave": "02/01997A",
-    "Tendencia": "C3/06 GARI",
-    "Familia_Olfativa": "ORIENTAL",
-    "Nota_Principal": "BERGAMOTA",
-    "DiaNoche": "✅"
-  },
-  {
-    "Clave": "02/02396A",
-    "Tendencia": "C3/06 GARI",
-    "Familia_Olfativa": "FOUGERE",
-    "Nota_Principal": "MANDARINA",
-    "DiaNoche": "✅"
-  },
-  {
-    "Clave": "02/02029A",
-    "Tendencia": "C3/06 GARI",
-    "Familia_Olfativa": "ORIENTAL",
-    "Nota_Principal": "PACHULI",
-    "DiaNoche": "✅"
-  },
-  {
-    "Clave": "02/00424A",
-    "Tendencia": "C3/06 GARI",
-    "Familia_Olfativa": "FRESCA",
-    "Nota_Principal": "NOTAS ACUOSAS",
-    "DiaNoche": "✅"
-  },
-  {
-    "Clave": "02/02206A",
-    "Tendencia": "C3/06 GARI",
-    "Familia_Olfativa": "MADEROSA",
-    "Nota_Principal": "MANZANA",
-    "DiaNoche": "✅"
-  },
-  {
-    "Clave": "02/01470A",
-    "Tendencia": "C3/06 GARI",
-    "Familia_Olfativa": "ORIENTAL",
-    "Nota_Principal": "NEROLI",
-    "DiaNoche": "✅"
-  },
-  {
-    "Clave": "02/00708B",
-    "Tendencia": "C3/06 GARI",
-    "Familia_Olfativa": "ORIENTAL",
-    "Nota_Principal": "LAVANDA",
-    "DiaNoche": "✅"
-  },
-  {
-    "Clave": "02/00464A",
-    "Tendencia": "C3/06 GARI",
-    "Familia_Olfativa": "MADEROSA",
-    "Nota_Principal": "MADERAS",
-    "DiaNoche": "✅"
-  },
-  {
-    "Clave": "02/01994A",
-    "Tendencia": "C3/06 GARI",
-    "Familia_Olfativa": "MADEROSA",
-    "Nota_Principal": "VETIVER",
-    "DiaNoche": "✅"
-  },
-  {
-    "Clave": "02/02246A",
-    "Tendencia": "C3/06 GARI",
-    "Familia_Olfativa": "MADEROSA",
-    "Nota_Principal": "LAVANDA",
-    "DiaNoche": "✅"
-  },
-  {
-    "Clave": "02/01211A",
-    "Tendencia": "C3/06 GARI",
-    "Familia_Olfativa": "ORIENTAL",
-    "Nota_Principal": "PACHULI",
-    "DiaNoche": "✅"
-  },
-  {
-    "Clave": "02/00447A",
-    "Tendencia": "C3/06 GARI",
-    "Familia_Olfativa": "ORIENTAL",
-    "Nota_Principal": "PIMIENTA",
-    "DiaNoche": "✅"
-  },
-  {
-    "Clave": "02/01801A",
-    "Tendencia": "C3/06 GARI",
-    "Familia_Olfativa": "MADEROSA",
-    "Nota_Principal": "CÍTRICOS",
-    "DiaNoche": "✅"
-  },
-  {
-    "Clave": "02/00443A",
-    "Tendencia": "C3/06 GARI",
-    "Familia_Olfativa": "ORIENTAL",
-    "Nota_Principal": "LAVANDA",
-    "DiaNoche": "✅"
-  },
-  {
-    "Clave": "02/00449A",
-    "Tendencia": "C3/06 GARI",
-    "Familia_Olfativa": "ORIENTAL",
-    "Nota_Principal": "LAVANDA",
-    "DiaNoche": "✅"
-  },
-  {
-    "Clave": "02/01400A",
-    "Tendencia": "C3/06 GARI",
-    "Familia_Olfativa": "FOUGERE",
-    "Nota_Principal": "CÍTRICOS",
-    "DiaNoche": "✅"
-  },
-  {
-    "Clave": "02/00677B",
-    "Tendencia": "CEGOISTE",
-    "Familia_Olfativa": "MADEROSA",
-    "Nota_Principal": "TABACO",
-    "DiaNoche": "❤️"
-  },
-  {
-    "Clave": "02/00053A",
-    "Tendencia": "CEMPORIO ARMANI",
-    "Familia_Olfativa": "MADEROSA",
-    "Nota_Principal": "CÍTRICOS",
-    "DiaNoche": "❤️"
-  },
-  {
-    "Clave": "02/00055A",
-    "Tendencia": "CENOLISI LEATHER",
-    "Familia_Olfativa": "FOUGERE",
-    "Nota_Principal": "CÍTRICOS",
-    "DiaNoche": "❤️"
-  },
-  {
-    "Clave": "02/01033A",
-    "Tendencia": "CEROS",
-    "Familia_Olfativa": "ORIENTAL",
-    "Nota_Principal": "MADERAS",
-    "DiaNoche": "❤️"
-  },
-  {
-    "Clave": "02/02349A",
-    "Tendencia": "CEROS FLAME",
-    "Familia_Olfativa": "MADEROSA",
-    "Nota_Principal": "CÍTRICOS",
-    "DiaNoche": "❤️"
-  },
-  {
-    "Clave": "02/00707B",
-    "Tendencia": "CESSENTIAL",
-    "Familia_Olfativa": "MADEROSA",
-    "Nota_Principal": "SÁNDALO",
-    "DiaNoche": "❤️"
-  },
-  {
-    "Clave": "02/00957A",
-    "Tendencia": "CETERNITY",
-    "Familia_Olfativa": "ORIENTAL",
-    "Nota_Principal": "PIÑA",
-    "DiaNoche": "❤️"
-  },
-  {
-    "Clave": "02/02098A",
-    "Tendencia": "CETERNITY PARLUM",
-    "Familia_Olfativa": "MADEROSA",
-    "Nota_Principal": "LAVANDA",
-    "DiaNoche": "❤️"
-  },
-  {
-    "Clave": "02/00772A",
-    "Tendencia": "CLUPHORIA",
-    "Familia_Olfativa": "MADEROSA",
-    "Nota_Principal": "PACHULI",
-    "DiaNoche": "❤️"
-  },
-  {
-    "Clave": "02/01710C",
-    "Tendencia": "CEXPLORER",
-    "Familia_Olfativa": "MADEROSA",
-    "Nota_Principal": "PACHULI",
-    "DiaNoche": "❤️"
-  },
-  {
-    "Clave": "02/01049F",
-    "Tendencia": "CEXTREME SPORT",
-    "Familia_Olfativa": "MADEROSA",
-    "Nota_Principal": "NOTAS VERDES",
-    "DiaNoche": "❤️"
-  },
-  {
-    "Clave": "02/00059A",
-    "Tendencia": "CFAREMHEIT",
-    "Familia_Olfativa": "MADEROSA",
-    "Nota_Principal": "CLAVO",
-    "DiaNoche": "❤️"
-  },
-  {
-    "Clave": "02/00200A",
-    "Tendencia": "CTERRAIN BLACK MEN",
-    "Familia_Olfativa": "ORIENTAL",
-    "Nota_Principal": "MADERAS",
-    "DiaNoche": "❤️"
-  },
-  {
-    "Clave": "02/01071A",
-    "Tendencia": "CTERRAIN RED MAN",
-    "Familia_Olfativa": "ORIENTAL",
-    "Nota_Principal": "CÍTRICOS",
-    "DiaNoche": "❤️"
-  },
-  {
-    "Clave": "02/00865A",
-    "Tendencia": "CHERCE",
-    "Familia_Olfativa": "MADEROSA",
-    "Nota_Principal": "VETIVER",
-    "DiaNoche": "❤️"
-  },
-  {
-    "Clave": "02/02295A",
-    "Tendencia": "COATNET MALLIMA",
-    "Familia_Olfativa": "ORIENTAL",
-    "Nota_Principal": "LAVANDA",
-    "DiaNoche": "❤️"
-  },
-  {
-    "Clave": "02/02925A",
-    "Tendencia": "COENTLEMAN SOCIETY",
-    "Familia_Olfativa": "ORIENTAL",
-    "Nota_Principal": "CARDAMOMO",
-    "DiaNoche": "❤️"
-  },
-  {
-    "Clave": "02/01456A",
-    "Tendencia": "COOLO RUSH",
-    "Familia_Olfativa": "ORIENTAL",
-    "Nota_Principal": "GERANIO",
-    "DiaNoche": "❤️"
-  },
-  {
-    "Clave": "02/02262A",
-    "Tendencia": "CORREN CACTUS HIM",
-    "Familia_Olfativa": "FOUGERE",
-    "Nota_Principal": "CÍTRICOS",
-    "DiaNoche": "❤️"
-  },
-  {
-    "Clave": "02/00678A",
-    "Tendencia": "CCERT FLAN",
-    "Familia_Olfativa": "MADEROSA",
-    "Nota_Principal": "MADERAS",
-    "DiaNoche": "❤️"
-  },
-  {
-    "Clave": "02/01021A",
-    "Tendencia": "CGUCCI GUILTY",
-    "Familia_Olfativa": "MADEROSA",
-    "Nota_Principal": "MADERAS",
-    "DiaNoche": "❤️"
-  },
-  {
-    "Clave": "02/01203A",
-    "Tendencia": "CGUCCI GUILTY BLAC",
-    "Familia_Olfativa": "ORIENTAL",
-    "Nota_Principal": "LAVANDA",
-    "DiaNoche": "❤️"
-  },
-  {
-    "Clave": "02/02283A",
-    "Tendencia": "CGUCCI GUILTY ELSE",
-    "Familia_Olfativa": "FRESCA",
-    "Nota_Principal": "OSMANTO",
-    "DiaNoche": "❤️"
-  },
-  {
-    "Clave": "02/00714A",
-    "Tendencia": "CGUISS",
-    "Familia_Olfativa": "MADEROSA",
-    "Nota_Principal": "SÁNDALO",
-    "DiaNoche": "❤️"
-  },
-  {
-    "Clave": "02/01139A",
-    "Tendencia": "CHALLOWEEN MAN",
-    "Familia_Olfativa": "ORIENTAL",
-    "Nota_Principal": "AMBAR",
-    "DiaNoche": "❤️"
-  },
-  {
-    "Clave": "02/01730C",
-    "Tendencia": "CHALLOWEEN MAN X",
-    "Familia_Olfativa": "ORIENTAL",
-    "Nota_Principal": "CARDAMOMO",
-    "DiaNoche": "❤️"
-  },
-  {
-    "Clave": "02/00669A",
-    "Tendencia": "CHAPPY MEN",
-    "Familia_Olfativa": "ORIENTAL",
-    "Nota_Principal": "NOTAS ACUOSAS",
-    "DiaNoche": "❤️"
-  },
-  {
-    "Clave": "02/01999A",
-    "Tendencia": "CHERO",
-    "Familia_Olfativa": "MADEROSA",
-    "Nota_Principal": "MADERAS",
-    "DiaNoche": "❤️"
-  },
-  {
-    "Clave": "02/00033A",
-    "Tendencia": "CHERRERA",
-    "Familia_Olfativa": "MADEROSA",
-    "Nota_Principal": "GERANIO",
-    "DiaNoche": "❤️"
-  },
-  {
-    "Clave": "02/00486A",
-    "Tendencia": "CHOLISTER JAKE",
-    "Familia_Olfativa": "ORIENTAL",
-    "Nota_Principal": "MADERAS",
-    "DiaNoche": "❤️"
-  },
-  {
-    "Clave": "02/00672A",
-    "Tendencia": "CHUGO",
-    "Familia_Olfativa": "ORIENTAL",
-    "Nota_Principal": "SALVIA",
-    "DiaNoche": "❤️"
-  },
-  {
-    "Clave": "02/00694A",
-    "Tendencia": "CHUGO ENERGISE",
-    "Familia_Olfativa": "MADEROSA",
-    "Nota_Principal": "MADERAS",
-    "DiaNoche": "❤️"
-  },
-  {
-    "Clave": "02/01444C",
-    "Tendencia": "CHUGO ICED",
-    "Familia_Olfativa": "FRESCA",
-    "Nota_Principal": "MENTA",
-    "DiaNoche": "❤️"
-  },
-  {
-    "Clave": "02/02146A",
-    "Tendencia": "CHUGO JEANS",
-    "Familia_Olfativa": "FRESCA",
-    "Nota_Principal": "CÍTRICOS",
-    "DiaNoche": "❤️"
-  },
-  {
-    "Clave": "02/0188A",
-    "Tendencia": "CHUGO RED",
-    "Familia_Olfativa": "ORIENTAL",
-    "Nota_Principal": "CÍTRICOS",
-    "DiaNoche": "❤️"
-  },
-  {
-    "Clave": "02/01560X",
-    "Tendencia": "CHUGO URBAN JOURNE",
-    "Familia_Olfativa": "MADEROSA",
-    "Nota_Principal": "TÉ NEGRO",
-    "DiaNoche": "❤️"
-  },
-  {
-    "Clave": "02/01819A",
-    "Tendencia": "CIMPACT",
-    "Familia_Olfativa": "ORIENTAL",
-    "Nota_Principal": "CÍTRICOS",
-    "DiaNoche": "❤️"
-  },
-  {
-    "Clave": "02/02434",
-    "Tendencia": "CINTEN WOOD NICOLA",
-    "Familia_Olfativa": "ORIENTAL",
-    "Nota_Principal": "TORONJA",
-    "DiaNoche": "❤️"
-  },
-  {
-    "Clave": "02/02400A",
-    "Tendencia": "CINTENSE EDP HUGO",
-    "Familia_Olfativa": "ORIENTAL",
-    "Nota_Principal": "CANELA",
-    "DiaNoche": "❤️"
-  },
-  {
-    "Clave": "02/01211A",
-    "Tendencia": "CNVICTUS",
-    "Familia_Olfativa": "MADEROSA",
-    "Nota_Principal": "NOTAS ACUOSAS",
-    "DiaNoche": "❤️"
-  },
-  {
-    "Clave": "02/01582A",
-    "Tendencia": "CNVICTUS AQUA 1B",
-    "Familia_Olfativa": "MADEROSA",
-    "Nota_Principal": "AMBERWOOD",
-    "DiaNoche": "❤️"
-  },
-  {
-    "Clave": "02/02228A",
-    "Tendencia": "CNVICTUS ELIXIR",
-    "Familia_Olfativa": "ORIENTAL",
-    "Nota_Principal": "OLIVANO",
-    "DiaNoche": "❤️"
-  },
-  {
-    "Clave": "02/01526A",
-    "Tendencia": "CNVICTUS INTENSE",
-    "Familia_Olfativa": "ORIENTAL",
-    "Nota_Principal": "AMBAR",
-    "DiaNoche": "❤️"
-  },
-  {
-    "Clave": "02/01719A",
-    "Tendencia": "CNVICTUS LEGEND",
-    "Familia_Olfativa": "MADEROSA",
-    "Nota_Principal": "MADERAS",
-    "DiaNoche": "❤️"
-  },
-  {
-    "Clave": "02/02047A",
-    "Tendencia": "CNVICTUS PLATINUM",
-    "Familia_Olfativa": "MADEROSA",
-    "Nota_Principal": "MADERAS",
-    "DiaNoche": "❤️"
-  },
-  {
-    "Clave": "02/01966A",
-    "Tendencia": "CNVICTUS VICTORY",
-    "Familia_Olfativa": "ORIENTAL",
-    "Nota_Principal": "AMBAR",
-    "DiaNoche": "❤️"
-  },
-  {
-    "Clave": "02/00699A",
-    "Tendencia": "CIORDAN",
-    "Familia_Olfativa": "FOUGERE",
-    "Nota_Principal": "SALVIA",
-    "DiaNoche": "❤️"
-  },
-  {
-    "Clave": "02/00147A",
-    "Tendencia": "CIOVAN MUSK",
-    "Familia_Olfativa": "MADEROSA",
-    "Nota_Principal": "MADERAS",
-    "DiaNoche": "❤️"
-  },
-  {
-    "Clave": "02/01909A",
-    "Tendencia": "CK BY DG",
-    "Familia_Olfativa": "MADEROSA",
-    "Nota_Principal": "BAYAS DE ENEBRO",
-    "DiaNoche": "❤️"
-  },
-  {
-    "Clave": "02/00774A",
-    "Tendencia": "CKEYICO",
-    "Familia_Olfativa": "FRESCA",
-    "Nota_Principal": "SALVIA",
-    "DiaNoche": "❤️"
-  },
-  {
-    "Clave": "02/02051A",
-    "Tendencia": "CKEYICO EDP",
-    "Familia_Olfativa": "FOUGERE",
-    "Nota_Principal": "NOTAS ACUOSAS",
-    "DiaNoche": "❤️"
-  },
-  {
-    "Clave": "02/01375A",
-    "Tendencia": "CKING OF SEDUCTION",
-    "Familia_Olfativa": "MADEROSA",
-    "Nota_Principal": "CÍTRICOS",
-    "DiaNoche": "❤️"
-  },
-  {
-    "Clave": "02/01614A",
-    "Tendencia": "CL122 BLANC PURE",
-    "Familia_Olfativa": "MADEROSA",
-    "Nota_Principal": "ROMERO",
-    "DiaNoche": "❤️"
-  },
-  {
-    "Clave": "02/01244A",
-    "Tendencia": "CLACOSTE HOMME",
-    "Familia_Olfativa": "MADEROSA",
-    "Nota_Principal": "CRUELA",
-    "DiaNoche": "❤️"
-  },
-  {
-    "Clave": "02/00675A",
-    "Tendencia": "CLACOSTE RED",
-    "Familia_Olfativa": "ORIENTAL",
-    "Nota_Principal": "MANZANA VERDE",
-    "DiaNoche": "❤️"
-  },
-  {
-    "Clave": "02/01992A",
-    "Tendencia": "CLARUITDELHOMME",
-    "Familia_Olfativa": "ORIENTAL",
-    "Nota_Principal": "CARDAMOMO",
-    "DiaNoche": "❤️"
-  },
-  {
-    "Clave": "02/01861A",
-    "Tendencia": "CLE BEAU",
-    "Familia_Olfativa": "MADEROSA",
-    "Nota_Principal": "CÍTRICOS",
-    "DiaNoche": "❤️"
-  },
-  {
-    "Clave": "02/02252A",
-    "Tendencia": "CLE BEAU PARADISE",
-    "Familia_Olfativa": "MADEROSA",
-    "Nota_Principal": "NOTAS VERDES",
-    "DiaNoche": "❤️"
-  },
-  {
-    "Clave": "02/0079A",
-    "Tendencia": "CLE MALE",
-    "Familia_Olfativa": "ORIENTAL",
-    "Nota_Principal": "LAVANDA",
-    "DiaNoche": "❤️"
-  },
-  {
-    "Clave": "02/01962A",
-    "Tendencia": "CLE MALE AVIATOR",
-    "Familia_Olfativa": "ORIENTAL",
-    "Nota_Principal": "MENTA",
-    "DiaNoche": "❤️"
-  },
-  {
-    "Clave": "02/0289A",
-    "Tendencia": "CLE MALE ELIXIR",
-    "Familia_Olfativa": "ORIENTAL",
-    "Nota_Principal": "LAVANDA",
-    "DiaNoche": "❤️"
-  },
-  {
-    "Clave": "02/01966A",
-    "Tendencia": "CLE MALE LE PARFUM",
-    "Familia_Olfativa": "MADEROSA",
-    "Nota_Principal": "LAVANDA",
-    "DiaNoche": "❤️"
-  },
-  {
-    "Clave": "02/02292A",
-    "Tendencia": "CLE MALE XMAS Z3",
-    "Familia_Olfativa": "ORIENTAL",
-    "Nota_Principal": "MENTA",
-    "DiaNoche": "❤️"
-  },
-  {
-    "Clave": "02/00140A",
-    "Tendencia": "CLEAU DISSEY",
-    "Familia_Olfativa": "MADEROSA",
-    "Nota_Principal": "SÁNDALO",
-    "DiaNoche": "❤️"
-  },
-  {
-    "Clave": "02/02231A",
-    "Tendencia": "CLEAU DISSEY VETIV",
-    "Familia_Olfativa": "MADEROSA",
-    "Nota_Principal": "VETIVER",
-    "DiaNoche": "❤️"
-  },
-  {
-    "Clave": "02/01048A",
-    "Tendencia": "CLEGEND",
-    "Familia_Olfativa": "ORIENTAL",
-    "Nota_Principal": "LAVANDA",
-    "DiaNoche": "❤️"
-  },
-  {
-    "Clave": "02/02340A",
-    "Tendencia": "CLEGEND BLUE",
-    "Familia_Olfativa": "MADEROSA",
-    "Nota_Principal": "LAVANDA",
-    "DiaNoche": "❤️"
-  },
-  {
-    "Clave": "02/01224A",
-    "Tendencia": "CLEGEND INTENSE",
-    "Familia_Olfativa": "ORIENTAL",
-    "Nota_Principal": "MENTA",
-    "DiaNoche": "❤️"
-  },
-  {
-    "Clave": "02/02224A",
-    "Tendencia": "CLEGEND RED",
-    "Familia_Olfativa": "ORIENTAL",
-    "Nota_Principal": "CÍTRICOS",
-    "DiaNoche": "❤️"
-  },
-  {
-    "Clave": "02/01564A",
-    "Tendencia": "CLEGEND SYNTH",
-    "Familia_Olfativa": "MADEROSA",
-    "Nota_Principal": "MADERAS",
-    "DiaNoche": "❤️"
-  },
-  {
-    "Clave": "02/00423A",
-    "Tendencia": "CLIGHT BLUE",
-    "Familia_Olfativa": "ORIENTAL",
-    "Nota_Principal": "CÍTRICOS",
-    "DiaNoche": "❤️"
-  },
-  {
-    "Clave": "02/01995A",
-    "Tendencia": "CLIGHT BLUE FOREVE",
-    "Familia_Olfativa": "MADEROSA",
-    "Nota_Principal": "NOTAS ACUOSAS",
-    "DiaNoche": "❤️"
-  },
-  {
-    "Clave": "02/0298A",
-    "Tendencia": "CLIGHT BLUE SUMVIR",
-    "Familia_Olfativa": "MADEROSA",
-    "Nota_Principal": "CÍTRICOS",
-    "DiaNoche": "❤️"
-  },
-  {
-    "Clave": "02/01448A",
-    "Tendencia": "CLUNA ROSSA CARBON",
-    "Familia_Olfativa": "FOUGERE",
-    "Nota_Principal": "LAVANDA",
-    "DiaNoche": "❤️"
-  },
-  {
-    "Clave": "02/02255A",
-    "Tendencia": "CLUNA ROSSA OCEAN",
-    "Familia_Olfativa": "ORIENTAL",
-    "Nota_Principal": "CÍTRICOS",
-    "DiaNoche": "❤️"
-  },
-  {
-    "Clave": "02/0080A",
-    "Tendencia": "CMADRAS",
-    "Familia_Olfativa": "FOUGERE",
-    "Nota_Principal": "ALBAHACA",
-    "DiaNoche": "❤️"
-  },
-  {
-    "Clave": "02/00680A",
-    "Tendencia": "CMAMBO MEN",
-    "Familia_Olfativa": "ORIENTAL",
-    "Nota_Principal": "LAVANDA",
-    "DiaNoche": "❤️"
-  },
-  {
-    "Clave": "02/02996A",
-    "Tendencia": "CMB SING UR ATTITU",
-    "Familia_Olfativa": "FRESCA",
-    "Nota_Principal": "CÍTRICOS",
-    "DiaNoche": "❤️"
-  },
-  {
-    "Clave": "02/00081A",
-    "Tendencia": "CMINOTALINO",
-    "Familia_Olfativa": "ORIENTAL",
-    "Nota_Principal": "SÁNDALO",
-    "DiaNoche": "❤️"
-  },
-  {
-    "Clave": "02/02322A",
-    "Tendencia": "CMYSLE EDP",
-    "Familia_Olfativa": "ORIENTAL",
-    "Nota_Principal": "CÍTRICOS",
-    "DiaNoche": "❤️"
-  },
-  {
-    "Clave": "02/00085A",
-    "Tendencia": "CNALITICA",
-    "Familia_Olfativa": "MADEROSA",
-    "Nota_Principal": "PACHULI",
-    "DiaNoche": "❤️"
+    "clave": "02/00635A",
+    "tendencia": "C1 MILLION",
+    "familia_olfativa": "ORIENTAL",
+    "nota_principal": "CÍTRICOS",
+    "dia_noche": "✅",
+    "tipo":"N",
+    "genero":"C"
+  },
+  {
+    "clave": "02/01584A",
+    "tendencia": "C1 MILLION LUCKY",
+    "familia_olfativa": "MADEROSA",
+    "nota_principal": "CÍTRICOS",
+    "dia_noche": "✅",
+    "tipo":"N",
+    "genero":"C"
+  },
+  {
+    "clave": "02/02130A",
+    "tendencia": "C1 MILLION ROYAL",
+    "familia_olfativa": "ORIENTAL",
+    "nota_principal": "CARDAMOMO",
+    "dia_noche": "✅",
+    "tipo":"N",
+    "genero":"C"
+  },
+  {
+    "clave": "02/00002A",
+    "tendencia": "C212 H2O",
+    "familia_olfativa": "FOUGERE",
+    "nota_principal": "CÍTRICOS",
+    "dia_noche": "✅",
+    "tipo":"N",
+    "genero":"C"
+  },
+  {
+    "clave": "02/01918A",
+    "tendencia": "C212 HEROES",
+    "familia_olfativa": "ORIENTAL",
+    "nota_principal": "NOTAS ACUOSAS",
+    "dia_noche": "✅",
+    "tipo":"N",
+    "genero":"C"
+  },
+  {
+    "clave": "02/00001A",
+    "tendencia": "C212 MAN",
+    "familia_olfativa": "MADEROSA",
+    "nota_principal": "CÍTRICOS",
+    "dia_noche": "✅",
+    "tipo":"N",
+    "genero":"C"
+  },
+  {
+    "clave": "02/00207A",
+    "tendencia": "C212 SEXY MAN",
+    "familia_olfativa": "ORIENTAL",
+    "nota_principal": "VANILLA",
+    "dia_noche": "✅",
+    "tipo":"N",
+    "genero":"C"
+  },
+  {
+    "clave": "02/01078A",
+    "tendencia": "C212 VIP",
+    "familia_olfativa": "ORIENTAL",
+    "nota_principal": "CÍTRICOS",
+    "dia_noche": "✅",
+    "tipo":"N",
+    "genero":"C"
+  },
+  {
+    "clave": "02/01683A",
+    "tendencia": "C212 VIP BLACK",
+    "familia_olfativa": "ORIENTAL",
+    "nota_principal": "LAVANDA",
+    "dia_noche": "✅",
+    "tipo":"N",
+    "genero":"C"
+  },
+  {
+    "clave": "02/02126A",
+    "tendencia": "C212 VIP BLACK NY",
+    "familia_olfativa": "ORIENTAL",
+    "nota_principal": "CAFÉ",
+    "dia_noche": "✅",
+    "tipo":"N",
+    "genero":"C"
+  },
+  {
+    "clave": "02/01812A",
+    "tendencia": "C212 VIP BLACK RED",
+    "familia_olfativa": "MADEROSA",
+    "nota_principal": "PIMIENTA",
+    "dia_noche": "✅",
+    "tipo":"N",
+    "genero":"C"
+  },
+  {
+    "clave": "02/02040A",
+    "tendencia": "C212 VIP WINS",
+    "familia_olfativa": "ORIENTAL",
+    "nota_principal": "LAVANDA",
+    "dia_noche": "✅",
+    "tipo":"N",
+    "genero":"C"
+  },
+  {
+    "clave": "02/00004A",
+    "tendencia": "C360",
+    "familia_olfativa": "ORIENTAL",
+    "nota_principal": "LAVANDA",
+    "dia_noche": "✅",
+    "tipo":"N",
+    "genero":"C"
+  },
+  {
+    "clave": "02/00683A",
+    "tendencia": "C360 BLACK",
+    "familia_olfativa": "ORIENTAL",
+    "nota_principal": "NUEZ MOSCADA",
+    "dia_noche": "✅",
+    "tipo":"N",
+    "genero":"C"
+  },
+  {
+    "clave": "02/00692A",
+    "tendencia": "C360 BLUE",
+    "familia_olfativa": "ORIENTAL",
+    "nota_principal": "LAVANDA",
+    "dia_noche": "✅",
+    "tipo":"N",
+    "genero":"C"
+  },
+  {
+    "clave": "02/00005A",
+    "tendencia": "C360 RED",
+    "familia_olfativa": "FOUGERE",
+    "nota_principal": "CÍTRICOS",
+    "dia_noche": "✅",
+    "tipo":"N",
+    "genero":"C"
+  },
+  {
+    "clave": "02/02091C",
+    "tendencia": "CABSOLUTE NOIR",
+    "familia_olfativa": "ORIENTAL",
+    "nota_principal": "CUBIO",
+    "dia_noche": "✅",
+    "tipo":"N",
+    "genero":"C"
+  },
+  {
+    "clave": "02/00710A",
+    "tendencia": "CADIDAS",
+    "familia_olfativa": "FOUGERE",
+    "nota_principal": "NUEZ MOSCADA",
+    "dia_noche": "✅",
+    "tipo":"N",
+    "genero":"C"
+  },
+  {
+    "clave": "02/00723A",
+    "tendencia": "CALLURE",
+    "familia_olfativa": "ORIENTAL",
+    "nota_principal": "CÍTRICOS",
+    "dia_noche": "✅",
+    "tipo":"N",
+    "genero":"C"
+  },
+  {
+    "clave": "02/00205A",
+    "tendencia": "CALLURE HOMME SPOR",
+    "familia_olfativa": "MADEROSA",
+    "nota_principal": "CÍTRICOS",
+    "dia_noche": "✅",
+    "tipo":"N",
+    "genero":"C"
+  },
+  {
+    "clave": "02/00159A",
+    "tendencia": "CAMOR AMOR TENTATI",
+    "familia_olfativa": "FOUGERE",
+    "nota_principal": "GROSELLA NEGRA",
+    "dia_noche": "✅",
+    "tipo":"N",
+    "genero":"C"
+  },
+  {
+    "clave": "02/00012A",
+    "tendencia": "CANIMAL",
+    "familia_olfativa": "FOUGERE",
+    "nota_principal": "CÍTRICOS",
+    "dia_noche": "✅",
+    "tipo":"N",
+    "genero":"C"
+  },
+  {
+    "clave": "02/00693B",
+    "tendencia": "CANTEUS",
+    "familia_olfativa": "MADEROSA",
+    "nota_principal": "SALVIA",
+    "dia_noche": "✅",
+    "tipo":"N",
+    "genero":"C"
+  },
+  {
+    "clave": "02/00014A",
+    "tendencia": "CAQUA GIO",
+    "familia_olfativa": "FRESCA",
+    "nota_principal": "CÍTRICOS",
+    "dia_noche": "✅",
+    "tipo":"N",
+    "genero":"C"
+  },
+  {
+    "clave": "02/01562X",
+    "tendencia": "CAQUA GIO ABSOLU",
+    "familia_olfativa": "MADEROSA",
+    "nota_principal": "NOTAS ACUOSAS",
+    "dia_noche": "✅",
+    "tipo":"N",
+    "genero":"C"
+  },
+  {
+    "clave": "02/02215A",
+    "tendencia": "CAQUA GIO PARFUM",
+    "familia_olfativa": "FRESCA",
+    "nota_principal": "LAVANDA",
+    "dia_noche": "✅",
+    "tipo":"N",
+    "genero":"C"
+  },
+  {
+    "clave": "02/01814A",
+    "tendencia": "CAQUA GIO PROFONDO",
+    "familia_olfativa": "ORIENTAL",
+    "nota_principal": "ROMERO",
+    "dia_noche": "✅",
+    "tipo":"N",
+    "genero":"C"
+  },
+  {
+    "clave": "02/00689A",
+    "tendencia": "CARAMIS",
+    "familia_olfativa": "FOUGERE",
+    "nota_principal": "CUBIO",
+    "dia_noche": "✅",
+    "tipo":"N",
+    "genero":"C"
+  },
+  {
+    "clave": "02/00682A",
+    "tendencia": "CARMANI BLACK CODE",
+    "familia_olfativa": "ORIENTAL",
+    "nota_principal": "CÍTRICOS",
+    "dia_noche": "✅",
+    "tipo":"N",
+    "genero":"C"
+  },
+  {
+    "clave": "02/01704A",
+    "tendencia": "CARMANI CODE ABSO",
+    "familia_olfativa": "ORIENTAL",
+    "nota_principal": "MANZANA",
+    "dia_noche": "✅",
+    "tipo":"N",
+    "genero":"C"
+  },
+  {
+    "clave": "02/02062A",
+    "tendencia": "CARMANI CODE PARFU",
+    "familia_olfativa": "ORIENTAL",
+    "nota_principal": "MADERAS",
+    "dia_noche": "✅",
+    "tipo":"N",
+    "genero":"C"
+  },
+  {
+    "clave": "02/00685A",
+    "tendencia": "CAZZARO",
+    "familia_olfativa": "ORIENTAL",
+    "nota_principal": "LAVANDA",
+    "dia_noche": "✅",
+    "tipo":"N",
+    "genero":"C"
+  },
+  {
+    "clave": "02/01725C",
+    "tendencia": "CBAD BOY",
+    "familia_olfativa": "ORIENTAL",
+    "nota_principal": "MADERAS",
+    "dia_noche": "✅",
+    "tipo":"N",
+    "genero":"C"
+  },
+  {
+    "clave": "02/02186A",
+    "tendencia": "CBAD BOY DAZZLING",
+    "familia_olfativa": "ORIENTAL",
+    "nota_principal": "CACAO",
+    "dia_noche": "✅",
+    "tipo":"N",
+    "genero":"C"
+  },
+  {
+    "clave": "02/02163A",
+    "tendencia": "CBAD BOY EXTREME",
+    "familia_olfativa": "ORIENTAL",
+    "nota_principal": "HABA TONKA",
+    "dia_noche": "✅",
+    "tipo":"N",
+    "genero":"C"
+  },
+  {
+    "clave": "02/01964A",
+    "tendencia": "CBAD BOY LE PARFUM",
+    "familia_olfativa": "ORIENTAL",
+    "nota_principal": "CUBIO",
+    "dia_noche": "✅",
+    "tipo":"N",
+    "genero":"C"
+  },
+  {
+    "clave": "02/02023A",
+    "tendencia": "CBAD BOY SUPERSTA",
+    "familia_olfativa": "ORIENTAL",
+    "nota_principal": "PIMIENTA",
+    "dia_noche": "✅",
+    "tipo":"N",
+    "genero":"C"
+  },
+  {
+    "clave": "02/01402A",
+    "tendencia": "CBAD DIESEL",
+    "familia_olfativa": "MADEROSA",
+    "nota_principal": "CÍTRICOS",
+    "dia_noche": "✅",
+    "tipo":"N",
+    "genero":"C"
+  },
+  {
+    "clave": "02/01009A",
+    "tendencia": "CBLEU",
+    "familia_olfativa": "ORIENTAL",
+    "nota_principal": "MENTA",
+    "dia_noche": "✅",
+    "tipo":"N",
+    "genero":"C"
+  },
+  {
+    "clave": "02/00019A",
+    "tendencia": "CBLUE JEAN",
+    "familia_olfativa": "ORIENTAL",
+    "nota_principal": "AMBAR",
+    "dia_noche": "✅",
+    "tipo":"N",
+    "genero":"C"
+  },
+  {
+    "clave": "02/02203A",
+    "tendencia": "GBORN IN ROMA ROCK",
+    "familia_olfativa": "FOUGERE",
+    "nota_principal": "CÍTRICOS",
+    "dia_noche": "✅",
+    "tipo":"N",
+    "genero":"C"
+  },
+  {
+    "clave": "02/01036A",
+    "tendencia": "CBOSS ORANGE MAN",
+    "familia_olfativa": "MADEROSA",
+    "nota_principal": "VANILLA",
+    "dia_noche": "✅",
+    "tipo":"N",
+    "genero":"C"
+  },
+  {
+    "clave": "02/00070A",
+    "tendencia": "CBOSS SPORT",
+    "familia_olfativa": "ORIENTAL",
+    "nota_principal": "LAVANDA",
+    "dia_noche": "✅",
+    "tipo":"N",
+    "genero":"C"
+  },
+  {
+    "clave": "02/01361A",
+    "tendencia": "CBOSSTHESCENT",
+    "familia_olfativa": "ORIENTAL",
+    "nota_principal": "CUBIO",
+    "dia_noche": "✅",
+    "tipo":"N",
+    "genero":"C"
+  },
+  {
+    "clave": "02/02035A",
+    "tendencia": "CBOSSTHESCENT PARF",
+    "familia_olfativa": "ORIENTAL",
+    "nota_principal": "IRIS",
+    "dia_noche": "✅",
+    "tipo":"N",
+    "genero":"C"
+  },
+  {
+    "clave": "02/00022A",
+    "tendencia": "CBOTTLED",
+    "familia_olfativa": "MADEROSA",
+    "nota_principal": "MADERAS",
+    "dia_noche": "✅",
+    "tipo":"N",
+    "genero":"C"
+  },
+  {
+    "clave": "02/01786A",
+    "tendencia": "CBOTTLED ABSOLUTE",
+    "familia_olfativa": "MADEROSA",
+    "nota_principal": "MADERAS",
+    "dia_noche": "✅",
+    "tipo":"N",
+    "genero":"C"
+  },
+  {
+    "clave": "02/02212A",
+    "tendencia": "CBOTTLED ELIXIR",
+    "familia_olfativa": "MADEROSA",
+    "nota_principal": "INCENSO",
+    "dia_noche": "✅",
+    "tipo":"N",
+    "genero":"C"
+  },
+  {
+    "clave": "02/01721A",
+    "tendencia": "CBOTTLED INFINITE",
+    "familia_olfativa": "MADEROSA",
+    "nota_principal": "SÁNDALO",
+    "dia_noche": "✅",
+    "tipo":"N",
+    "genero":"C"
+  },
+  {
+    "clave": "02/01307A",
+    "tendencia": "CBOTTLED THED INTENS",
+    "familia_olfativa": "MADEROSA",
+    "nota_principal": "MANZANA",
+    "dia_noche": "✅",
+    "tipo":"N",
+    "genero":"C"
+  },
+  {
+    "clave": "02/02071A",
+    "tendencia": "CBOTTLED THED MARINE",
+    "familia_olfativa": "MADEROSA",
+    "nota_principal": "MENTA",
+    "dia_noche": "✅",
+    "tipo":"N",
+    "genero":"C"
+  },
+  {
+    "clave": "02/01990A",
+    "tendencia": "CBOTTLED UNITED",
+    "familia_olfativa": "MADEROSA",
+    "nota_principal": "CÍTRICOS",
+    "dia_noche": "✅",
+    "tipo":"N",
+    "genero":"C"
+  },
+  {
+    "clave": "02/00733A",
+    "tendencia": "CBOUCHERON",
+    "familia_olfativa": "FOUGERE",
+    "nota_principal": "CÍTRICOS",
+    "dia_noche": "✅",
+    "tipo":"N",
+    "genero":"C"
+  },
+  {
+    "clave": "02/00029A",
+    "tendencia": "CBURBERRYS",
+    "familia_olfativa": "MADEROSA",
+    "nota_principal": "LAVANDA",
+    "dia_noche": "✅",
+    "tipo":"N",
+    "genero":"C"
+  },
+  {
+    "clave": "02/00716B",
+    "tendencia": "CBVLGARI",
+    "familia_olfativa": "ORIENTAL",
+    "nota_principal": "VETIVER",
+    "dia_noche": "✅",
+    "tipo":"N",
+    "genero":"C"
+  },
+  {
+    "clave": "02/00235A",
+    "tendencia": "CCALVIN",
+    "familia_olfativa": "MADEROSA",
+    "nota_principal": "SÁNDALO",
+    "dia_noche": "✅",
+    "tipo":"N",
+    "genero":"C"
+  },
+  {
+    "clave": "02/00032A",
+    "tendencia": "CCARLO",
+    "familia_olfativa": "FOUGERE",
+    "nota_principal": "CÍTRICOS",
+    "dia_noche": "✅",
+    "tipo":"N",
+    "genero":"C"
+  },
+  {
+    "clave": "02/01186",
+    "tendencia": "CCASACA",
+    "familia_olfativa": "ORIENTAL",
+    "nota_principal": "SÁNDALO",
+    "dia_noche": "✅",
+    "tipo":"N",
+    "genero":"C"
+  },
+  {
+    "clave": "02/02052A",
+    "tendencia": "CCBLUE COACH",
+    "familia_olfativa": "ORIENTAL",
+    "nota_principal": "CÍTRICOS",
+    "dia_noche": "✅",
+    "tipo":"N",
+    "genero":"C"
+  },
+  {
+    "clave": "02/00866A",
+    "tendencia": "CCH",
+    "familia_olfativa": "MADEROSA",
+    "nota_principal": "SÁNDALO",
+    "dia_noche": "✅",
+    "tipo":"N",
+    "genero":"C"
+  },
+  {
+    "clave": "02/02060A",
+    "tendencia": "CCH HOT HOT HOT",
+    "familia_olfativa": "ORIENTAL",
+    "nota_principal": "CÍTRICOS",
+    "dia_noche": "✅",
+    "tipo":"N",
+    "genero":"C"
+  },
+  {
+    "clave": "02/01723A",
+    "tendencia": "CCH KINGS",
+    "familia_olfativa": "ORIENTAL",
+    "nota_principal": "LAVANDA",
+    "dia_noche": "✅",
+    "tipo":"N",
+    "genero":"C"
+  },
+  {
+    "clave": "02/02167A",
+    "tendencia": "CCH PASSION",
+    "familia_olfativa": "ORIENTAL",
+    "nota_principal": "AMBERWOOD",
+    "dia_noche": "✅",
+    "tipo":"N",
+    "genero":"C"
+  },
+  {
+    "clave": "02/00154A",
+    "tendencia": "CCHIC",
+    "familia_olfativa": "FOUGERE",
+    "nota_principal": "CÍTRICOS",
+    "dia_noche": "✅",
+    "tipo":"N",
+    "genero":"C"
+  },
+  {
+    "clave": "02/00713B",
+    "tendencia": "CCHROME",
+    "familia_olfativa": "FRESCA",
+    "nota_principal": "CÍTRICOS",
+    "dia_noche": "✅",
+    "tipo":"N",
+    "genero":"C"
+  },
+  {
+    "clave": "02/02234A",
+    "tendencia": "CCHROME PARFUM",
+    "familia_olfativa": "FRESCA",
+    "nota_principal": "CÍTRICOS",
+    "dia_noche": "✅",
+    "tipo":"N",
+    "genero":"C"
+  },
+  {
+    "clave": "02/01992D",
+    "tendencia": "CCITY LIFE NICOLA",
+    "familia_olfativa": "ORIENTAL",
+    "nota_principal": "BERGAMOTA",
+    "dia_noche": "✅",
+    "tipo":"N",
+    "genero":"C"
+  },
+  {
+    "clave": "02/02396A",
+    "tendencia": "CCODE EDP ARMANI",
+    "familia_olfativa": "FOUGERE",
+    "nota_principal": "MANDARINA",
+    "dia_noche": "✅",
+    "tipo":"N",
+    "genero":"C"
+  },
+  {
+    "clave": "02/02029A",
+    "tendencia": "CCOLOR BLACK INTEN",
+    "familia_olfativa": "ORIENTAL",
+    "nota_principal": "PACHULI",
+    "dia_noche": "✅",
+    "tipo":"N",
+    "genero":"C"
+  },
+  {
+    "clave": "02/00042A",
+    "tendencia": "CCOOLWATER",
+    "familia_olfativa": "FRESCA",
+    "nota_principal": "NOTAS ACUOSAS",
+    "dia_noche": "✅",
+    "tipo":"N",
+    "genero":"C"
+  },
+  {
+    "clave": "02/02206A",
+    "tendencia": "CCR7 FEARLESS",
+    "familia_olfativa": "MADEROSA",
+    "nota_principal": "MANZANA",
+    "dia_noche": "✅",
+    "tipo":"N",
+    "genero":"C"
+  },
+  {
+    "clave": "02/01470A",
+    "tendencia": "CCUBA ORANGE",
+    "familia_olfativa": "ORIENTAL",
+    "nota_principal": "NEROLI",
+    "dia_noche": "✅",
+    "tipo":"N",
+    "genero":"C"
+  },
+  {
+    "clave": "02/00708B",
+    "tendencia": "CCURVE",
+    "familia_olfativa": "ORIENTAL",
+    "nota_principal": "LAVANDA",
+    "dia_noche": "✅",
+    "tipo":"N",
+    "genero":"C"
+  },
+  {
+    "clave": "02/00046A",
+    "tendencia": "CDECLARATION",
+    "familia_olfativa": "MADEROSA",
+    "nota_principal": "MADERAS",
+    "dia_noche": "✅",
+    "tipo":"N",
+    "genero":"C"
+  },
+  {
+    "clave": "02/01984A",
+    "tendencia": "CDEFY",
+    "familia_olfativa": "MADEROSA",
+    "nota_principal": "VETIVER",
+    "dia_noche": "✅",
+    "tipo":"N",
+    "genero":"C"
+  },
+  {
+    "clave": "02/02246A",
+    "tendencia": "CDEFY PARFUM",
+    "familia_olfativa": "MADEROSA",
+    "nota_principal": "LAVANDA",
+    "dia_noche": "✅",
+    "tipo":"N",
+    "genero":"C"
+  },
+  {
+    "clave": "02/00121A",
+    "tendencia": "CDESIRE",
+    "familia_olfativa": "ORIENTAL",
+    "nota_principal": "PACHULI",
+    "dia_noche": "✅",
+    "tipo":"N",
+    "genero":"C"
+  },
+  {
+    "clave": "02/00047A",
+    "tendencia": "CDIAVOLO",
+    "familia_olfativa": "ORIENTAL",
+    "nota_principal": "PIMIENTA",
+    "dia_noche": "✅",
+    "tipo":"N",
+    "genero":"C"
+  },
+  {
+    "clave": "02/01801A",
+    "tendencia": "CDIOR HOMME",
+    "familia_olfativa": "MADEROSA",
+    "nota_principal": "CÍTRICOS",
+    "dia_noche": "✅",
+    "tipo":"N",
+    "genero":"C"
+  },
+  {
+    "clave": "02/00043A",
+    "tendencia": "CDOLCE GABBANA",
+    "familia_olfativa": "ORIENTAL",
+    "nota_principal": "LAVANDA",
+    "dia_noche": "✅",
+    "tipo":"N",
+    "genero":"C"
+  },
+  {
+    "clave": "02/00049A",
+    "tendencia": "CDRAKKAR",
+    "familia_olfativa": "ORIENTAL",
+    "nota_principal": "LAVANDA",
+    "dia_noche": "✅",
+    "tipo":"N",
+    "genero":"C"
+  },
+  {
+    "clave": "02/01400A",
+    "tendencia": "CDYLAN BLUE",
+    "familia_olfativa": "FOUGERE",
+    "nota_principal": "CÍTRICOS",
+    "dia_noche": "✅",
+    "tipo":"N",
+    "genero":"C"
+  },
+  {
+    "clave": "02/00677B",
+    "tendencia": "CEGOISTE",
+    "familia_olfativa": "MADEROSA",
+    "nota_principal": "TABACO",
+    "dia_noche": "❤️",
+    "tipo":"N",
+    "genero":"C"
+  },
+  {
+    "clave": "02/00053A",
+    "tendencia": "CEMPORIO ARMANI",
+    "familia_olfativa": "MADEROSA",
+    "nota_principal": "CÍTRICOS",
+    "dia_noche": "❤️",
+    "tipo":"N",
+    "genero":"C"
+  },
+  {
+    "clave": "02/00055A",
+    "tendencia": "CENGLISH LEATHER",
+    "familia_olfativa": "FOUGERE",
+    "nota_principal": "CÍTRICOS",
+    "dia_noche": "❤️",
+    "tipo":"N",
+    "genero":"C"
+  },
+  {
+    "clave": "02/01183A",
+    "tendencia": "CEROS",
+    "familia_olfativa": "ORIENTAL",
+    "nota_principal": "MADERAS",
+    "dia_noche": "❤️",
+    "tipo":"N",
+    "genero":"C"
+  },
+  {
+    "clave": "02/02349A",
+    "tendencia": "CEROS FLAME",
+    "familia_olfativa": "MADEROSA",
+    "nota_principal": "CÍTRICOS",
+    "dia_noche": "❤️",
+    "tipo":"N",
+    "genero":"C"
+  },
+  {
+    "clave": "02/00707B",
+    "tendencia": "CESSENTIAL",
+    "familia_olfativa": "MADEROSA",
+    "nota_principal": "SÁNDALO",
+    "dia_noche": "❤️",
+    "tipo":"N",
+    "genero":"C"
+  },
+  {
+    "clave": "02/00057A",
+    "tendencia": "CETERNITY",
+    "familia_olfativa": "ORIENTAL",
+    "nota_principal": "PIÑA",
+    "dia_noche": "❤️",
+    "tipo":"N",
+    "genero":"C"
+  },
+  {
+    "clave": "02/02098A",
+    "tendencia": "CETERNITY PARFUM",
+    "familia_olfativa": "MADEROSA",
+    "nota_principal": "LAVANDA",
+    "dia_noche": "❤️",
+    "tipo":"N",
+    "genero":"C"
+  },
+  {
+    "clave": "02/00712A",
+    "tendencia": "CEUPHORIA",
+    "familia_olfativa": "MADEROSA",
+    "nota_principal": "PACHULI",
+    "dia_noche": "❤️",
+    "tipo":"N",
+    "genero":"C"
+  },
+  {
+    "clave": "02/01711C",
+    "tendencia": "CEXPLORER",
+    "familia_olfativa": "MADEROSA",
+    "nota_principal": "PACHULI",
+    "dia_noche": "❤️",
+    "tipo":"N",
+    "genero":"C"
+  },
+  {
+    "clave": "02/01049F",
+    "tendencia": "CEXTREME SPORT",
+    "familia_olfativa": "MADEROSA",
+    "nota_principal": "NOTAS VERDES",
+    "dia_noche": "❤️",
+    "tipo":"N",
+    "genero":"C"
+  },
+  {
+    "clave": "02/00059A",
+    "tendencia": "CFARENHEIT",
+    "familia_olfativa": "MADEROSA",
+    "nota_principal": "CLAVO",
+    "dia_noche": "❤️",
+    "tipo":"N",
+    "genero":"C"
+  },
+  {
+    "clave": "02/00200A",
+    "tendencia": "CFERRARI BLACK MEN",
+    "familia_olfativa": "ORIENTAL",
+    "nota_principal": "MADERAS",
+    "dia_noche": "❤️",
+    "tipo":"N",
+    "genero":"C"
+  },
+  {
+    "clave": "02/01071A",
+    "tendencia": "CFERRARI RED MAN",
+    "familia_olfativa": "ORIENTAL",
+    "nota_principal": "CÍTRICOS",
+    "dia_noche": "❤️",
+    "tipo":"N",
+    "genero":"C"
+  },
+  {
+    "clave": "02/00865A",
+    "tendencia": "CFIERCE",
+    "familia_olfativa": "MADEROSA",
+    "nota_principal": "VETIVER",
+    "dia_noche": "❤️",
+    "tipo":"N",
+    "genero":"C"
+  },
+  {
+    "clave": "02/02295A",
+    "tendencia": "CGARNET MALLUMA",
+    "familia_olfativa": "ORIENTAL",
+    "nota_principal": "LAVANDA",
+    "dia_noche": "❤️",
+    "tipo":"N",
+    "genero":"C"
+  },
+  {
+    "clave": "02/02195A",
+    "tendencia": "CGENTLEMAN SOCIETY",
+    "familia_olfativa": "ORIENTAL",
+    "nota_principal": "CARDAMOMO",
+    "dia_noche": "❤️",
+    "tipo":"N",
+    "genero":"C"
+  },
+  {
+    "clave": "02/01456A",
+    "tendencia": "CGOLD RUSH",
+    "familia_olfativa": "ORIENTAL",
+    "nota_principal": "GERANIO",
+    "dia_noche": "❤️",
+    "tipo":"N",
+    "genero":"C"
+  },
+  {
+    "clave": "02/02262A",
+    "tendencia": "CGREEN CACTUS HIM",
+    "familia_olfativa": "FOUGERE",
+    "nota_principal": "CÍTRICOS",
+    "dia_noche": "❤️",
+    "tipo":"N",
+    "genero":"C"
+  },
+  {
+    "clave": "02/00678A",
+    "tendencia": "CGREY FLAN",
+    "familia_olfativa": "MADEROSA",
+    "nota_principal": "MADERAS",
+    "dia_noche": "❤️",
+    "tipo":"N",
+    "genero":"C"
+  },
+  {
+    "clave": "02/01021A",
+    "tendencia": "CGUCCI GUILTY",
+    "familia_olfativa": "MADEROSA",
+    "nota_principal": "MADERAS",
+    "dia_noche": "❤️",
+    "tipo":"N",
+    "genero":"C"
+  },
+  {
+    "clave": "02/01203A",
+    "tendencia": "CGUCCI GUILTY BLAC",
+    "familia_olfativa": "ORIENTAL",
+    "nota_principal": "LAVANDA",
+    "dia_noche": "❤️",
+    "tipo":"N",
+    "genero":"C"
+  },
+  {
+    "clave": "02/02283A",
+    "tendencia": "CGUCCI GUILTY ELIX",
+    "familia_olfativa": "FRESCA",
+    "nota_principal": "OSMANTO",
+    "dia_noche": "❤️",
+    "tipo":"N",
+    "genero":"C"
+  },
+  {
+    "clave": "02/00714A",
+    "tendencia": "CGUESS",
+    "familia_olfativa": "MADEROSA",
+    "nota_principal": "SÁNDALO",
+    "dia_noche": "❤️",
+    "tipo":"N",
+    "genero":"C"
+  },
+  {
+    "clave": "02/01139A",
+    "tendencia": "CHALLOWEEN MAN",
+    "familia_olfativa": "ORIENTAL",
+    "nota_principal": "AMBAR",
+    "dia_noche": "❤️",
+    "tipo":"N",
+    "genero":"C"
+  },
+  {
+    "clave": "02/01703C",
+    "tendencia": "CHALLOWEEN MAN X",
+    "familia_olfativa": "ORIENTAL",
+    "nota_principal": "CARDAMOMO",
+    "dia_noche": "❤️",
+    "tipo":"N",
+    "genero":"C"
+  },
+  {
+    "clave": "02/00069A",
+    "tendencia": "CHAPPY MEN",
+    "familia_olfativa": "ORIENTAL",
+    "nota_principal": "NOTAS ACUOSAS",
+    "dia_noche": "❤️",
+    "tipo":"N",
+    "genero":"C"
+  },
+  {
+    "clave": "02/01999A",
+    "tendencia": "CHERO",
+    "familia_olfativa": "MADEROSA",
+    "nota_principal": "MADERAS",
+    "dia_noche": "❤️",
+    "tipo":"N",
+    "genero":"C"
+  },
+  {
+    "clave": "02/00033A",
+    "tendencia": "CHERRERA",
+    "familia_olfativa": "MADEROSA",
+    "nota_principal": "GERANIO",
+    "dia_noche": "❤️",
+    "tipo":"N",
+    "genero":"C"
+  },
+  {
+    "clave": "02/00486A",
+    "tendencia": "CHOLLISTER JAKE",
+    "familia_olfativa": "ORIENTAL",
+    "nota_principal": "MADERAS",
+    "dia_noche": "❤️",
+    "tipo":"N",
+    "genero":"C"
+  },
+  {
+    "clave": "02/00072A",
+    "tendencia": "CHUGO",
+    "familia_olfativa": "ORIENTAL",
+    "nota_principal": "SALVIA",
+    "dia_noche": "❤️",
+    "tipo":"N",
+    "genero":"C"
+  },
+  {
+    "clave": "02/00694A",
+    "tendencia": "CHUGO ENERGISE",
+    "familia_olfativa": "MADEROSA",
+    "nota_principal": "MADERAS",
+    "dia_noche": "❤️",
+    "tipo":"N",
+    "genero":"C"
+  },
+  {
+    "clave": "02/01444C",
+    "tendencia": "CHUGO ICED",
+    "familia_olfativa": "FRESCA",
+    "nota_principal": "MENTA",
+    "dia_noche": "❤️",
+    "tipo":"N",
+    "genero":"C"
+  },
+  {
+    "clave": "02/02146A",
+    "tendencia": "CHUGO JEANS",
+    "familia_olfativa": "FRESCA",
+    "nota_principal": "CÍTRICOS",
+    "dia_noche": "❤️",
+    "tipo":"N",
+    "genero":"C"
+  },
+  {
+    "clave": "02/01188A",
+    "tendencia": "CHUGO RED",
+    "familia_olfativa": "ORIENTAL",
+    "nota_principal": "CÍTRICOS",
+    "dia_noche": "❤️",
+    "tipo":"N",
+    "genero":"C"
+  },
+  {
+    "clave": "02/01560X",
+    "tendencia": "CHUGO URBAN JOURNE",
+    "familia_olfativa": "MADEROSA",
+    "nota_principal": "TÉ NEGRO",
+    "dia_noche": "❤️",
+    "tipo":"N",
+    "genero":"C"
+  },
+  {
+    "clave": "02/01819A",
+    "tendencia": "CIMPACT",
+    "familia_olfativa": "ORIENTAL",
+    "nota_principal": "CÍTRICOS",
+    "dia_noche": "❤️",
+    "tipo":"N",
+    "genero":"C"
+  },
+  {
+    "clave": "02/02434",
+    "tendencia": "CINTEN WOOD NICOLA",
+    "familia_olfativa": "ORIENTAL",
+    "nota_principal": "TORONJA",
+    "dia_noche": "❤️",
+    "tipo":"N",
+    "genero":"C"
+  },
+  {
+    "clave": "02/02400A",
+    "tendencia": "CINTENSE EDP HUGO",
+    "familia_olfativa": "ORIENTAL",
+    "nota_principal": "CANELA",
+    "dia_noche": "❤️",
+    "tipo":"N",
+    "genero":"C"
+  },
+  {
+    "clave": "02/01211A",
+    "tendencia": "CINVICTUS",
+    "familia_olfativa": "MADEROSA",
+    "nota_principal": "NOTAS ACUOSAS",
+    "dia_noche": "❤️",
+    "tipo":"N",
+    "genero":"C"
+  },
+  {
+    "clave": "02/01582A",
+    "tendencia": "CINVICTUS AQUA 18",
+    "familia_olfativa": "MADEROSA",
+    "nota_principal": "AMBERWOOD",
+    "dia_noche": "❤️",
+    "tipo":"N",
+    "genero":"C"
+  },
+  {
+    "clave": "02/02128A",
+    "tendencia": "CINVICTUS ELIXIR",
+    "familia_olfativa": "ORIENTAL",
+    "nota_principal": "OLIVANO",
+    "dia_noche": "❤️",
+    "tipo":"N",
+    "genero":"C"
+  },
+  {
+    "clave": "02/01526A",
+    "tendencia": "CINVICTUS INTENSE",
+    "familia_olfativa": "ORIENTAL",
+    "nota_principal": "AMBAR",
+    "dia_noche": "❤️",
+    "tipo":"N",
+    "genero":"C"
+  },
+  {
+    "clave": "02/01719A",
+    "tendencia": "CINVICTUS LEGEND",
+    "familia_olfativa": "MADEROSA",
+    "nota_principal": "MADERAS",
+    "dia_noche": "❤️",
+    "tipo":"N",
+    "genero":"C"
+  },
+  {
+    "clave": "02/02047A",
+    "tendencia": "CINVICTUS PLATINUM",
+    "familia_olfativa": "MADEROSA",
+    "nota_principal": "MADERAS",
+    "dia_noche": "❤️",
+    "tipo":"N",
+    "genero":"C"
+  },
+  {
+    "clave": "02/01960A",
+    "tendencia": "CINVICTUS VICTORY",
+    "familia_olfativa": "ORIENTAL",
+    "nota_principal": "AMBAR",
+    "dia_noche": "❤️",
+    "tipo":"N",
+    "genero":"C"
+  },
+  {
+    "clave": "02/00699A",
+    "tendencia": "CJORDAN",
+    "familia_olfativa": "FOUGERE",
+    "nota_principal": "SALVIA",
+    "dia_noche": "❤️",
+    "tipo":"N",
+    "genero":"C"
+  },
+  {
+    "clave": "02/00147A",
+    "tendencia": "CJOVAN MUSK",
+    "familia_olfativa": "MADEROSA",
+    "nota_principal": "MADERAS",
+    "dia_noche": "❤️",
+    "tipo":"N",
+    "genero":"C"
+  },
+  {
+    "clave": "02/01909A",
+    "tendencia": "CK BY DG",
+    "familia_olfativa": "MADEROSA",
+    "nota_principal": "BAYAS DE ENEBRO",
+    "dia_noche": "❤️",
+    "tipo":"N",
+    "genero":"C"
+  },
+  {
+    "clave": "02/00077A",
+    "tendencia": "CKENZO",
+    "familia_olfativa": "FRESCA",
+    "nota_principal": "SALVIA",
+    "dia_noche": "❤️",
+    "tipo":"N",
+    "genero":"C"
+  },
+  {
+    "clave": "02/02051A",
+    "tendencia": "CKENZO EDP",
+    "familia_olfativa": "FOUGERE",
+    "nota_principal": "NOTAS ACUOSAS",
+    "dia_noche": "❤️",
+    "tipo":"N",
+    "genero":"C"
+  },
+  {
+    "clave": "02/01375A",
+    "tendencia": "CKING OF SEDUCTION",
+    "familia_olfativa": "MADEROSA",
+    "nota_principal": "CÍTRICOS",
+    "dia_noche": "❤️",
+    "tipo":"N",
+    "genero":"C"
+  },
+  {
+    "clave": "02/01164A",
+    "tendencia": "CL1212 BLANC",
+    "familia_olfativa": "MADEROSA",
+    "nota_principal": "CÍTRICOS",
+    "dia_noche": "❤️",
+    "tipo":"N",
+    "genero":"C"
+  },
+  {
+    "clave": "02/01854A",
+    "tendencia": "CL1212 BLANC PURE",
+    "familia_olfativa": "MADEROSA",
+    "nota_principal": "ROMERO",
+    "dia_noche": "❤️",
+    "tipo":"N",
+    "genero":"C"
+  },
+  {
+    "clave": "02/00124A",
+    "tendencia": "CLACOSTE HOMME",
+    "familia_olfativa": "MADEROSA",
+    "nota_principal": "CIRUELA",
+    "dia_noche": "❤️",
+    "tipo":"N",
+    "genero":"C"
+  },
+  {
+    "clave": "02/00675A",
+    "tendencia": "CLACOSTE RED",
+    "familia_olfativa": "ORIENTAL",
+    "nota_principal": "MANZANA VERDE",
+    "dia_noche": "❤️",
+    "tipo":"N",
+    "genero":"C"
+  },
+  {
+    "clave": "02/01992A",
+    "tendencia": "CLANUITDELHOMME BE",
+    "familia_olfativa": "ORIENTAL",
+    "nota_principal": "CARDAMOMO",
+    "dia_noche": "❤️",
+    "tipo":"N",
+    "genero":"C"
+  },
+  {
+    "clave": "02/01861A",
+    "tendencia": "CLE BEAU",
+    "familia_olfativa": "MADEROSA",
+    "nota_principal": "CÍTRICOS",
+    "dia_noche": "❤️",
+    "tipo":"N",
+    "genero":"C"
+  },
+  {
+    "clave": "02/02325A",
+    "tendencia": "CLE BEAU PARADISE",
+    "familia_olfativa": "MADEROSA",
+    "nota_principal": "NOTAS VERDES",
+    "dia_noche": "❤️",
+    "tipo":"N",
+    "genero":"C"
+  },
+  {
+    "clave": "02/00078A",
+    "tendencia": "CLE MALE",
+    "familia_olfativa": "ORIENTAL",
+    "nota_principal": "LAVANDA",
+    "dia_noche": "❤️",
+    "tipo":"N",
+    "genero":"C"
+  },
+  {
+    "clave": "02/01962A",
+    "tendencia": "CLE MALE AVIATOR",
+    "familia_olfativa": "ORIENTAL",
+    "nota_principal": "MENTA",
+    "dia_noche": "❤️",
+    "tipo":"N",
+    "genero":"C"
+  },
+  {
+    "clave": "02/02189A",
+    "tendencia": "CLE MALE ELIXIR",
+    "familia_olfativa": "ORIENTAL",
+    "nota_principal": "LAVANDA",
+    "dia_noche": "❤️",
+    "tipo":"N",
+    "genero":"C"
+  },
+  {
+    "clave": "02/01966A",
+    "tendencia": "CLE MALE LE PARFUM",
+    "familia_olfativa": "MADEROSA",
+    "nota_principal": "LAVANDA",
+    "dia_noche": "❤️",
+    "tipo":"N",
+    "genero":"C"
+  },
+  {
+    "clave": "02/02292A",
+    "tendencia": "CLE MALE XMAS 23",
+    "familia_olfativa": "ORIENTAL",
+    "nota_principal": "MENTA",
+    "dia_noche": "❤️",
+    "tipo":"N",
+    "genero":"C"
+  },
+  {
+    "clave": "02/00140A",
+    "tendencia": "CLEAU DISSEY",
+    "familia_olfativa": "MADEROSA",
+    "nota_principal": "SÁNDALO",
+    "dia_noche": "❤️",
+    "tipo":"N",
+    "genero":"C"
+  },
+  {
+    "clave": "02/02231A",
+    "tendencia": "CLEAU DISSEY VETIV",
+    "familia_olfativa": "MADEROSA",
+    "nota_principal": "VETIVER",
+    "dia_noche": "❤️",
+    "tipo":"N",
+    "genero":"C"
+  },
+  {
+    "clave": "02/01048A",
+    "tendencia": "CLEGEND",
+    "familia_olfativa": "ORIENTAL",
+    "nota_principal": "LAVANDA",
+    "dia_noche": "❤️",
+    "tipo":"N",
+    "genero":"C"
+  },
+  {
+    "clave": "02/02340A",
+    "tendencia": "CLEGEND BLUE",
+    "familia_olfativa": "MADEROSA",
+    "nota_principal": "LAVANDA",
+    "dia_noche": "❤️",
+    "tipo":"N",
+    "genero":"C"
+  },
+  {
+    "clave": "02/01224A",
+    "tendencia": "CLEGEND INTENSE",
+    "familia_olfativa": "ORIENTAL",
+    "nota_principal": "MENTA",
+    "dia_noche": "❤️",
+    "tipo":"N",
+    "genero":"C"
+  },
+  {
+    "clave": "02/02124A",
+    "tendencia": "CLEGEND RED",
+    "familia_olfativa": "ORIENTAL",
+    "nota_principal": "CÍTRICOS",
+    "dia_noche": "❤️",
+    "tipo":"N",
+    "genero":"C"
+  },
+  {
+    "clave": "02/01364A",
+    "tendencia": "CLEGEND SPIRIT",
+    "familia_olfativa": "MADEROSA",
+    "nota_principal": "MADERAS",
+    "dia_noche": "❤️",
+    "tipo":"N",
+    "genero":"C"
+  },
+  {
+    "clave": "02/00423A",
+    "tendencia": "CLIGHT BLUE",
+    "familia_olfativa": "ORIENTAL",
+    "nota_principal": "CÍTRICOS",
+    "dia_noche": "❤️",
+    "tipo":"N",
+    "genero":"C"
+  },
+  {
+    "clave": "02/01995A",
+    "tendencia": "CLIGHT BLUE FOREVE",
+    "familia_olfativa": "MADEROSA",
+    "nota_principal": "NOTAS ACUOSAS",
+    "dia_noche": "❤️",
+    "tipo":"N",
+    "genero":"C"
+  },
+  {
+    "clave": "02/02198A",
+    "tendencia": "CLIGHT BLUE SUMVIB",
+    "familia_olfativa": "MADEROSA",
+    "nota_principal": "CÍTRICOS",
+    "dia_noche": "❤️",
+    "tipo":"N",
+    "genero":"C"
+  },
+  {
+    "clave": "02/01448A",
+    "tendencia": "CLUNA ROSSA CARBON",
+    "familia_olfativa": "FOUGERE",
+    "nota_principal": "LAVANDA",
+    "dia_noche": "❤️",
+    "tipo":"N",
+    "genero":"C"
+  },
+  {
+    "clave": "02/02256A",
+    "tendencia": "CLUNA ROSSA OCEAN",
+    "familia_olfativa": "ORIENTAL",
+    "nota_principal": "CÍTRICOS",
+    "dia_noche": "❤️",
+    "tipo":"N",
+    "genero":"C"
+  },
+  {
+    "clave": "02/00080A",
+    "tendencia": "CMADRAS",
+    "familia_olfativa": "FOUGERE",
+    "nota_principal": "ALBAHACA",
+    "dia_noche": "❤️",
+    "tipo":"N",
+    "genero":"C"
+  },
+  {
+    "clave": "02/00680A",
+    "tendencia": "CMAMBO MEN",
+    "familia_olfativa": "ORIENTAL",
+    "nota_principal": "LAVANDA",
+    "dia_noche": "❤️",
+    "tipo":"N",
+    "genero":"C"
+  },
+  {
+    "clave": "02/02096A",
+    "tendencia": "CMB SING UR ATTITU",
+    "familia_olfativa": "FRESCA",
+    "nota_principal": "CÍTRICOS",
+    "dia_noche": "❤️",
+    "tipo":"N",
+    "genero":"C"
+  },
+  {
+    "clave": "02/00081A",
+    "tendencia": "CMINOTAURO",
+    "familia_olfativa": "ORIENTAL",
+    "nota_principal": "SÁNDALO",
+    "dia_noche": "❤️",
+    "tipo":"N",
+    "genero":"C"
+  },
+  {
+    "clave": "02/02322A",
+    "tendencia": "CMYSLF EDP",
+    "familia_olfativa": "ORIENTAL",
+    "nota_principal": "CÍTRICOS",
+    "dia_noche": "❤️",
+    "tipo":"N",
+    "genero":"C"
+  },
+  {
+    "clave": "02/00085A",
+    "tendencia": "CNAUTICA",
+    "familia_olfativa": "MADEROSA",
+    "nota_principal": "PACHULI",
+    "dia_noche": "❤️",
+    "tipo":"N",
+    "genero":"C"
+  },
+  {
+    "clave": "02/01049A",
+    "tendencia": "CNAUTICA VOYAGE",
+    "familia_olfativa": "MADEROSA",
+    "nota_principal": "NOTAS VERDES",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+  {
+    "clave": "02/01388A",
+    "tendencia": "CNAUTICA VOYAGE SP",
+    "familia_olfativa": "MADEROSA",
+    "nota_principal": "NOTAS ACUOSAS",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+  {
+    "clave": "02/00686A",
+    "tendencia": "COBSESSION",
+    "familia_olfativa": "ORIENTAL",
+    "nota_principal": "CANELA",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+  {
+    "clave": "02/02337A",
+    "tendencia": "CONYX MALUMA",
+    "familia_olfativa": "ORIENTAL",
+    "nota_principal": "CARDAMOMO",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+  {
+    "clave": "02/00704A",
+    "tendencia": "COPIUM",
+    "familia_olfativa": "ORIENTAL",
+    "nota_principal": "GROSELLA NEGRA",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+  {
+    "clave": "02/00681A",
+    "tendencia": "COSCAR DE LA RENTA",
+    "familia_olfativa": "MADEROSA",
+    "nota_principal": "MADERAS",
+    "dia_noche": "N",
+    "tipo":"N",
+    "genero":"C"
+  },
+  {
+    "clave": "02/00679B",
+    "tendencia": "CPACO DE PACO",
+    "familia_olfativa": "FRESCA",
+    "nota_principal": "LAVANDA",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+  {
+    "clave": "02/00092A",
+    "tendencia": "CPACO RABANNE",
+    "familia_olfativa": "ORIENTAL",
+    "nota_principal": "SALVIA",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+  {
+    "clave": "02/00162A",
+    "tendencia": "CPARIS HILTON",
+    "familia_olfativa": "MADEROSA",
+    "nota_principal": "HIGO",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+  {
+    "clave": "02/00437A",
+    "tendencia": "CPERRY ELLIS 18",
+    "familia_olfativa": "FOUGERE",
+    "nota_principal": "LAVANDA",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+  {
+    "clave": "02/00623A",
+    "tendencia": "CPERRY ELLIS MAN",
+    "familia_olfativa": "MADEROSA",
+    "nota_principal": "MADERAS",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+  {
+    "clave": "02/01381A",
+    "tendencia": "CPERRY ELLIS RED",
+    "familia_olfativa": "ORIENTAL",
+    "nota_principal": "PIMIENTA",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+  {
+    "clave": "02/01968A",
+    "tendencia": "CPHANTOM",
+    "familia_olfativa": "MADEROSA",
+    "nota_principal": "LAVANDA",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+  {
+    "clave": "02/02058A",
+    "tendencia": "CPHANTOM LEGION",
+    "familia_olfativa": "MADEROSA",
+    "nota_principal": "VETIVER",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+  {
+    "clave": "02/02222A",
+    "tendencia": "CPHANTOM PARFUM",
+    "familia_olfativa": "ORIENTAL",
+    "nota_principal": "LAVANDA",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+  {
+    "clave": "02/00094A",
+    "tendencia": "CPIERRE CARDIN",
+    "familia_olfativa": "MADEROSA",
+    "nota_principal": "ALBAHACA",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+  {
+    "clave": "02/00722A",
+    "tendencia": "CPLEASURES",
+    "familia_olfativa": "ORIENTAL",
+    "nota_principal": "LAVANDA",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+  {
+    "clave": "02/00684A",
+    "tendencia": "CPOLO",
+    "familia_olfativa": "MADEROSA",
+    "nota_principal": "ARTEMISA",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+  {
+    "clave": "02/02390A",
+    "tendencia": "CPOLO 67 RALPH",
+    "familia_olfativa": "FOUGERE",
+    "nota_principal": "LAVANDA",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+  {
+    "clave": "02/00690A",
+    "tendencia": "CPOLO BLACK",
+    "familia_olfativa": "MADEROSA",
+    "nota_principal": "SALVIA",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+  {
+    "clave": "02/00096A",
+    "tendencia": "CPOLO BLUE",
+    "familia_olfativa": "ORIENTAL",
+    "nota_principal": "CÍTRICOS",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+  {
+    "clave": "02/02049A",
+    "tendencia": "CPOLO BLUE PARFUM",
+    "familia_olfativa": "MADEROSA",
+    "nota_principal": "LAVANDA",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+  {
+    "clave": "02/01988A",
+    "tendencia": "CPOLO COLOG INTENS",
+    "familia_olfativa": "ORIENTAL",
+    "nota_principal": "Menta",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+  {
+    "clave": "02/01816A",
+    "tendencia": "CPOLO DEEP BLUE",
+    "familia_olfativa": "FRESCA",
+    "nota_principal": "NOTAS ACUOSAS",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+  {
+    "clave": "02/01205A",
+    "tendencia": "CPOLO RED",
+    "familia_olfativa": "MADEROSA",
+    "nota_principal": "CÍTRICOS",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+  {
+    "clave": "02/00098A",
+    "tendencia": "CPOLO SPORT",
+    "familia_olfativa": "ORIENTAL",
+    "nota_principal": "Menta",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+  {
+    "clave": "02/00851A",
+    "tendencia": "CPUMA URBAN MOTION",
+    "familia_olfativa": "ORIENTAL",
+    "nota_principal": "ROMERO",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+  {
+    "clave": "02/02175A",
+    "tendencia": "CRALPH CLUB EDP",
+    "familia_olfativa": "FOUGERE",
+    "nota_principal": "LAVANDA",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+  {
+    "clave": "02/00705A",
+    "tendencia": "CRESERVE",
+    "familia_olfativa": "ORIENTAL",
+    "nota_principal": "CÍTRICOS",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+  {
+    "clave": "02/00700A",
+    "tendencia": "CSAFARI",
+    "familia_olfativa": "MADEROSA",
+    "nota_principal": "SÁNDALO",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+  {
+    "clave": "02/00717A",
+    "tendencia": "CSALVADORD",
+    "familia_olfativa": "ORIENTAL",
+    "nota_principal": "LAVANDA",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+  {
+    "clave": "02/01972A",
+    "tendencia": "CSALVATORE FERRAG",
+    "familia_olfativa": "ORIENTAL",
+    "nota_principal": "CÍTRICOS",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+  {
+    "clave": "02/00148C",
+    "tendencia": "CSAMBA",
+    "familia_olfativa": "ORIENTAL",
+    "nota_principal": "LAVANDA",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+  {
+    "clave": "02/01341C",
+    "tendencia": "CSAUVAGE",
+    "familia_olfativa": "FOUGERE",
+    "nota_principal": "LAVANDA",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+  {
+    "clave": "02/01997A",
+    "tendencia": "CSAUVAGE ELIXIR",
+    "familia_olfativa": "ORIENTAL",
+    "nota_principal": "LAVANDA",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+  {
+    "clave": "02/01986A",
+    "tendencia": "CSCANDAL",
+    "familia_olfativa": "ORIENTAL",
+    "nota_principal": "SALVIA",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+  {
+    "clave": "02/02065A",
+    "tendencia": "CSCANDAL LE PARFUM",
+    "familia_olfativa": "ORIENTAL",
+    "nota_principal": "HABA TONKA",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+  {
+    "clave": "02/00701A",
+    "tendencia": "CSCAPE",
+    "familia_olfativa": "ORIENTAL",
+    "nota_principal": "MANGO",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+  {
+    "clave": "02/01943A",
+    "tendencia": "CSENSUAL NICOLA",
+    "familia_olfativa": "MADEROSA",
+    "nota_principal": "PIMIENTA",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+  {
+    "clave": "02/01345A",
+    "tendencia": "CSPICEBOMB EXTREME",
+    "familia_olfativa": "ORIENTAL",
+    "nota_principal": "VANILLA",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+  {
+    "clave": "02/02237A",
+    "tendencia": "CSPICEBOMB INFRARED",
+    "familia_olfativa": "ORIENTAL",
+    "nota_principal": "CURRY",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+  {
+    "clave": "02/00703A",
+    "tendencia": "CSTARWALKER",
+    "familia_olfativa": "MADEROSA",
+    "nota_principal": "MADERAS",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+  {
+    "clave": "02/00674A",
+    "tendencia": "CSTEFANO",
+    "familia_olfativa": "FOUGERE",
+    "nota_principal": "LAVANDA",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+  {
+    "clave": "02/01879A",
+    "tendencia": "CSTRONGER WY",
+    "familia_olfativa": "ORIENTAL",
+    "nota_principal": "AMBAR",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+  {
+    "clave": "02/02172A",
+    "tendencia": "CSTRONGER WY OUD",
+    "familia_olfativa": "MADEROSA",
+    "nota_principal": "BAYAS DE ENEBRO",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+  {
+    "clave": "02/00156A",
+    "tendencia": "CSWISS ARMY",
+    "familia_olfativa": "MADEROSA",
+    "nota_principal": "CÍTRICOS",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+  {
+    "clave": "02/00110A",
+    "tendencia": "CTED LAPIDUS",
+    "familia_olfativa": "ORIENTAL",
+    "nota_principal": "NUEZ MOSCADA",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+  {
+    "clave": "02/01970A",
+    "tendencia": "CTHE ICON",
+    "familia_olfativa": "ORIENTAL",
+    "nota_principal": "SALVIA",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+  {
+    "clave": "02/02259A",
+    "tendencia": "CTHE ICON ELIXIR",
+    "familia_olfativa": "ORIENTAL",
+    "nota_principal": "CÍTRICOS",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+  {
+    "clave": "02/00602A",
+    "tendencia": "CTHE ONE",
+    "familia_olfativa": "ORIENTAL",
+    "nota_principal": "MADERAS",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+  {
+    "clave": "02/00111A",
+    "tendencia": "CTOMMY",
+    "familia_olfativa": "MADEROSA",
+    "nota_principal": "CÍTRICOS",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+  {
+    "clave": "02/02067A",
+    "tendencia": "CTOMMY SUMMER WAVE",
+    "familia_olfativa": "FRESCA",
+    "nota_principal": "CÍTRICOS",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+  {
+    "clave": "02/02053A",
+    "tendencia": "CTOUS MAN CHILL",
+    "familia_olfativa": "ORIENTAL",
+    "nota_principal": "LAVANDA",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+  {
+    "clave": "02/01979A",
+    "tendencia": "CTOUS MAN INTENSE",
+    "familia_olfativa": "ORIENTAL",
+    "nota_principal": "FLOR DE NARANJO",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+  {
+    "clave": "02/01753A",
+    "tendencia": "CTOY BOY",
+    "familia_olfativa": "MADEROSA",
+    "nota_principal": "VETIVER",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+  {
+    "clave": "02/01326A",
+    "tendencia": "CULTRAMALE",
+    "familia_olfativa": "ORIENTAL",
+    "nota_principal": "LAVANDA",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+  {
+    "clave": "02/00688A",
+    "tendencia": "CUNGARO",
+    "familia_olfativa": "ORIENTAL",
+    "nota_principal": "AMBAR",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+  {
+    "clave": "02/00731A",
+    "tendencia": "CV IRRESISTIBLE MAN",
+    "familia_olfativa": "ORIENTAL",
+    "nota_principal": "CÍTRICOS",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+  {
+    "clave": "02/01185",
+    "tendencia": "CVERSACE",
+    "familia_olfativa": "ORIENTAL",
+    "nota_principal": "LÁDANO",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+  {
+    "clave": "02/00676B",
+    "tendencia": "CVETIVER",
+    "familia_olfativa": "MADEROSA",
+    "nota_principal": "VETIVER",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+  {
+    "clave": "02/02144A",
+    "tendencia": "CWE ARE TRIBE",
+    "familia_olfativa": "MADEROSA",
+    "nota_principal": "CÍTRICOS",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+  {
+    "clave": "02/02201",
+    "tendencia": "CWILD OCEAN NICOLA",
+    "familia_olfativa": "FOUGERE",
+    "nota_principal": "CARDAMOMO",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+  {
+    "clave": "02/00117A",
+    "tendencia": "CXS",
+    "familia_olfativa": "MADEROSA",
+    "nota_principal": "GERANIO",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+  {
+    "clave": "02/01507A",
+    "tendencia": "CY",
+    "familia_olfativa": "MADEROSA",
+    "nota_principal": "SALVIA",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+  {
+    "clave": "02/02192A",
+    "tendencia": "CY EDP",
+    "familia_olfativa": "FOUGERE",
+    "nota_principal": "CÍTRICOS",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+  {
+    "clave": "02/00778A",
+    "tendencia": "CZZEGNA",
+    "familia_olfativa": "MADEROSA",
+    "nota_principal": "MADERAS",
+    "dia_noche": "",
+    "tipo":"N",
+    "genero":"C"
+  },
+
+
+
+
+
+
+
+
+
+  {
+    "clave": "02/00706A",
+    "tendencia": "CALELO",
+    "familia_olfativa": "FOUGERE",
+    "nota_principal": "CÍTRICOS",
+    "dia_noche": "",
+    "tipo":"N",
+    "genero":"N"
+  },
+  {
+    "clave": "02/01996A",
+    "tendencia": "CBLUE BOY",
+    "familia_olfativa": "MADEROSA",
+    "nota_principal": "PACHULI",
+    "dia_noche": "",
+    "tipo":"N",
+    "genero":"N"
+  },
+  {
+    "clave": "02/02063A",
+    "tendencia": "CBUZZY",
+    "familia_olfativa": "FRESCA",
+    "nota_principal": "NOTAS ACUOSAS",
+    "dia_noche": "NINO",
+    "tipo":"N",
+    "genero":"N"
+  },
+  {
+    "clave": "02/01571A",
+    "tendencia": "CCNAUTICA TWINS",
+    "familia_olfativa": "FRESCA",
+    "nota_principal": "CÍTRICOS",
+    "dia_noche": "",
+    "tipo":"N",
+    "genero":"N"
+  },
+  {
+    "clave": "02/00123A",
+    "tendencia": "CONE BOY",
+    "familia_olfativa": "FOUGERE",
+    "nota_principal": "CÍTRICOS",
+    "dia_noche": "",
+    "tipo":"N",
+    "genero":"N"
+  },
+  {
+    "clave": "08/00172B",
+    "tendencia": "UBEBE",
+    "familia_olfativa": "FLORAL",
+    "nota_principal": "ROSA",
+    "dia_noche": "",
+    "tipo":"N",
+    "genero":"U"
   }
 ]

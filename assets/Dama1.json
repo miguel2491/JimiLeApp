@@ -1,2265 +1,3242 @@
 [
   {
-    "Clave": "01/03616",
-    "Tendencia": "DI X CIENTO",
-    "Familia_Olfativa": "ORIENTAL",
-    "Nota_Principal": "BOURBON",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/00001A",
-    "Tendencia": "D212",
-    "Familia_Olfativa": "FLORAL",
-    "Nota_Principal": "GARDENIA",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/00005B",
-    "Tendencia": "D212 H2O",
-    "Familia_Olfativa": "FRESCA",
-    "Nota_Principal": "CÍTRICOS",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/02852A",
-    "Tendencia": "D212 HEROES FOREV",
-    "Familia_Olfativa": "FLORAL",
-    "Nota_Principal": "JAZMÍN",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/00793A",
-    "Tendencia": "D212 ON ICE",
-    "Familia_Olfativa": "FLORAL",
-    "Nota_Principal": "GARDENIA",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/00165B",
-    "Tendencia": "D212 SEXY",
-    "Familia_Olfativa": "ORIENTAL",
-    "Nota_Principal": "GARDENIA",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/01169A",
-    "Tendencia": "D212 VIP",
-    "Familia_Olfativa": "ORIENTAL",
-    "Nota_Principal": "RON",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/01598A",
-    "Tendencia": "D212 VIP ROSE",
-    "Familia_Olfativa": "FLORAL",
-    "Nota_Principal": "FLOR DE DURAZNO",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/03063A",
-    "Tendencia": "D212 VIP ROSE LINY",
-    "Familia_Olfativa": "FLORAL",
-    "Nota_Principal": "CHARACANO",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/02546A",
-    "Tendencia": "D212 VIP ROSE RED",
-    "Familia_Olfativa": "FLORAL",
-    "Nota_Principal": "ROSAS",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/02854A",
-    "Tendencia": "D212 VIP WINS WOM",
-    "Familia_Olfativa": "FLORAL",
-    "Nota_Principal": "CÍTRICOS",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/00745B",
-    "Tendencia": "D273",
-    "Familia_Olfativa": "ORIENTAL",
-    "Nota_Principal": "AMBAR",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/00002A",
-    "Tendencia": "D360",
-    "Familia_Olfativa": "FLORAL",
-    "Nota_Principal": "LAVANDA",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/00006A",
-    "Tendencia": "D360 RED",
-    "Familia_Olfativa": "FLORAL",
-    "Nota_Principal": "MIMOSA",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/00094C",
-    "Tendencia": "D5TH AVENUE",
-    "Familia_Olfativa": "FLORAL",
-    "Nota_Principal": "ROSA",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/02737A",
-    "Tendencia": "DADROP DISSEY",
-    "Familia_Olfativa": "MADEROSA",
-    "Nota_Principal": "LILA",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/00746A",
-    "Tendencia": "DAIRESDELTIEMPO",
-    "Familia_Olfativa": "FLORAL",
-    "Nota_Principal": "ROSA",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/02885A",
-    "Tendencia": "DALLEN CODDESS",
-    "Familia_Olfativa": "ORIENTAL",
-    "Nota_Principal": "CACHIMIRA",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/00787A",
-    "Tendencia": "DALLURE",
-    "Familia_Olfativa": "ORIENTAL",
-    "Nota_Principal": "VANILLA",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/00739A",
-    "Tendencia": "DAMARIGE",
-    "Familia_Olfativa": "FLORAL",
-    "Nota_Principal": "YLANG YLANG",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/00010A",
-    "Tendencia": "DAMOR AMOR",
-    "Familia_Olfativa": "FLORAL",
-    "Nota_Principal": "LIBRO",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/00752A",
-    "Tendencia": "DANAIS ANAIS",
-    "Familia_Olfativa": "FLORAL",
-    "Nota_Principal": "LIBRO DE LOS VALLES",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/00760B",
-    "Tendencia": "DANGE OU DEMON",
-    "Familia_Olfativa": "ORIENTAL",
-    "Nota_Principal": "YLANG YLANG",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/01090A",
-    "Tendencia": "DANGE OU DEMON LS",
-    "Familia_Olfativa": "FLORAL",
-    "Nota_Principal": "FLORES ACUSASAS",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/00756A",
-    "Tendencia": "DANGEL",
-    "Familia_Olfativa": "ORIENTAL",
-    "Nota_Principal": "DURAZNO",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/03072A",
-    "Tendencia": "DANGEL ELIXIR",
-    "Familia_Olfativa": "FLORAL",
-    "Nota_Principal": "JAZMÍN",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/00013A",
-    "Tendencia": "DANIMAL",
-    "Familia_Olfativa": "FOUGERE",
-    "Nota_Principal": "PACHULI",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/00743B",
-    "Tendencia": "DAQUA GIO",
-    "Familia_Olfativa": "FLORAL",
-    "Nota_Principal": "CÍTRICOS",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/01191A",
-    "Tendencia": "DAQUA GIOIA",
-    "Familia_Olfativa": "FLORAL",
-    "Nota_Principal": "NOTAS ACUSASAS",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/01792A",
-    "Tendencia": "DARI",
-    "Familia_Olfativa": "FRUTAL",
-    "Nota_Principal": "FRAMBUESA",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/00799A",
-    "Tendencia": "DARMANI CODE WOMAN",
-    "Familia_Olfativa": "ORIENTAL",
-    "Nota_Principal": "CÍTRICOS",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/00174A",
-    "Tendencia": "DBEDELICIOUS",
-    "Familia_Olfativa": "FOUGERE",
-    "Nota_Principal": "MANZANA VERDE",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/01803A",
-    "Tendencia": "DBLACK OPIUM",
-    "Familia_Olfativa": "ORIENTAL",
-    "Nota_Principal": "PIMIENTA",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/03102A",
-    "Tendencia": "DBLACK OPIUM EDT",
-    "Familia_Olfativa": "ORIENTAL",
-    "Nota_Principal": "CÍTRICOS",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/02149A",
-    "Tendencia": "DBOMBSHELL NIGHTS",
-    "Familia_Olfativa": "GOURMAND",
-    "Nota_Principal": "ALGOOD OF RE AZÚCAR",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/01601A",
-    "Tendencia": "DBONBON",
-    "Familia_Olfativa": "GOURMAND",
-    "Nota_Principal": "CARAMELO",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/03191A",
-    "Tendencia": "DBORN IN ROMA PINK",
-    "Familia_Olfativa": "ORIENTAL",
-    "Nota_Principal": "FLOR DE NARANJO",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/02898A",
-    "Tendencia": "DBOSS ALIVE INT HB",
-    "Familia_Olfativa": "ORIENTAL",
-    "Nota_Principal": "VETIVER",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/01001A",
-    "Tendencia": "DBOSS ORANGE",
-    "Familia_Olfativa": "ORIENTAL",
-    "Nota_Principal": "DURAZNO",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/01305A",
-    "Tendencia": "DBRIGHT CRYSTAL",
-    "Familia_Olfativa": "FLORAL",
-    "Nota_Principal": "PICNAL",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/03389A",
-    "Tendencia": "DBRIGHT CRYSTAL PA",
-    "Familia_Olfativa": "FLORAL",
-    "Nota_Principal": "FRUTOS ROJOS",
-    "DiaNoche": ""
-  },
-  //  1 HOJA
-  {
-    "Clave": "01/02388A",
-    "Tendencia": "DBURBERRY HER",
-    "Familia_Olfativa": "FRUTAL",
-    "Nota_Principal": "FRAMBUESA",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/03138A",
-    "Tendencia": "DRURBERRY HER ELIX",
-    "Familia_Olfativa": "FLORAL",
-    "Nota_Principal": "FRAMBUESA",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/00789A",
-    "Tendencia": "DRURBERRY LONDON",
-    "Familia_Olfativa": "FLORAL",
-    "Nota_Principal": "JAZMÍN",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/02844A",
-    "Tendencia": "DRURBERRY WOMAN",
-    "Familia_Olfativa": "FRUTAL",
-    "Nota_Principal": "CHARACANO",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/00501A",
-    "Tendencia": "DBVIGARIA",
-    "Familia_Olfativa": "FLORAL",
-    "Nota_Principal": "ROSA",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/00522A",
-    "Tendencia": "DCANCAN",
-    "Familia_Olfativa": "FLORAL",
-    "Nota_Principal": "FLOR DE NARANJO",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/02607A",
-    "Tendencia": "DCANDY LOVE",
-    "Familia_Olfativa": "GOURMAND",
-    "Nota_Principal": "MANZANA ACARAMELADA",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/02043A",
-    "Tendencia": "DCANDY PRADA",
-    "Familia_Olfativa": "ORIENTAL",
-    "Nota_Principal": "CARAMELO",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/00225A",
-    "Tendencia": "DCAROLINA",
-    "Familia_Olfativa": "FLORAL",
-    "Nota_Principal": "JAZMÍN",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/03298A",
-    "Tendencia": "DCI NOIR BEYONCE",
-    "Familia_Olfativa": "FLORAL",
-    "Nota_Principal": "JAZMÍN",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/00495A",
-    "Tendencia": "DCI",
-    "Familia_Olfativa": "ORIENTAL",
-    "Nota_Principal": "JAZMÍN",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/02680A",
-    "Tendencia": "DCII BEAUTIES",
-    "Familia_Olfativa": "FLORAL",
-    "Nota_Principal": "JAZMÍN",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/02901A",
-    "Tendencia": "DCII HOTI HOTI",
-    "Familia_Olfativa": "ORIENTAL",
-    "Nota_Principal": "FRAMBUESA",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/03724A",
-    "Tendencia": "DCII PASION HER",
-    "Familia_Olfativa": "ORIENTAL",
-    "Nota_Principal": "VIOLETA",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/00733B",
-    "Tendencia": "DCIIANCE",
-    "Familia_Olfativa": "FOUGERE",
-    "Nota_Principal": "PACHULI",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/02752A",
-    "Tendencia": "DCIIANCE LAU FRANCH",
-    "Familia_Olfativa": "FLORAL",
-    "Nota_Principal": "MADERAS",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/02756A",
-    "Tendencia": "DCIIANCE LAU TENDRE",
-    "Familia_Olfativa": "FLORAL",
-    "Nota_Principal": "CÍTRICOS",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/00738B",
-    "Tendencia": "DCIIANTES",
-    "Familia_Olfativa": "FLORAL",
-    "Nota_Principal": "NEROLI",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/00782A",
-    "Tendencia": "DCIIAMPAGNE",
-    "Familia_Olfativa": "ORIENTAL",
-    "Nota_Principal": "PACHULI",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/0167A",
-    "Tendencia": "DCIIAPRECIFIC ILOVIZ",
-    "Familia_Olfativa": "FLORAL",
-    "Nota_Principal": "LIBRO DE LOS VALLES",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/00304A",
-    "Tendencia": "DCIIC",
-    "Familia_Olfativa": "FLORAL",
-    "Nota_Principal": "FLOR DE NARANJO",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/00655A",
-    "Tendencia": "DCLASSIQUE JPG",
-    "Familia_Olfativa": "ORIENTAL",
-    "Nota_Principal": "CÍTRICOS",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/02375A",
-    "Tendencia": "DCLOUD",
-    "Familia_Olfativa": "FRUTAL",
-    "Nota_Principal": "COCO",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/03146A",
-    "Tendencia": "DCLOUD PINK",
-    "Familia_Olfativa": "ORIENTAL",
-    "Nota_Principal": "VANILLA",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/02771A",
-    "Tendencia": "DCOOGHENSETDRAMS",
-    "Familia_Olfativa": "ORIENTAL",
-    "Nota_Principal": "MACINOLIA",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/00744A",
-    "Tendencia": "DCOCO CHANEL",
-    "Familia_Olfativa": "ORIENTAL",
-    "Nota_Principal": "AMBAR",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/00779B",
-    "Tendencia": "DCOCO MADEMO",
-    "Familia_Olfativa": "FOUGERE",
-    "Nota_Principal": "JAZMÍN",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/02821A",
-    "Tendencia": "DCOLORROSENTENSE",
-    "Familia_Olfativa": "FLORAL",
-    "Nota_Principal": "MADRESLIVA",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/00741B",
-    "Tendencia": "DCOOLWATER",
-    "Familia_Olfativa": "FRESCA",
-    "Nota_Principal": "OZONO",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/03469A",
-    "Tendencia": "DCOSMIC",
-    "Familia_Olfativa": "ORIENTAL",
-    "Nota_Principal": "JAZMÍN",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/00859A",
-    "Tendencia": "DCIUNY",
-    "Familia_Olfativa": "FLORAL",
-    "Nota_Principal": "CHARACANO",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/02442A",
-    "Tendencia": "DDAISY EAUSORESH",
-    "Familia_Olfativa": "FLORAL",
-    "Nota_Principal": "NOTAS VERDES",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/02832A",
-    "Tendencia": "DDAISY EAUSOINTENS",
-    "Familia_Olfativa": "ORIENTAL",
-    "Nota_Principal": "PERA",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/02846A",
-    "Tendencia": "DDAISY LOVE",
-    "Familia_Olfativa": "FLORAL",
-    "Nota_Principal": "FRAMBUESA",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/02850A",
-    "Tendencia": "DDAISY SKIES",
-    "Familia_Olfativa": "FRESCA",
-    "Nota_Principal": "NOTAS ACUSASAS",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/02811A",
-    "Tendencia": "DDANCE-MIDNIGHT SH",
-    "Familia_Olfativa": "FLORAL",
-    "Nota_Principal": "GROSELLA NEGRA",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/01404A",
-    "Tendencia": "DDATJE",
-    "Familia_Olfativa": "FRUTAL",
-    "Nota_Principal": "CEREZA",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/01866A",
-    "Tendencia": "DDECADENCE",
-    "Familia_Olfativa": "ORIENTAL",
-    "Nota_Principal": "ROSA",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/03226A",
-    "Tendencia": "DDEVOTION",
-    "Familia_Olfativa": "ORIENTAL",
-    "Nota_Principal": "CÍTRICOS",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/0058A",
-    "Tendencia": "DDIVA",
-    "Familia_Olfativa": "FOUGERE",
-    "Nota_Principal": "PACHULI",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/03453A",
-    "Tendencia": "DDIVINE LE PARFUM",
-    "Familia_Olfativa": "ORIENTAL",
-    "Nota_Principal": "NOTAS SOLARES",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/01996A",
-    "Tendencia": "DDKNY BEDELIC BRIG",
-    "Familia_Olfativa": "FLORAL",
-    "Nota_Principal": "GROSELLA NEGRA",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/02919A",
-    "Tendencia": "DDKNY BEDELIC EDIT",
-    "Familia_Olfativa": "FLORAL",
-    "Nota_Principal": "PERA",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/02817A",
-    "Tendencia": "DDKNY BEDELIC FRES",
-    "Familia_Olfativa": "FLORAL",
-    "Nota_Principal": "CÍTRICOS",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/00036B",
-    "Tendencia": "DDOLCE GABANNA",
-    "Familia_Olfativa": "FLORAL",
-    "Nota_Principal": "FLOR DE NARANJO",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/03133A",
-    "Tendencia": "DDOLCE VIOLET",
-    "Familia_Olfativa": "FLORAL",
-    "Nota_Principal": "VIOLETA",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/00797A",
-    "Tendencia": "DDOLCE VITA DIOR",
-    "Familia_Olfativa": "ORIENTAL",
-    "Nota_Principal": "CHARACANO",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/03005A",
-    "Tendencia": "DDONADORNAROMAN",
-    "Familia_Olfativa": "ORIENTAL",
-    "Nota_Principal": "JAZMÍN",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/02872",
-    "Tendencia": "DOREAM ANGEL",
-    "Familia_Olfativa": "ORIENTAL",
-    "Nota_Principal": "AMBAR",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/00783A",
-    "Tendencia": "DDUNE",
-    "Familia_Olfativa": "ORIENTAL",
-    "Nota_Principal": "JAZMÍN",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/03117A",
-    "Tendencia": "DDYLAN PURPLE",
-    "Familia_Olfativa": "FLORAL",
-    "Nota_Principal": "FRESA",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/02696A",
-    "Tendencia": "DDYLAN TURQUESA",
-    "Familia_Olfativa": "FLORAL",
-    "Nota_Principal": "CÍTRICOS",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/00764B",
-    "Tendencia": "DEAU DE CARTER",
-    "Familia_Olfativa": "FRESCA",
-    "Nota_Principal": "CÍTRICOS",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/01673A",
-    "Tendencia": "DEAU SO SEXY",
-    "Familia_Olfativa": "FLORAL",
-    "Nota_Principal": "MANZANA",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/01026A",
-    "Tendencia": "DECLAT DARPEGE",
-    "Familia_Olfativa": "FLORAL",
-    "Nota_Principal": "PROMA",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/03001A",
-    "Tendencia": "DECLAT DARPEGE MON",
-    "Familia_Olfativa": "FLORAL",
-    "Nota_Principal": "CHARACANO",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/00866B",
-    "Tendencia": "DED HARDY WOMAN",
-    "Familia_Olfativa": "FLORAL",
-    "Nota_Principal": "MANZANA",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/00647A",
-    "Tendencia": "DEDEN",
-    "Familia_Olfativa": "FLORAL",
-    "Nota_Principal": "CÍTRICOS",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/02903A",
-    "Tendencia": "DELISH",
-    "Familia_Olfativa": "ORIENTAL",
-    "Nota_Principal": "VANILLA",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/02506A",
-    "Tendencia": "DELECTREY",
-    "Familia_Olfativa": "ORIENTAL",
-    "Nota_Principal": "PROMA",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/00747A",
-    "Tendencia": "DEMPORNO",
-    "Familia_Olfativa": "ORIENTAL",
-    "Nota_Principal": "CÍTRICOS",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/01703C",
-    "Tendencia": "DEROS",
-    "Familia_Olfativa": "FLORAL",
-    "Nota_Principal": "FLOR DE NARANJO",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/00434A",
-    "Tendencia": "DESTELLAUDER",
-    "Familia_Olfativa": "FLORAL",
-    "Nota_Principal": "JAZMÍN",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/00444A",
-    "Tendencia": "DETERNTY",
-    "Familia_Olfativa": "FLORAL",
-    "Nota_Principal": "ROSA",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/03006A",
-    "Tendencia": "DETERNTY EDP INT",
-    "Familia_Olfativa": "FLORAL",
-    "Nota_Principal": "ROSA",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/00763B",
-    "Tendencia": "DEUPHORIA",
-    "Familia_Olfativa": "ORIENTAL",
-    "Nota_Principal": "NOTAS VERDES",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/00645A",
-    "Tendencia": "DEXCLAMATION",
-    "Familia_Olfativa": "FLORAL",
-    "Nota_Principal": "JAZMÍN",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/00778B",
-    "Tendencia": "DEXTRAVAGA",
-    "Familia_Olfativa": "FLORAL",
-    "Nota_Principal": "FLOR DE NARANJO",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/02874",
-    "Tendencia": "DFAME PR",
-    "Familia_Olfativa": "FLORAL",
-    "Nota_Principal": "MANGO",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/03289A",
-    "Tendencia": "DFAME PR PARFUJI",
-    "Familia_Olfativa": "FLORAL",
-    "Nota_Principal": "MANGO",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/01837A",
-    "Tendencia": "DFANTASY",
-    "Familia_Olfativa": "GOURMAND",
-    "Nota_Principal": "CHOCOLATE",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/01741A",
-    "Tendencia": "DFARE FOLIE",
-    "Familia_Olfativa": "FLORAL",
-    "Nota_Principal": "JAZMÍN",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/00647A",
-    "Tendencia": "DEFEND",
-    "Familia_Olfativa": "FOUGERE",
-    "Nota_Principal": "CARDAMOMO",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/01931B",
-    "Tendencia": "DIFERRION GREEN",
-    "Familia_Olfativa": "FLORAL",
-    "Nota_Principal": "JAZMÍN",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/02783A",
-    "Tendencia": "DILORA GONG GARDEN",
-    "Familia_Olfativa": "FLORAL",
-    "Nota_Principal": "GARDENIA",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/02936A",
-    "Tendencia": "DILORA GONG ASMIN",
-    "Familia_Olfativa": "ORIENTAL",
-    "Nota_Principal": "SÁNDALO",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/03216A",
-    "Tendencia": "DILORA GONG MACROL",
-    "Familia_Olfativa": "FOUGERE",
-    "Nota_Principal": "MADERA",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/00118A",
-    "Tendencia": "DILOWER",
-    "Familia_Olfativa": "ORIENTAL",
-    "Nota_Principal": "ROSA",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/02743A",
-    "Tendencia": "DILOWER BY KENZO 2",
-    "Familia_Olfativa": "FLORAL",
-    "Nota_Principal": "ROSA",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/03292A",
-    "Tendencia": "DILOWER KEBANA",
-    "Familia_Olfativa": "FLORAL",
-    "Nota_Principal": "FLOR DE CEREZO",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/02958A",
-    "Tendencia": "DILOWER LARSOLUE",
-    "Familia_Olfativa": "FLORAL",
-    "Nota_Principal": "AZAFRÁN",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/01786A",
-    "Tendencia": "DILOWERROMB",
-    "Familia_Olfativa": "ORIENTAL",
-    "Nota_Principal": "CÍTRICOS",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/01999",
-    "Tendencia": "DFUNNYI",
-    "Familia_Olfativa": "FLORAL",
-    "Nota_Principal": "PROMA",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/02941A",
-    "Tendencia": "DGABRIELLE EDP",
-    "Familia_Olfativa": "FLORAL",
-    "Nota_Principal": "FLOR DE NARANJO",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/02762A",
-    "Tendencia": "DGEMS PARTY TOUS",
-    "Familia_Olfativa": "FRUTAL",
-    "Nota_Principal": "DURAZNO",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/02745A",
-    "Tendencia": "DCIRL ROCH",
-    "Familia_Olfativa": "FLORAL",
-    "Nota_Principal": "NEROLI",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/02803A",
-    "Tendencia": "DCOOD IS A WOMAN",
-    "Familia_Olfativa": "FLORAL",
-    "Nota_Principal": "PERA",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/03213A",
-    "Tendencia": "DGOODESS",
-    "Familia_Olfativa": "ORIENTAL",
-    "Nota_Principal": "JENGIBRE",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/01938A",
-    "Tendencia": "DCOOD RUSH",
-    "Familia_Olfativa": "FRUTAL",
-    "Nota_Principal": "NECTARINA",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/02943A",
-    "Tendencia": "DCOOD FORTUNE EDP",
-    "Familia_Olfativa": "FLORAL",
-    "Nota_Principal": "JAZMÍN",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/01912C",
-    "Tendencia": "DCOOD GIRL",
-    "Familia_Olfativa": "ORIENTAL",
-    "Nota_Principal": "ALMENDRA",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/03102A",
-    "Tendencia": "DCOOD GIRL BLUSH",
-    "Familia_Olfativa": "FOUGERE",
-    "Nota_Principal": "VANILLA",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/03477A",
-    "Tendencia": "DCOOD GIRL BLUSH",
-    "Familia_Olfativa": "FOUGERE",
-    "Nota_Principal": "VANILLA",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/03210A",
-    "Tendencia": "DCOOD GIRL DAZZIN",
-    "Familia_Olfativa": "FLORAL",
-    "Nota_Principal": "ALMENDRA",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/02997A",
-    "Tendencia": "DCOOD GIRL MDINGH",
-    "Familia_Olfativa": "ORIENTAL",
-    "Nota_Principal": "HABA TONKA",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/02805A",
-    "Tendencia": "DCOOD GIRL SUPREST",
-    "Familia_Olfativa": "ORIENTAL",
-    "Nota_Principal": "JAZMÍN",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/02614A",
-    "Tendencia": "DCOOD GIRL VELVET",
-    "Familia_Olfativa": "ORIENTAL",
-    "Nota_Principal": "PRALINÉ",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/03524A",
-    "Tendencia": "DCRERN CACTUS HER",
-    "Familia_Olfativa": "FLORAL",
-    "Nota_Principal": "CACTUS",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/01102A",
-    "Tendencia": "DGUCCI",
-    "Familia_Olfativa": "FRUTAL",
-    "Nota_Principal": "FLOR DE TIARE",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/01771A",
-    "Tendencia": "DGUCCI BAMBOO",
-    "Familia_Olfativa": "FLORAL",
-    "Nota_Principal": "YLANG YLANG",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/03142A",
-    "Tendencia": "DGUCCI BLOOM INT",
-    "Familia_Olfativa": "FLORAL",
-    "Nota_Principal": "JAZMÍN",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/02750A",
-    "Tendencia": "DGUCCI BLOOM NET",
-    "Familia_Olfativa": "FLORAL",
-    "Nota_Principal": "JAZMÍN",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/01254A",
-    "Tendencia": "DGUCCI RUSH",
-    "Familia_Olfativa": "FRUTAL",
-    "Nota_Principal": "PACHULI",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/02798A",
-    "Tendencia": "DGUCCIGUIITY ELIXI",
-    "Familia_Olfativa": "FLORAL",
-    "Nota_Principal": "JAZMÍN",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/03280A",
-    "Tendencia": "DGUCCIGUIITY INTEIN",
-    "Familia_Olfativa": "ORIENTAL",
-    "Nota_Principal": "ROSA",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/02840A",
-    "Tendencia": "DGUCCIGUIITY INTEIN",
-    "Familia_Olfativa": "ORIENTAL",
-    "Nota_Principal": "VIOLETA",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/00957A",
-    "Tendencia": "DGUESS",
-    "Familia_Olfativa": "FLORAL",
-    "Nota_Principal": "CÍTRICOS",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/01525C",
-    "Tendencia": "DGUESS GIRL",
-    "Familia_Olfativa": "FLORAL",
-    "Nota_Principal": "FRAMBUESA",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/01334A",
-    "Tendencia": "DHALLOWEEN",
-    "Familia_Olfativa": "ORIENTAL",
-    "Nota_Principal": "MADERA",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/02881A",
-    "Tendencia": "DHALLOWEEN BOSSOM",
-    "Familia_Olfativa": "FLORAL",
-    "Nota_Principal": "FLOR DE NARANJO",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/00788A",
-    "Tendencia": "DHAPPY",
-    "Familia_Olfativa": "FLORAL",
-    "Nota_Principal": "CÍTRICOS",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/00737B",
-    "Tendencia": "DHERRESS",
-    "Familia_Olfativa": "FLORAL",
-    "Nota_Principal": "DURAZNO",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/00132A",
-    "Tendencia": "DHIPNOTIC POISON",
-    "Familia_Olfativa": "ORIENTAL",
-    "Nota_Principal": "VANILLA",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/00651A",
-    "Tendencia": "DHUGO",
-    "Familia_Olfativa": "FLORAL",
-    "Nota_Principal": "JAZMÍN",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/02473A",
-    "Tendencia": "DIDOLE",
-    "Familia_Olfativa": "FOUGERE",
-    "Nota_Principal": "CÍTRICOS",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/02930A",
-    "Tendencia": "DIDOLE NECTAR EDP",
-    "Familia_Olfativa": "ORIENTAL",
-    "Nota_Principal": "VANILLA",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/02574A",
-    "Tendencia": "DIRRESISTIBLE",
-    "Familia_Olfativa": "FLORAL",
-    "Nota_Principal": "ROSA",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/02834A",
-    "Tendencia": "DIRRESISTIBLE EDIT",
-    "Familia_Olfativa": "FLORAL",
-    "Nota_Principal": "IRIS",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/00748A",
-    "Tendencia": "DISLAND KISS",
-    "Familia_Olfativa": "FLORAL",
-    "Nota_Principal": "CÍTRICOS",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/03301A",
-    "Tendencia": "DIADE MALUMA",
-    "Familia_Olfativa": "FOUGERE",
-    "Nota_Principal": "GROSELLA NEGRA",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/00335B",
-    "Tendencia": "DIADORE",
-    "Familia_Olfativa": "FLORAL",
-    "Nota_Principal": "MADERA",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/02704A",
-    "Tendencia": "DIADORE INFINISIME",
-    "Familia_Olfativa": "ORIENTAL",
-    "Nota_Principal": "JAZMÍN",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/03778A",
-    "Tendencia": "DIJUNGLE FANTASY",
-    "Familia_Olfativa": "GOURMAND",
-    "Nota_Principal": "SANDÍA",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/00196A",
-    "Tendencia": "DKENZO AMOUR",
-    "Familia_Olfativa": "ORIENTAL",
-    "Nota_Principal": "FLOR DE CEREZO",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/01518A",
-    "Tendencia": "DKILLER QUEEN",
-    "Familia_Olfativa": "FLORAL",
-    "Nota_Principal": "JAZMÍN",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/02373A",
-    "Tendencia": "DKIMOLI CHERRY",
-    "Familia_Olfativa": "GOURMAND",
-    "Nota_Principal": "CEREZA",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/02459A",
-    "Tendencia": "DKKW BAE",
-    "Familia_Olfativa": "FRUTAL",
-    "Nota_Principal": "KVM",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/02452A",
-    "Tendencia": "DKKW BFF",
-    "Familia_Olfativa": "FRUTAL",
-    "Nota_Principal": "MAUVAVISCO",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/02485C",
-    "Tendencia": "DKKW LIPS PINK",
-    "Familia_Olfativa": "FRUTAL",
-    "Nota_Principal": "COCO",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/0186C",
-    "Tendencia": "DLTZG NATURAL",
-    "Familia_Olfativa": "FRUTAL",
-    "Nota_Principal": "PRÍA",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/03154A",
-    "Tendencia": "DLTZG ROSE INTENS",
-    "Familia_Olfativa": "FLORAL",
-    "Nota_Principal": "ROSA",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/02589A",
-    "Tendencia": "DLA BELLE",
-    "Familia_Olfativa": "ORIENTAL",
-    "Nota_Principal": "VANILLA",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/03383A",
-    "Tendencia": "DLA BELLE PARADISE",
-    "Familia_Olfativa": "FLORAL",
-    "Nota_Principal": "IRIS",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/03335A",
-    "Tendencia": "DLA NUIT TRESOR FN",
-    "Familia_Olfativa": "FLORAL",
-    "Nota_Principal": "ROSA",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/00753B",
-    "Tendencia": "DLACOSTE FEMME",
-    "Familia_Olfativa": "FLORAL",
-    "Nota_Principal": "PRESA",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/01216A",
-    "Tendencia": "DLAQY MILLION",
-    "Familia_Olfativa": "FLORAL",
-    "Nota_Principal": "JAZMÍN",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/03068A",
-    "Tendencia": "DLAQY MILLION ROYA",
-    "Familia_Olfativa": "FLORAL",
-    "Nota_Principal": "MADERAS",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/01500A",
-    "Tendencia": "DLAVIEBELLE",
-    "Familia_Olfativa": "ORIENTAL",
-    "Nota_Principal": "GROSELLA NEGRA",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/03559A",
-    "Tendencia": "DLAVIEBELLE EXT",
-    "Familia_Olfativa": "ORIENTAL",
-    "Nota_Principal": "ROSA",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/03322A",
-    "Tendencia": "DLAVIEBELLE IRIS A",
-    "Familia_Olfativa": "FLORAL",
-    "Nota_Principal": "GROSELLA NEGRA",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/02995A",
-    "Tendencia": "DLAVIEBELLE LEVEL",
-    "Familia_Olfativa": "FLORAL",
-    "Nota_Principal": "FLOR DE NARANJO",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/02929A",
-    "Tendencia": "DLAVIEBELLE OUI",
-    "Familia_Olfativa": "FLORAL",
-    "Nota_Principal": "ROSA",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/02706A",
-    "Tendencia": "DLAVIEBELLE SOLEIL",
-    "Familia_Olfativa": "FOUGERE",
-    "Nota_Principal": "VANILLA",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/02483A",
-    "Tendencia": "DLUBRE",
-    "Familia_Olfativa": "ORIENTAL",
-    "Nota_Principal": "LAVANDA",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/02960A",
-    "Tendencia": "DLUBRE LE PARFUM",
-    "Familia_Olfativa": "FLORAL",
-    "Nota_Principal": "CÍTRICOS",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/0051B",
-    "Tendencia": "DLIGHT BLUE",
-    "Familia_Olfativa": "FLORAL",
-    "Nota_Principal": "MANZANA VERDE",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/03129A",
-    "Tendencia": "DLIGHT BLUE SMRVBS",
-    "Familia_Olfativa": "ORIENTAL",
-    "Nota_Principal": "CÍTRICOS",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/02730A",
-    "Tendencia": "DLOOK ARDUP",
-    "Familia_Olfativa": "ORIENTAL",
-    "Nota_Principal": "JAZMÍN",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/03172A",
-    "Tendencia": "DLOVE RUSH",
-    "Familia_Olfativa": "FLORAL",
-    "Nota_Principal": "GARDENIA",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/01830B",
-    "Tendencia": "DLOVE SCHARAGGARA",
-    "Familia_Olfativa": "GOURMAND",
-    "Nota_Principal": "CAFÉ",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "02/01904A",
-    "Tendencia": "DLOVEME",
-    "Familia_Olfativa": "FLORAL",
-    "Nota_Principal": "PROMA",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/03219A",
-    "Tendencia": "DLOVEME EMERALDI",
-    "Familia_Olfativa": "ORIENTAL",
-    "Nota_Principal": "CÍTRICOS",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/02815A",
-    "Tendencia": "DLOVEME ONYX",
-    "Familia_Olfativa": "FLORAL",
-    "Nota_Principal": "ORQUIDEA",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/01070A",
-    "Tendencia": "DMAADAME ROCHAIS",
-    "Familia_Olfativa": "FLORAL",
-    "Nota_Principal": "JAZMÍN",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/01913A",
-    "Tendencia": "DMAADLOVE",
-    "Familia_Olfativa": "ORIENTAL",
-    "Nota_Principal": "MANZANA",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/01078A",
-    "Tendencia": "DMAIGE NOIR",
-    "Familia_Olfativa": "FOUGERE",
-    "Nota_Principal": "RAZ DE LIBRO",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/02721B",
-    "Tendencia": "DMAUVANJA",
-    "Familia_Olfativa": "GOURMAND",
-    "Nota_Principal": "VANILLA",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/01370A",
-    "Tendencia": "DMOOV KATY PERRY",
-    "Familia_Olfativa": "FRUTAL",
-    "Nota_Principal": "VANILLA",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/02416C",
-    "Tendencia": "DMIAM BLOSSOM",
-    "Familia_Olfativa": "FLORAL",
-    "Nota_Principal": "MOBAS AZULES",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/00736A",
-    "Tendencia": "DMDINGHIT FANTASY",
-    "Familia_Olfativa": "FLORAL",
-    "Nota_Principal": "CRUELA",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/01600A",
-    "Tendencia": "DMISS DOOR BLOOMIN",
-    "Familia_Olfativa": "FLORAL",
-    "Nota_Principal": "PROMA",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/02769A",
-    "Tendencia": "DMISS DOOR EDP",
-    "Familia_Olfativa": "ORIENTAL",
-    "Nota_Principal": "ROSA",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/02080A",
-    "Tendencia": "DMISS DOOR PARFUM",
-    "Familia_Olfativa": "FOUGERE",
-    "Nota_Principal": "JAZMÍN",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/03339A",
-    "Tendencia": "DMOD BLUSH",
-    "Familia_Olfativa": "FRUTAL",
-    "Nota_Principal": "PERA",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/03014A",
-    "Tendencia": "DMOD VANILLA",
-    "Familia_Olfativa": "ORIENTAL",
-    "Nota_Principal": "VANILLA",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/01981A",
-    "Tendencia": "DMON GUERLAIN",
-    "Familia_Olfativa": "ORIENTAL",
-    "Nota_Principal": "LAVANDA",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/02252A",
-    "Tendencia": "DMON PAIRS COUTURE",
-    "Familia_Olfativa": "FRUTAL",
-    "Nota_Principal": "FRAMBUESA",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/02920A",
-    "Tendencia": "DMON PAIRS LUMIERE",
-    "Familia_Olfativa": "FRESCA",
-    "Nota_Principal": "JAZMÍN",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/0217C",
-    "Tendencia": "DMOON LIME",
-    "Familia_Olfativa": "GOURMAND",
-    "Nota_Principal": "MAUVAVISCO",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/03131A",
-    "Tendencia": "DMORE MORE PINK",
-    "Familia_Olfativa": "FRUTAL",
-    "Nota_Principal": "PERA",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/00071A",
-    "Tendencia": "DMLISE KOVAN",
-    "Familia_Olfativa": "ORIENTAL",
-    "Nota_Principal": "NEROLI",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/02609A",
-    "Tendencia": "DMY WAY",
-    "Familia_Olfativa": "FLORAL",
-    "Nota_Principal": "FLOR DE NARANJO",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/02856A",
-    "Tendencia": "DMY WAY INTENSE",
-    "Familia_Olfativa": "MADEROSA",
-    "Nota_Principal": "FLOR DE NARANJO",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/03343A",
-    "Tendencia": "DMY WAY NECTAR",
-    "Familia_Olfativa": "FLORAL",
-    "Nota_Principal": "JAZMÍN",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/03075A",
-    "Tendencia": "DMY WAY PARFUM",
-    "Familia_Olfativa": "FLORAL",
-    "Nota_Principal": "JAZMÍN",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/03274A",
-    "Tendencia": "DMTEUPHORIA EDP",
-    "Familia_Olfativa": "ORIENTAL",
-    "Nota_Principal": "ORQUIDEA",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/03107A",
-    "Tendencia": "DMAICISOHERFOREVR",
-    "Familia_Olfativa": "FLORAL",
-    "Nota_Principal": "ALMEZZE",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/02933A",
-    "Tendencia": "DMAICISOHOPCRISTAL",
-    "Familia_Olfativa": "FLORAL",
-    "Nota_Principal": "JAZMÍN",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/01580A",
-    "Tendencia": "DNEXT GIRLFREND",
-    "Familia_Olfativa": "FRUTAL",
-    "Nota_Principal": "PRÍA",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/02777A",
-    "Tendencia": "DNNIA EXTRA ROUGE",
-    "Familia_Olfativa": "FRUTAL",
-    "Nota_Principal": "FRAMBUESA",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/03100A",
-    "Tendencia": "DNNIA NATURE",
-    "Familia_Olfativa": "FLORAL",
-    "Nota_Principal": "LIBRO DE LOS VALLES",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/00205A",
-    "Tendencia": "DNNIANECCI",
-    "Familia_Olfativa": "FLORAL",
-    "Nota_Principal": "ROSA",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/00792A",
-    "Tendencia": "DNOA",
-    "Familia_Olfativa": "MADEROSA",
-    "Nota_Principal": "JAZMÍN",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/02809A",
-    "Tendencia": "DNUDEMUSK",
-    "Familia_Olfativa": "ORIENTAL",
-    "Nota_Principal": "NEROLI",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/00765B",
-    "Tendencia": "DOSESSION",
-    "Familia_Olfativa": "ORIENTAL",
-    "Nota_Principal": "VANILLA",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/01782A",
-    "Tendencia": "DOTMPEA",
-    "Familia_Olfativa": "ORIENTAL",
-    "Nota_Principal": "JAZMÍN",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/02867A",
-    "Tendencia": "DOTMPEA SOLAR",
-    "Familia_Olfativa": "FRESCA",
-    "Nota_Principal": "FLORES DE TIARE",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/01519",
-    "Tendencia": "DOMBREROSE",
-    "Familia_Olfativa": "ORIENTAL",
-    "Nota_Principal": "VANILLA",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/00681A",
-    "Tendencia": "DOPIUM",
-    "Familia_Olfativa": "ORIENTAL",
-    "Nota_Principal": "YLANG YLANG",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/00882A",
-    "Tendencia": "DORGANZA",
-    "Familia_Olfativa": "ORIENTAL",
-    "Nota_Principal": "JAZMÍN",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/00759A",
-    "Tendencia": "DOSCABDELARENTA",
-    "Familia_Olfativa": "ORIENTAL",
-    "Nota_Principal": "ROSA",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/00885A",
-    "Tendencia": "DOUI",
-    "Familia_Olfativa": "FLORAL",
-    "Nota_Principal": "LIBRO DE LOS VALLES",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/02791A",
-    "Tendencia": "DOUI SPIASH",
-    "Familia_Olfativa": "FRUTAL",
-    "Nota_Principal": "SANDÍA",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/00866A",
-    "Tendencia": "DPAIONA PICASSO",
-    "Familia_Olfativa": "FOUGERE",
-    "Nota_Principal": "YLANG YLANG",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/03286A",
-    "Tendencia": "DPARADOXE",
-    "Familia_Olfativa": "ORIENTAL",
-    "Nota_Principal": "NEROLI",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/00687A",
-    "Tendencia": "DPARIS",
-    "Familia_Olfativa": "FLORAL",
-    "Nota_Principal": "ROSA",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/00734B",
-    "Tendencia": "DPARIS HILTON",
-    "Familia_Olfativa": "FLORAL",
-    "Nota_Principal": "MIMOSA",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/03168A",
-    "Tendencia": "DPARTY LOVE",
-    "Familia_Olfativa": "ORIENTAL",
-    "Nota_Principal": "CEREZA",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/00740B",
-    "Tendencia": "DPASSION",
-    "Familia_Olfativa": "ORIENTAL",
-    "Nota_Principal": "JAZMÍN",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/02605A",
-    "Tendencia": "DPERFECT",
-    "Familia_Olfativa": "FLORAL",
-    "Nota_Principal": "NARCISO",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/03997A",
-    "Tendencia": "DPERFECT EDIT",
-    "Familia_Olfativa": "ORIENTAL",
-    "Nota_Principal": "NARCISO",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/00150C",
-    "Tendencia": "DFERLAS NEGRAS",
-    "Familia_Olfativa": "ORIENTAL",
-    "Nota_Principal": "DURAZNO",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/00715A",
-    "Tendencia": "DPERRY ELUS",
-    "Familia_Olfativa": "FLORAL",
-    "Nota_Principal": "AMBAR",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/03011A",
-    "Tendencia": "DPEITROBENOR RITE",
-    "Familia_Olfativa": "GOURMAND",
-    "Nota_Principal": "ALGOODONE AZÚCAR",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/03110A",
-    "Tendencia": "DPEITROBENOR RC",
-    "Familia_Olfativa": "FLORAL",
-    "Nota_Principal": "FLOR DE CEREZO",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/03352A",
-    "Tendencia": "DPIKK BY PINK VS",
-    "Familia_Olfativa": "FLORAL",
-    "Nota_Principal": "MANZANA",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/00762A",
-    "Tendencia": "DPLESURES",
-    "Familia_Olfativa": "FLORAL",
-    "Nota_Principal": "VIOLETA",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/00751A",
-    "Tendencia": "DPOEME",
-    "Familia_Olfativa": "FLORAL",
-    "Nota_Principal": "NARCISO",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/00742A",
-    "Tendencia": "DPOISON",
-    "Familia_Olfativa": "FLORAL",
-    "Nota_Principal": "ROSA",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/01887A",
-    "Tendencia": "DPOISON GIRL",
-    "Familia_Olfativa": "ORIENTAL",
-    "Nota_Principal": "ROSA",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/00772A",
-    "Tendencia": "DPOIO SPORT",
-    "Familia_Olfativa": "FRESCA",
-    "Nota_Principal": "MENTA",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/01243A",
-    "Tendencia": "DPURR BY KATIPERR",
-    "Familia_Olfativa": "FRUTAL",
-    "Nota_Principal": "ROSA",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/03016A",
-    "Tendencia": "DO BY DG",
-    "Familia_Olfativa": "ORIENTAL",
-    "Nota_Principal": "CÍTRICOS",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/00954A",
-    "Tendencia": "DRALPH",
-    "Familia_Olfativa": "FRUTAL",
-    "Nota_Principal": "CÍTRICOS",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/01736A",
-    "Tendencia": "DRALPH FRESH",
-    "Familia_Olfativa": "FRUTAL",
-    "Nota_Principal": "CÍTRICOS",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/00992A",
-    "Tendencia": "DRED DELICIOUS WOM",
-    "Familia_Olfativa": "FRUTAL",
-    "Nota_Principal": "LICHI",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/00750B",
-    "Tendencia": "DRED DOOR",
-    "Familia_Olfativa": "FLORAL",
-    "Nota_Principal": "FLOR DE NARANJO",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/02575A",
-    "Tendencia": "DREN",
-    "Familia_Olfativa": "ORIENTAL",
-    "Nota_Principal": "CARAMELO",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/01854A",
-    "Tendencia": "DRIRI",
-    "Familia_Olfativa": "FLORAL",
-    "Nota_Principal": "FLOR DE NARANJO",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/00761A",
-    "Tendencia": "DROMANCE",
-    "Familia_Olfativa": "FLORAL",
-    "Nota_Principal": "FRESIA",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/00757A",
-    "Tendencia": "DROYAL SECRET",
-    "Familia_Olfativa": "FOUGERE",
-    "Nota_Principal": "SÁNDALO",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/03456A",
-    "Tendencia": "DS KISS SHAKIRA",
-    "Familia_Olfativa": "FLORAL",
-    "Nota_Principal": "CÍTRICOS",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/00999A",
-    "Tendencia": "DSAMBA",
-    "Familia_Olfativa": "FLORAL",
-    "Nota_Principal": "JAZMÍN",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/01000A",
-    "Tendencia": "DSAMSARA",
-    "Familia_Olfativa": "ORIENTAL",
-    "Nota_Principal": "JAZMÍN",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/03995A",
-    "Tendencia": "DSANTORIN SUNRISE",
-    "Familia_Olfativa": "FLORAL",
-    "Nota_Principal": "BUGANVILIA",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/01170A",
-    "Tendencia": "DSBYSHAKIRA",
-    "Familia_Olfativa": "ORIENTAL",
-    "Nota_Principal": "JAZMÍN",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/02655C",
-    "Tendencia": "DSCANDAL",
-    "Familia_Olfativa": "FOUGERE",
-    "Nota_Principal": "PACHULI",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/02925A",
-    "Tendencia": "DSCANDAL LE PARFUM",
-    "Familia_Olfativa": "FLORAL",
-    "Nota_Principal": "JAZMÍN",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/01685A",
-    "Tendencia": "DSCANDALOUS",
-    "Familia_Olfativa": "FLORAL",
-    "Nota_Principal": "PECINA",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/00749B",
-    "Tendencia": "DSCAPE",
-    "Familia_Olfativa": "FLORAL",
-    "Nota_Principal": "MANZANILLA",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/01860A",
-    "Tendencia": "DSELEMA GOMEZ",
-    "Familia_Olfativa": "GOURMAND",
-    "Nota_Principal": "CHOCOLATE",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/01028A",
-    "Tendencia": "DSEXY GRAFITI",
-    "Familia_Olfativa": "FLORAL",
-    "Nota_Principal": "VIOLETA",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/00717A",
-    "Tendencia": "DSHALWANA",
-    "Familia_Olfativa": "ORIENTAL",
-    "Nota_Principal": "VANILLA",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/03003A",
-    "Tendencia": "DSHOW ME LOVE",
-    "Familia_Olfativa": "FRUTAL",
-    "Nota_Principal": "MORAS AZULES",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/01544A",
-    "Tendencia": "DSI",
-    "Familia_Olfativa": "ORIENTAL",
-    "Nota_Principal": "PACHULI",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/02578A",
-    "Tendencia": "DSKINATURE",
-    "Familia_Olfativa": "ORIENTAL",
-    "Nota_Principal": "MADERA",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/03115A",
-    "Tendencia": "DSKINORNA LIBERA",
-    "Familia_Olfativa": "FLORAL",
-    "Nota_Principal": "ROSA",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/03268B",
-    "Tendencia": "DSOIO ELLA ELIXIR",
-    "Familia_Olfativa": "FLORAL",
-    "Nota_Principal": "NARDO",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/02447A",
-    "Tendencia": "DSCREETTO ROSSO",
-    "Familia_Olfativa": "FRUTAL",
-    "Nota_Principal": "SANDÍA",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/02708C",
-    "Tendencia": "DSUMMER FESTIVAL",
-    "Familia_Olfativa": "FLORAL",
-    "Nota_Principal": "FLOR DE CEREZO",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/02829A",
-    "Tendencia": "DSUPER GORGEOUS",
-    "Familia_Olfativa": "FLORAL",
-    "Nota_Principal": "YLANG YLANG",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/02064A",
-    "Tendencia": "DSWEET LIKE CANDY",
-    "Familia_Olfativa": "GOURMAND",
-    "Nota_Principal": "MAUVAVISCO",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/03294A",
-    "Tendencia": "DSWEET TOOTH",
-    "Familia_Olfativa": "GOURMAND",
-    "Nota_Principal": "CHOCOLATE",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/03446A",
-    "Tendencia": "DSWEET TOOTH CARAM",
-    "Familia_Olfativa": "ORIENTAL",
-    "Nota_Principal": "CHOCOLATE",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/00289A",
-    "Tendencia": "DTABU",
-    "Familia_Olfativa": "ORIENTAL",
-    "Nota_Principal": "YLANG YLANG",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/03175A",
-    "Tendencia": "DTEA SE COCOA SOIRE",
-    "Familia_Olfativa": "GOURMAND",
-    "Nota_Principal": "CHOCOLATE",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/02807A",
-    "Tendencia": "DTERRACOTA MUSK",
-    "Familia_Olfativa": "FLORAL",
-    "Nota_Principal": "FLOR DE NARANJO",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/02489C",
-    "Tendencia": "DTHANK YOU NEXT",
-    "Familia_Olfativa": "FRUTAL",
-    "Nota_Principal": "FRAMBUESA",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/01608A",
-    "Tendencia": "DTHAT MOMENT ONER",
-    "Familia_Olfativa": "FLORAL",
-    "Nota_Principal": "JAZMÍN",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/03251A",
-    "Tendencia": "DTHE ICON WOMAN",
-    "Familia_Olfativa": "ORIENTAL",
-    "Nota_Principal": "GROSELLA NEGRA",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/02377A",
-    "Tendencia": "DTHE ONLY ONE DG",
-    "Familia_Olfativa": "ORIENTAL",
-    "Nota_Principal": "CARAMELO",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/00107A",
-    "Tendencia": "DTOMMY GIRL",
-    "Familia_Olfativa": "FLORAL",
-    "Nota_Principal": "ROSA",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/00735A",
-    "Tendencia": "DTOUCH OF PINK",
-    "Familia_Olfativa": "FLORAL",
-    "Nota_Principal": "JAZMÍN",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/00658A",
-    "Tendencia": "DTOUS",
-    "Familia_Olfativa": "FLORAL",
-    "Nota_Principal": "JAZMÍN",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/00888A",
-    "Tendencia": "DTOUS H2O",
-    "Familia_Olfativa": "FLORAL",
-    "Nota_Principal": "ROSA",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/02436A",
-    "Tendencia": "DTOY",
-    "Familia_Olfativa": "FLORAL",
-    "Nota_Principal": "JAZMÍN",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/02672A",
-    "Tendencia": "DTOY 2 BUBBLE GUM",
-    "Familia_Olfativa": "GOURMAND",
-    "Nota_Principal": "GOMA DE MASCAR",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/00754B",
-    "Tendencia": "DTRESOR",
-    "Familia_Olfativa": "FLORAL",
-    "Nota_Principal": "VIOLETA",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/02758A",
-    "Tendencia": "DTRESOR MIDNIGHT R",
-    "Familia_Olfativa": "FLORAL",
-    "Nota_Principal": "ROSA",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/00009A",
-    "Tendencia": "DTRIBU",
-    "Familia_Olfativa": "FLORAL",
-    "Nota_Principal": "JAZMÍN",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/00127A",
-    "Tendencia": "DTROPICAL PUNCH",
-    "Familia_Olfativa": "FRUTAL",
-    "Nota_Principal": "FLOR DE NARANJO",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/02999",
-    "Tendencia": "DTVIST MAGNOUA",
-    "Familia_Olfativa": "FLORAL",
-    "Nota_Principal": "MAGNOLIA",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/00102A",
-    "Tendencia": "DULTRAVIOLET",
-    "Familia_Olfativa": "ORIENTAL",
-    "Nota_Principal": "VANILLA",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/00618A",
-    "Tendencia": "DUNCARO",
-    "Familia_Olfativa": "ORIENTAL",
-    "Nota_Principal": "LIRIO DE LOS VALLES",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/00773A",
-    "Tendencia": "DVERSACE",
-    "Familia_Olfativa": "FLORAL",
-    "Nota_Principal": "JAZMÍN",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/01002A",
-    "Tendencia": "DVERSENSE",
-    "Familia_Olfativa": "FLORAL",
-    "Nota_Principal": "JAZMÍN",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/02598A",
-    "Tendencia": "DVERY GOOD GIRL",
-    "Familia_Olfativa": "FLORAL",
-    "Nota_Principal": "LICHI",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/00114B",
-    "Tendencia": "DVERY IRRESISTIBLE",
-    "Familia_Olfativa": "FLORAL",
-    "Nota_Principal": "ROSA",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/02865A",
-    "Tendencia": "DVITA ROSA GUESS",
-    "Familia_Olfativa": "FLORAL",
-    "Nota_Principal": "JAZMÍN",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/01867A",
-    "Tendencia": "DVIVALAJUICY ROSE",
-    "Familia_Olfativa": "FLORAL",
-    "Nota_Principal": "ROSA",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/02754A",
-    "Tendencia": "DVOCE VIVA",
-    "Familia_Olfativa": "ORIENTAL",
-    "Nota_Principal": "CÍTRICOS",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/00790A",
-    "Tendencia": "DVOLUPIE",
-    "Familia_Olfativa": "FLORAL",
-    "Nota_Principal": "NARCISO",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/00758A",
-    "Tendencia": "DWHITE DIAMONDS",
-    "Familia_Olfativa": "FLORAL",
-    "Nota_Principal": "JAZMÍN",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/03008A",
-    "Tendencia": "DWHITE TEA EDP",
-    "Familia_Olfativa": "FLORAL",
-    "Nota_Principal": "JAZMÍN",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/01684A",
-    "Tendencia": "DWISH PINK",
-    "Familia_Olfativa": "ORIENTAL",
-    "Nota_Principal": "VANILLA",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/02338A",
-    "Tendencia": "DWOW GIRL COSMIC",
-    "Familia_Olfativa": "GOURMAND",
-    "Nota_Principal": "ALGODÓN DE AZÚCAR",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/03207A",
-    "Tendencia": "DXTINA CRIST AGUI",
-    "Familia_Olfativa": "FLORAL",
-    "Nota_Principal": "GROSELLA NEGRA",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/01499A",
-    "Tendencia": "DYELLOW DIAMOND",
-    "Familia_Olfativa": "FLORAL",
-    "Nota_Principal": "LIRIO",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/02824A",
-    "Tendencia": "DTES I AM",
-    "Familia_Olfativa": "ORIENTAL",
-    "Nota_Principal": "MADERAS",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/03070A",
-    "Tendencia": "DTES I AM BLOOMUP",
-    "Familia_Olfativa": "FLORAL",
-    "Nota_Principal": "BAYAS ROJAS",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/02869A",
-    "Tendencia": "DYOUR POWERS",
-    "Familia_Olfativa": "GOURMAND",
-    "Nota_Principal": "VANILLA",
-    "DiaNoche": ""
-  },
-  {
-    "Clave": "01/00656A",
-    "Tendencia": "GLORIA VANDERBITT",
-    "Familia_Olfativa": "ORIENTAL",
-    "Nota_Principal": "JAZMÍN",
-    "DiaNoche": ""
+    "clave": "01/03616",
+    "tendencia": "DI X CIENTO",
+    "familia_olfativa": "ORIENTAL",
+    "nota_principal": "BOURBON",
+    "dia_noche": "",
+    "tipo":"N",
+    "genero":"C"
+  },
+  {
+    "clave": "01/00001A",
+    "tendencia": "D212",
+    "familia_olfativa": "FLORAL",
+    "nota_principal": "GARDENIA",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/00005B",
+    "tendencia": "D212 H2O",
+    "familia_olfativa": "FRESCA",
+    "nota_principal": "CÍTRICOS",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/02852A",
+    "tendencia": "D212 HEROES FOREV",
+    "familia_olfativa": "FLORAL",
+    "nota_principal": "JAZMÍN",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/00793A",
+    "tendencia": "D212 ON ICE",
+    "familia_olfativa": "FLORAL",
+    "nota_principal": "GARDENIA",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/00165B",
+    "tendencia": "D212 SEXY",
+    "familia_olfativa": "ORIENTAL",
+    "nota_principal": "GARDENIA",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/01169A",
+    "tendencia": "D212 VIP",
+    "familia_olfativa": "ORIENTAL",
+    "nota_principal": "RON",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/01598A",
+    "tendencia": "D212 VIP ROSE",
+    "familia_olfativa": "FLORAL",
+    "nota_principal": "FLOR DE DURAZNO",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/03063A",
+    "tendencia": "D212 VIP ROSE LINY",
+    "familia_olfativa": "FLORAL",
+    "nota_principal": "CHARACANO",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/02546A",
+    "tendencia": "D212 VIP ROSE RED",
+    "familia_olfativa": "FLORAL",
+    "nota_principal": "ROSAS",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/02854A",
+    "tendencia": "D212 VIP WINS WOM",
+    "familia_olfativa": "FLORAL",
+    "nota_principal": "CÍTRICOS",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/00745B",
+    "tendencia": "D273",
+    "familia_olfativa": "ORIENTAL",
+    "nota_principal": "AMBAR",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/00002A",
+    "tendencia": "D360",
+    "familia_olfativa": "FLORAL",
+    "nota_principal": "LAVANDA",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/00006A",
+    "tendencia": "D360 RED",
+    "familia_olfativa": "FLORAL",
+    "nota_principal": "MIMOSA",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/00094C",
+    "tendencia": "D5TH AVENUE",
+    "familia_olfativa": "FLORAL",
+    "nota_principal": "ROSA",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/02737A",
+    "tendencia": "DADROP DISSEY",
+    "familia_olfativa": "MADEROSA",
+    "nota_principal": "LILA",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/00746A",
+    "tendencia": "DAIRESDELTIEMPO",
+    "familia_olfativa": "FLORAL",
+    "nota_principal": "ROSA",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/02885A",
+    "tendencia": "DALLEN CODDESS",
+    "familia_olfativa": "ORIENTAL",
+    "nota_principal": "CACHIMIRA",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/00787A",
+    "tendencia": "DALLURE",
+    "familia_olfativa": "ORIENTAL",
+    "nota_principal": "VANILLA",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/00739A",
+    "tendencia": "DAMARIGE",
+    "familia_olfativa": "FLORAL",
+    "nota_principal": "YLANG YLANG",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/00010A",
+    "tendencia": "DAMOR AMOR",
+    "familia_olfativa": "FLORAL",
+    "nota_principal": "LIBRO",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/00752A",
+    "tendencia": "DANAIS ANAIS",
+    "familia_olfativa": "FLORAL",
+    "nota_principal": "LIBRO DE LOS VALLES",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/00760B",
+    "tendencia": "DANGE OU DEMON",
+    "familia_olfativa": "ORIENTAL",
+    "nota_principal": "YLANG YLANG",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/01090A",
+    "tendencia": "DANGE OU DEMON LS",
+    "familia_olfativa": "FLORAL",
+    "nota_principal": "FLORES ACUSASAS",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/00756A",
+    "tendencia": "DANGEL",
+    "familia_olfativa": "ORIENTAL",
+    "nota_principal": "DURAZNO",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/03072A",
+    "tendencia": "DANGEL ELIXIR",
+    "familia_olfativa": "FLORAL",
+    "nota_principal": "JAZMÍN",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/00013A",
+    "tendencia": "DANIMAL",
+    "familia_olfativa": "FOUGERE",
+    "nota_principal": "PACHULI",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/00743B",
+    "tendencia": "DAQUA GIO",
+    "familia_olfativa": "FLORAL",
+    "nota_principal": "CÍTRICOS",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/01191A",
+    "tendencia": "DAQUA GIOIA",
+    "familia_olfativa": "FLORAL",
+    "nota_principal": "NOTAS ACUSASAS",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/01792A",
+    "tendencia": "DARI",
+    "familia_olfativa": "FRUTAL",
+    "nota_principal": "FRAMBUESA",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/00799A",
+    "tendencia": "DARMANI CODE WOMAN",
+    "familia_olfativa": "ORIENTAL",
+    "nota_principal": "CÍTRICOS",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/00174A",
+    "tendencia": "DBEDELICIOUS",
+    "familia_olfativa": "FOUGERE",
+    "nota_principal": "MANZANA VERDE",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/01803A",
+    "tendencia": "DBLACK OPIUM",
+    "familia_olfativa": "ORIENTAL",
+    "nota_principal": "PIMIENTA",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/03102A",
+    "tendencia": "DBLACK OPIUM EDT",
+    "familia_olfativa": "ORIENTAL",
+    "nota_principal": "CÍTRICOS",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/02149A",
+    "tendencia": "DBOMBSHELL NIGHTS",
+    "familia_olfativa": "GOURMAND",
+    "nota_principal": "ALGOOD OF RE AZÚCAR",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/01601A",
+    "tendencia": "DBONBON",
+    "familia_olfativa": "GOURMAND",
+    "nota_principal": "CARAMELO",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/03191A",
+    "tendencia": "DBORN IN ROMA PINK",
+    "familia_olfativa": "ORIENTAL",
+    "nota_principal": "FLOR DE NARANJO",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/02898A",
+    "tendencia": "DBOSS ALIVE INT HB",
+    "familia_olfativa": "ORIENTAL",
+    "nota_principal": "VETIVER",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/01001A",
+    "tendencia": "DBOSS ORANGE",
+    "familia_olfativa": "ORIENTAL",
+    "nota_principal": "DURAZNO",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/01305A",
+    "tendencia": "DBRIGHT CRYSTAL",
+    "familia_olfativa": "FLORAL",
+    "nota_principal": "PICNAL",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/03389A",
+    "tendencia": "DBRIGHT CRYSTAL PA",
+    "familia_olfativa": "FLORAL",
+    "nota_principal": "FRUTOS ROJOS",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/02388A",
+    "tendencia": "DBURBERRY HER",
+    "familia_olfativa": "FRUTAL",
+    "nota_principal": "FRAMBUESA",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/03138A",
+    "tendencia": "DBURBERRY HER ELIX",
+    "familia_olfativa": "FLORAL",
+    "nota_principal": "FRAMBUESA",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/00789A",
+    "tendencia": "DBURBERRY LONDON",
+    "familia_olfativa": "FLORAL",
+    "nota_principal": "JAZMÍN",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/02844A",
+    "tendencia": "DRURBERRY WOMAN",
+    "familia_olfativa": "FRUTAL",
+    "nota_principal": "CHARACANO",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/00501A",
+    "tendencia": "DBVLGARIA",
+    "familia_olfativa": "FLORAL",
+    "nota_principal": "ROSA",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/00522A",
+    "tendencia": "DCANCAN",
+    "familia_olfativa": "FLORAL",
+    "nota_principal": "FLOR DE NARANJO",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/02607A",
+    "tendencia": "DCANDY LOVE",
+    "familia_olfativa": "GOURMAND",
+    "nota_principal": "MANZANA ACARAMELADA",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/02043A",
+    "tendencia": "DCANDY PRADA",
+    "familia_olfativa": "ORIENTAL",
+    "nota_principal": "CARAMELO",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/00025A",
+    "tendencia": "DCAROLINA",
+    "familia_olfativa": "FLORAL",
+    "nota_principal": "JAZMÍN",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/03298A",
+    "tendencia": "DCE NOIR BEYONCE",
+    "familia_olfativa": "FLORAL",
+    "nota_principal": "JAZMÍN",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/00493A",
+    "tendencia": "DCH",
+    "familia_olfativa": "ORIENTAL",
+    "nota_principal": "JAZMÍN",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/02680A",
+    "tendencia": "DCH BEAUTIES",
+    "familia_olfativa": "FLORAL",
+    "nota_principal": "JAZMÍN",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/02901A",
+    "tendencia": "DCH HOT! HOT! HOT!",
+    "familia_olfativa": "ORIENTAL",
+    "nota_principal": "FRAMBUESA",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/03124A",
+    "tendencia": "DCH PASION HER",
+    "familia_olfativa": "ORIENTAL",
+    "nota_principal": "VIOLETA",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/00733B",
+    "tendencia": "DCHANCE",
+    "familia_olfativa": "FOUGERE",
+    "nota_principal": "PACHULI",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/02752A",
+    "tendencia": "DCHANCE EAU FRAICH",
+    "familia_olfativa": "FLORAL",
+    "nota_principal": "MADERAS",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/02756A",
+    "tendencia": "DCHANCE EAU TENDRE",
+    "familia_olfativa": "FLORAL",
+    "nota_principal": "CÍTRICOS",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/00738B",
+    "tendencia": "DCHANEL5",
+    "familia_olfativa": "FLORAL",
+    "nota_principal": "NEROLI",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/00782A",
+    "tendencia": "DCHAMPAGNE",
+    "familia_olfativa": "ORIENTAL",
+    "nota_principal": "PACHULI",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/01678A",
+    "tendencia": "DCHEAP&CHIC ILOVE2",
+    "familia_olfativa": "FLORAL",
+    "nota_principal": "LIBRO DE LOS VALLES",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/00300A",
+    "tendencia": "DCHIC",
+    "familia_olfativa": "FLORAL",
+    "nota_principal": "FLOR DE NARANJO",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/00065A",
+    "tendencia": "DCLASSIQUE JPG",
+    "familia_olfativa": "ORIENTAL",
+    "nota_principal": "CÍTRICOS",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/02375A",
+    "tendencia": "DCLOUD",
+    "familia_olfativa": "FRUTAL",
+    "nota_principal": "COCO",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/03146A",
+    "tendencia": "DCLOUD PINK",
+    "familia_olfativa": "ORIENTAL",
+    "nota_principal": "VANILLA",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/02771A",
+    "tendencia": "DCOACHSUNSETDREAMS",
+    "familia_olfativa": "ORIENTAL",
+    "nota_principal": "MACINOLIA",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/00744A",
+    "tendencia": "DCOCO CHANEL",
+    "familia_olfativa": "ORIENTAL",
+    "nota_principal": "AMBAR",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/00779B",
+    "tendencia": "DCOCO MADEMOI",
+    "familia_olfativa": "FOUGERE",
+    "nota_principal": "JAZMÍN",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/02821A",
+    "tendencia": "DCOLORROSEINTENSE",
+    "familia_olfativa": "FLORAL",
+    "nota_principal": "MADRESLIVA",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/00741B",
+    "tendencia": "DCOOLWATER",
+    "familia_olfativa": "FRESCA",
+    "nota_principal": "OZONO",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/03469A",
+    "tendencia": "DCOSMIC",
+    "familia_olfativa": "ORIENTAL",
+    "nota_principal": "JAZMÍN",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/00859A",
+    "tendencia": "DCURVE",
+    "familia_olfativa": "FLORAL",
+    "nota_principal": "CHARACANO",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/02842A",
+    "tendencia": "DDAISY EAUSOFRESH",
+    "familia_olfativa": "FLORAL",
+    "nota_principal": "NOTAS VERDES",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/02832A",
+    "tendencia": "DDAISY EAUSOINTENS",
+    "familia_olfativa": "ORIENTAL",
+    "nota_principal": "PERA",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/02846A",
+    "tendencia": "DDAISY LOVE S",
+    "familia_olfativa": "FLORAL",
+    "nota_principal": "FRAMBUESA",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/02850A",
+    "tendencia": "DDAISY SKIES",
+    "familia_olfativa": "FRESCA",
+    "nota_principal": "NOTAS ACUOSASAS",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/02811A",
+    "tendencia": "DDANCE MIDNIGHT SH",
+    "familia_olfativa": "FLORAL",
+    "nota_principal": "GROSELLA NEGRA",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/01404A",
+    "tendencia": "DDAZLEE",
+    "familia_olfativa": "FRUTAL",
+    "nota_principal": "CEREZA",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/01866A",
+    "tendencia": "DDECADENCE",
+    "familia_olfativa": "ORIENTAL",
+    "nota_principal": "ROSA",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/03226A",
+    "tendencia": "DDEVOTION",
+    "familia_olfativa": "ORIENTAL",
+    "nota_principal": "CÍTRICOS",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/00158A",
+    "tendencia": "DDIVA",
+    "familia_olfativa": "FOUGERE",
+    "nota_principal": "PACHULI",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/03453A",
+    "tendencia": "DDIVINE LE PARFUM",
+    "familia_olfativa": "ORIENTAL",
+    "nota_principal": "NOTAS SOLARES",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/01896A",
+    "tendencia": "DDKNY BEDELIC BRIG",
+    "familia_olfativa": "FLORAL",
+    "nota_principal": "GROSELLA NEGRA",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/02819A",
+    "tendencia": "DDKNY BEDELIC EDIT",
+    "familia_olfativa": "FLORAL",
+    "nota_principal": "PERA",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/02817A",
+    "tendencia": "DDKNY BEDELIC FRES",
+    "familia_olfativa": "FLORAL",
+    "nota_principal": "CÍTRICOS",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/00036B",
+    "tendencia": "DDOLCE GABANNA",
+    "familia_olfativa": "FLORAL",
+    "nota_principal": "FLOR DE NARANJO",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/03133A",
+    "tendencia": "DDOLCE VIOLET",
+    "familia_olfativa": "FLORAL",
+    "nota_principal": "VIOLETA",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/00797A",
+    "tendencia": "DDOLCE VITA DIOR",
+    "familia_olfativa": "ORIENTAL",
+    "nota_principal": "CHARACANO",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/03105A",
+    "tendencia": "DDONABORNINROMA IN",
+    "familia_olfativa": "ORIENTAL",
+    "nota_principal": "JAZMÍN",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/02872",
+    "tendencia": "DDREAM ANGEL",
+    "familia_olfativa": "ORIENTAL",
+    "nota_principal": "AMBAR",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/00783A",
+    "tendencia": "DDUNE",
+    "familia_olfativa": "ORIENTAL",
+    "nota_principal": "JAZMÍN",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/03117A",
+    "tendencia": "DDYLAN PURPLE",
+    "familia_olfativa": "FLORAL",
+    "nota_principal": "FRESA",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/02696A",
+    "tendencia": "DDYLAN TURQUESA",
+    "familia_olfativa": "FLORAL",
+    "nota_principal": "CÍTRICOS",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/00764B",
+    "tendencia": "DEAU DE CARTIER",
+    "familia_olfativa": "FRESCA",
+    "nota_principal": "CÍTRICOS",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/01673A",
+    "tendencia": "DEAU SO SEXY",
+    "familia_olfativa": "FLORAL",
+    "nota_principal": "MANZANA",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/00126A",
+    "tendencia": "DECLAT DARPEGE",
+    "familia_olfativa": "FLORAL",
+    "nota_principal": "PROMA",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/03001A",
+    "tendencia": "DECLAT DARPEGE MON",
+    "familia_olfativa": "FLORAL",
+    "nota_principal": "CHARACANO",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/00866B",
+    "tendencia": "DED HARDY WOMAN",
+    "familia_olfativa": "FLORAL",
+    "nota_principal": "MANZANA",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/00647A",
+    "tendencia": "DEDEN",
+    "familia_olfativa": "FLORAL",
+    "nota_principal": "CÍTRICOS",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/02903A",
+    "tendencia": "DEILISH",
+    "familia_olfativa": "ORIENTAL",
+    "nota_principal": "VANILLA",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/02505A",
+    "tendencia": "DELECTRIFY",
+    "familia_olfativa": "ORIENTAL",
+    "nota_principal": "PROMA",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/00747A",
+    "tendencia": "DEMPORIO",
+    "familia_olfativa": "ORIENTAL",
+    "nota_principal": "CÍTRICOS",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/01703C",
+    "tendencia": "DEROS",
+    "familia_olfativa": "FLORAL",
+    "nota_principal": "FLOR DE NARANJO",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/00043A",
+    "tendencia": "DESTEE LAUDER",
+    "familia_olfativa": "FLORAL",
+    "nota_principal": "JAZMÍN",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/00044A",
+    "tendencia": "DETERNITY",
+    "familia_olfativa": "FLORAL",
+    "nota_principal": "ROSA",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/03006A",
+    "tendencia": "DETERNTY EDP INT",
+    "familia_olfativa": "FLORAL",
+    "nota_principal": "ROSA",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/00763B",
+    "tendencia": "DEUPHORIA",
+    "familia_olfativa": "ORIENTAL",
+    "nota_principal": "NOTAS VERDES",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/00045A",
+    "tendencia": "DEXCLAMATION",
+    "familia_olfativa": "FLORAL",
+    "nota_principal": "JAZMÍN",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/00778B",
+    "tendencia": "DEXTRAVAGA",
+    "familia_olfativa": "FLORAL",
+    "nota_principal": "FLOR DE NARANJO",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/02874",
+    "tendencia": "DFAME PR",
+    "familia_olfativa": "FLORAL",
+    "nota_principal": "MANGO",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/03289A",
+    "tendencia": "DFAME PR PARFFUM",
+    "familia_olfativa": "FLORAL",
+    "nota_principal": "MANGO",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/01837A",
+    "tendencia": "DFANTASY",
+    "familia_olfativa": "GOURMAND",
+    "nota_principal": "CHOCOLATE",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/01741A",
+    "tendencia": "DFARE FOLIE",
+    "familia_olfativa": "FLORAL",
+    "nota_principal": "JAZMÍN",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/00047A",
+    "tendencia": "DEFENDI",
+    "familia_olfativa": "FOUGERE",
+    "nota_principal": "CARDAMOMO",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/01931B",
+    "tendencia": "DFERRIONI GREEN",
+    "familia_olfativa": "FLORAL",
+    "nota_principal": "JAZMÍN",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/02783A",
+    "tendencia": "DFLORA GORG GARDEN",
+    "familia_olfativa": "FLORAL",
+    "nota_principal": "GARDENIA",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/02936A",
+    "tendencia": "DFLORA GORG JASMIN",
+    "familia_olfativa": "ORIENTAL",
+    "nota_principal": "SÁNDALO",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/03216A",
+    "tendencia": "DFLORA GORG MAGNOL",
+    "familia_olfativa": "FOUGERE",
+    "nota_principal": "MADERA",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/00118A",
+    "tendencia": "DFLOWER",
+    "familia_olfativa": "ORIENTAL",
+    "nota_principal": "ROSA",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/02743A",
+    "tendencia": "DFLOWER BY KENZO 21",
+    "familia_olfativa": "FLORAL",
+    "nota_principal": "ROSA",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/03292A",
+    "tendencia": "DFLOWER IKEBANA",
+    "familia_olfativa": "FLORAL",
+    "nota_principal": "FLOR DE CEREZO",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/02958A",
+    "tendencia": "DFLOWER LABSOLUE",
+    "familia_olfativa": "FLORAL",
+    "nota_principal": "AZAFRÁN",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/01786A",
+    "tendencia": "DFLOWERBOMB",
+    "familia_olfativa": "ORIENTAL",
+    "nota_principal": "CÍTRICOS",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/01919B",
+    "tendencia": "DFUNNY!",
+    "familia_olfativa": "FLORAL",
+    "nota_principal": "PROMA",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/02941A",
+    "tendencia": "DGABRIELLE EDP",
+    "familia_olfativa": "FLORAL",
+    "nota_principal": "FLOR DE NARANJO",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/02762A",
+    "tendencia": "DGEMS PARTY TOUS",
+    "familia_olfativa": "FRUTAL",
+    "nota_principal": "DURAZNO",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/02745A",
+    "tendencia": "DGIRL ROCH",
+    "familia_olfativa": "FLORAL",
+    "nota_principal": "NEROLI",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/02803A",
+    "tendencia": "DGOD IS A WOMAN",
+    "familia_olfativa": "FLORAL",
+    "nota_principal": "PERA",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/03213A",
+    "tendencia": "DGODESS",
+    "familia_olfativa": "ORIENTAL",
+    "nota_principal": "JENGIBRE",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/01938A",
+    "tendencia": "DGOLD RUSH",
+    "familia_olfativa": "FRUTAL",
+    "nota_principal": "NECTARINA",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/02943A",
+    "tendencia": "DGOOD FORTUNE EDP",
+    "familia_olfativa": "FLORAL",
+    "nota_principal": "JAZMÍN",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/01912C",
+    "tendencia": "DGOOD GIRL",
+    "familia_olfativa": "ORIENTAL",
+    "nota_principal": "ALMENDRA",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/03112A",
+    "tendencia": "DGOOD GIRL BLUSH",
+    "familia_olfativa": "FOUGERE",
+    "nota_principal": "VANILLA",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/03477A",
+    "tendencia": "DGOOD GIRL BLUSH E",
+    "familia_olfativa": "FOUGERE",
+    "nota_principal": "VANILLA",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/03210A",
+    "tendencia": "DGOOD GIRL DAZZLIN",
+    "familia_olfativa": "FLORAL",
+    "nota_principal": "ALMENDRA",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/02997A",
+    "tendencia": "DGOOD GIRL MDINGH",
+    "familia_olfativa": "ORIENTAL",
+    "nota_principal": "HABA TONKA",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/02805A",
+    "tendencia": "DGOOD GIRL SUPERST",
+    "familia_olfativa": "ORIENTAL",
+    "nota_principal": "JAZMÍN",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/02614A",
+    "tendencia": "DGOOD GIRL VELVET",
+    "familia_olfativa": "ORIENTAL",
+    "nota_principal": "PRALINÉ",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/03254A",
+    "tendencia": "DGREEN CACTUS HER",
+    "familia_olfativa": "FLORAL",
+    "nota_principal": "CACTUS",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/01112A",
+    "tendencia": "DGUCCI",
+    "familia_olfativa": "FRUTAL",
+    "nota_principal": "FLOR DE TIARE",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/01771A",
+    "tendencia": "DGUCCI BAMBOO",
+    "familia_olfativa": "FLORAL",
+    "nota_principal": "YLANG YLANG",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/03142A",
+    "tendencia": "DGUCCI BLOOM INT",
+    "familia_olfativa": "FLORAL",
+    "nota_principal": "JAZMÍN",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/02750A",
+    "tendencia": "DGUCCI BLOOM NETT",
+    "familia_olfativa": "FLORAL",
+    "nota_principal": "JAZMÍN",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/00125A",
+    "tendencia": "DGUCCI RUSH",
+    "familia_olfativa": "FRUTAL",
+    "nota_principal": "PACHULI",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/02798A",
+    "tendencia": "DGUCCIGUILTY EAU",
+    "familia_olfativa": "FLORAL",
+    "nota_principal": "JAZMÍN",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/03280A",
+    "tendencia": "DGUCCIGUILTY ELIXI",
+    "familia_olfativa": "ORIENTAL",
+    "nota_principal": "ROSA",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/02840A",
+    "tendencia": "DGUCCIGUILTY INTEN",
+    "familia_olfativa": "ORIENTAL",
+    "nota_principal": "VIOLETA",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/02840A",
+    "tendencia": "DGUCCIGUIITY INTEIN",
+    "familia_olfativa": "ORIENTAL",
+    "nota_principal": "VIOLETA",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/00057A",
+    "tendencia": "DGUESS",
+    "familia_olfativa": "FLORAL",
+    "nota_principal": "CÍTRICOS",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/01552C",
+    "tendencia": "DGUESS GIRL",
+    "familia_olfativa": "FLORAL",
+    "nota_principal": "FRAMBUESA",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/00133A",
+    "tendencia": "DHALLOWEEN",
+    "familia_olfativa": "ORIENTAL",
+    "nota_principal": "MADERA",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/02881A",
+    "tendencia": "DHALLOWEEN BLOSSOM",
+    "familia_olfativa": "FLORAL",
+    "nota_principal": "FLOR DE NARANJO",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/00788A",
+    "tendencia": "DHAPPY",
+    "familia_olfativa": "FLORAL",
+    "nota_principal": "CÍTRICOS",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/00737B",
+    "tendencia": "DHEIRESS",
+    "familia_olfativa": "FLORAL",
+    "nota_principal": "DURAZNO",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/00132A",
+    "tendencia": "DHIPNOTIC POISON",
+    "familia_olfativa": "ORIENTAL",
+    "nota_principal": "VANILLA",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/00061A",
+    "tendencia": "DHUGO",
+    "familia_olfativa": "FLORAL",
+    "nota_principal": "JAZMÍN",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/02473A",
+    "tendencia": "DIDOLE",
+    "familia_olfativa": "FOUGERE",
+    "nota_principal": "CÍTRICOS",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/02930A",
+    "tendencia": "DIDOLE NECTAR EDP",
+    "familia_olfativa": "ORIENTAL",
+    "nota_principal": "VANILLA",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/02574A",
+    "tendencia": "DIRRESISTIBLE",
+    "familia_olfativa": "FLORAL",
+    "nota_principal": "ROSA",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/02834A",
+    "tendencia": "DIRRESISTIBLE EDTF",
+    "familia_olfativa": "FLORAL",
+    "nota_principal": "IRIS",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/00748A",
+    "tendencia": "DISLAND KISS",
+    "familia_olfativa": "FLORAL",
+    "nota_principal": "CÍTRICOS",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/03301A",
+    "tendencia": "DJADE MALUMA",
+    "familia_olfativa": "FOUGERE",
+    "nota_principal": "GROSELLA NEGRA",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/00035B",
+    "tendencia": "DJADORE",
+    "familia_olfativa": "FLORAL",
+    "nota_principal": "MAGNOLIA",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/02704A",
+    "tendencia": "DJADORE INFINISIME",
+    "familia_olfativa": "ORIENTAL",
+    "nota_principal": "JAZMÍN",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/03178A",
+    "tendencia": "DJUNGLE FANTASY",
+    "familia_olfativa": "GOURMAND",
+    "nota_principal": "SANDÍA",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/00196A",
+    "tendencia": "DKENZO AMOUR",
+    "familia_olfativa": "ORIENTAL",
+    "nota_principal": "FLOR DE CEREZO",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/01518A",
+    "tendencia": "DKILLER QUEEN",
+    "familia_olfativa": "FLORAL",
+    "nota_principal": "JAZMÍN",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/02373A",
+    "tendencia": "DKIMOJI CHERRY",
+    "familia_olfativa": "GOURMAND",
+    "nota_principal": "CEREZA",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/02459A",
+    "tendencia": "DKKW BAE",
+    "familia_olfativa": "FRUTAL",
+    "nota_principal": "KVM",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/02452A",
+    "tendencia": "DKKW BFF",
+    "familia_olfativa": "FRUTAL",
+    "nota_principal": "MAUVAVISCO",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/02485C",
+    "tendencia": "DKKW LIPS PINK",
+    "familia_olfativa": "FRUTAL",
+    "nota_principal": "COCO",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/01861C",
+    "tendencia": "DL1212 NATURAL",
+    "familia_olfativa": "FRUTAL",
+    "nota_principal": "PRÍA",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/03154A",
+    "tendencia": "DL1212 ROSE INTENS",
+    "familia_olfativa": "FLORAL",
+    "nota_principal": "ROSA",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/02589A",
+    "tendencia": "DLA BELLE",
+    "familia_olfativa": "ORIENTAL",
+    "nota_principal": "VANILLA",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/03383A",
+    "tendencia": "DLA BELLE PARADISE",
+    "familia_olfativa": "FLORAL",
+    "nota_principal": "IRIS",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/03135A",
+    "tendencia": "DLA NUIT TRESOR FN",
+    "familia_olfativa": "FLORAL",
+    "nota_principal": "ROSA",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/00753B",
+    "tendencia": "DLACOSTE FEMME",
+    "familia_olfativa": "FLORAL",
+    "nota_principal": "PRESA",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/01216A",
+    "tendencia": "DLADY MILLION",
+    "familia_olfativa": "FLORAL",
+    "nota_principal": "JAZMÍN",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/03068A",
+    "tendencia": "DLADY MILLION ROYA",
+    "familia_olfativa": "FLORAL",
+    "nota_principal": "MADERAS",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/01500A",
+    "tendencia": "DLAVIEBELLE",
+    "familia_olfativa": "ORIENTAL",
+    "nota_principal": "GROSELLA NEGRA",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/03159A",
+    "tendencia": "DLAVIEBELLE EX P",
+    "familia_olfativa": "ORIENTAL",
+    "nota_principal": "ROSA",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/03122A",
+    "tendencia": "DLAVIEBELLE IRIS A",
+    "familia_olfativa": "FLORAL",
+    "nota_principal": "GROSELLA NEGRA",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/02995A",
+    "tendencia": "DLAVIEBELLE LEVEIL",
+    "familia_olfativa": "FLORAL",
+    "nota_principal": "FLOR DE NARANJO",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/02928A",
+    "tendencia": "DLAVIEBELLE OUI",
+    "familia_olfativa": "FLORAL",
+    "nota_principal": "ROSA",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/02706A",
+    "tendencia": "DLAVIEBELLE SOLEIL",
+    "familia_olfativa": "FOUGERE",
+    "nota_principal": "VANILLA",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/02483A",
+    "tendencia": "DLIBRE",
+    "familia_olfativa": "ORIENTAL",
+    "nota_principal": "LAVANDA",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/02960A",
+    "tendencia": "DLIBRE LE PARFUM",
+    "familia_olfativa": "FLORAL",
+    "nota_principal": "CÍTRICOS",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/00151B",
+    "tendencia": "DLIGHT BLUE",
+    "familia_olfativa": "FLORAL",
+    "nota_principal": "MANZANA VERDE",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/03129A",
+    "tendencia": "DLIGHT BLUE SMRVBS",
+    "familia_olfativa": "ORIENTAL",
+    "nota_principal": "CÍTRICOS",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/02730A",
+    "tendencia": "DLOOK ARDLP",
+    "familia_olfativa": "ORIENTAL",
+    "nota_principal": "JAZMÍN",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/03172A",
+    "tendencia": "DLOVE RUSH",
+    "familia_olfativa": "FLORAL",
+    "nota_principal": "GARDENIA",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/01830B",
+    "tendencia": "DLOVE SOFIAVERGARA",
+    "familia_olfativa": "GOURMAND",
+    "nota_principal": "CAFÉ",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "02/01904A",
+    "tendencia": "DLOVEME",
+    "familia_olfativa": "FLORAL",
+    "nota_principal": "PROMA",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/03219A",
+    "tendencia": "DLOVEME EMERALD EL",
+    "familia_olfativa": "ORIENTAL",
+    "nota_principal": "CÍTRICOS",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/02815A",
+    "tendencia": "DLOVEME ONYX",
+    "familia_olfativa": "FLORAL",
+    "nota_principal": "ORQUIDEA",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/00170A",
+    "tendencia": "DMADAME ROCHAS",
+    "familia_olfativa": "FLORAL",
+    "nota_principal": "JAZMÍN",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/01913A",
+    "tendencia": "DMADLOVE",
+    "familia_olfativa": "ORIENTAL",
+    "nota_principal": "MANZANA",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/00178A",
+    "tendencia": "DMAGIE NOIR",
+    "familia_olfativa": "FOUGERE",
+    "nota_principal": "RAZ DE LIBRO",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/02721B",
+    "tendencia": "DMALVANIA",
+    "familia_olfativa": "GOURMAND",
+    "nota_principal": "VANILLA",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/01370A",
+    "tendencia": "DMEOW KATY PERRY",
+    "familia_olfativa": "FRUTAL",
+    "nota_principal": "VANILLA",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/02416C",
+    "tendencia": "DMIAM BLOSSOM",
+    "familia_olfativa": "FLORAL",
+    "nota_principal": "MOBAS AZULES",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/00736A",
+    "tendencia": "DMIDNIGHT FANTASY",
+    "familia_olfativa": "FLORAL",
+    "nota_principal": "CRUELA",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/01600A",
+    "tendencia": "DMISS DIOR BLOOMIN",
+    "familia_olfativa": "FLORAL",
+    "nota_principal": "PROMA",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/02769A",
+    "tendencia": "DMISS DIOR EDP",
+    "familia_olfativa": "ORIENTAL",
+    "nota_principal": "ROSA",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/02080A",
+    "tendencia": "DMISS DIOR PARFUM",
+    "familia_olfativa": "FOUGERE",
+    "nota_principal": "JAZMÍN",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/03039A",
+    "tendencia": "DMOD BLUSH",
+    "familia_olfativa": "FRUTAL",
+    "nota_principal": "PERA",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/03014A",
+    "tendencia": "DMOD VANILLA",
+    "familia_olfativa": "ORIENTAL",
+    "nota_principal": "VANILLA",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/01981A",
+    "tendencia": "DMON GUERLAIN",
+    "familia_olfativa": "ORIENTAL",
+    "nota_principal": "LAVANDA",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/02252A",
+    "tendencia": "DMON PARIS COUTURE",
+    "familia_olfativa": "FRUTAL",
+    "nota_principal": "FRAMBUESA",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/02920A",
+    "tendencia": "DMON PARIS LUMIERE",
+    "familia_olfativa": "FRESCA",
+    "nota_principal": "JAZMÍN",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/02117C",
+    "tendencia": "DMOONLIGHT",
+    "familia_olfativa": "GOURMAND",
+    "nota_principal": "MAUVAVISCO",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/03131A",
+    "tendencia": "DMORE MORE PINK",
+    "familia_olfativa": "FRUTAL",
+    "nota_principal": "PERA",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/00071A",
+    "tendencia": "DMUSK JOVAN",
+    "familia_olfativa": "ORIENTAL",
+    "nota_principal": "NEROLI",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/02609A",
+    "tendencia": "DMY WAY",
+    "familia_olfativa": "FLORAL",
+    "nota_principal": "FLOR DE NARANJO",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/02856A",
+    "tendencia": "DMY WAY INTENSE",
+    "familia_olfativa": "MADEROSA",
+    "nota_principal": "FLOR DE NARANJO",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/03343A",
+    "tendencia": "DMY WAY NECTAR",
+    "familia_olfativa": "FLORAL",
+    "nota_principal": "JAZMÍN",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/03075A",
+    "tendencia": "DMY WAY PARFUM",
+    "familia_olfativa": "FLORAL",
+    "nota_principal": "JAZMÍN",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/03274A",
+    "tendencia": "DMYEUPHORIA EDP",
+    "familia_olfativa": "ORIENTAL",
+    "nota_principal": "ORQUIDEA",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/03107A",
+    "tendencia": "DNARCISO4HERFOREVR",
+    "familia_olfativa": "FLORAL",
+    "nota_principal": "ALMEZZE",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/02933A",
+    "tendencia": "DNARCISOEDPCRISTAL",
+    "familia_olfativa": "FLORAL",
+    "nota_principal": "JAZMÍN",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/01580A",
+    "tendencia": "DNEXT GIRLFRIEND",
+    "familia_olfativa": "FRUTAL",
+    "nota_principal": "PIÑA",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/02777A",
+    "tendencia": "DNINA EXTRA ROUGE",
+    "familia_olfativa": "FRUTAL",
+    "nota_principal": "FRAMBUESA",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/03100A",
+    "tendencia": "DNINA NATURE",
+    "familia_olfativa": "FLORAL",
+    "nota_principal": "LIRIO DE LOS VALLES",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/00205A",
+    "tendencia": "DNINARICCI",
+    "familia_olfativa": "FLORAL",
+    "nota_principal": "ROSA",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/00792A",
+    "tendencia": "DNOA",
+    "familia_olfativa": "MADEROSA",
+    "nota_principal": "JAZMÍN",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/02809A",
+    "tendencia": "DNUDEMUSK",
+    "familia_olfativa": "ORIENTAL",
+    "nota_principal": "NEROLI",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/00765B",
+    "tendencia": "DOBSESSION",
+    "familia_olfativa": "ORIENTAL",
+    "nota_principal": "VANILLA",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/01782A",
+    "tendencia": "DOLYMPEA",
+    "familia_olfativa": "ORIENTAL",
+    "nota_principal": "JAZMÍN",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/02867A",
+    "tendencia": "DOLYMPEA SOLAR",
+    "familia_olfativa": "FRESCA",
+    "nota_principal": "FLORES DE TIARE",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/01519",
+    "tendencia": "DOMBREROSE",
+    "familia_olfativa": "ORIENTAL",
+    "nota_principal": "VANILLA",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/00081A",
+    "tendencia": "DOPIUM",
+    "familia_olfativa": "ORIENTAL",
+    "nota_principal": "YLANG YLANG",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/00082A",
+    "tendencia": "DORGANZA",
+    "familia_olfativa": "ORIENTAL",
+    "nota_principal": "JAZMÍN",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/00759A",
+    "tendencia": "DOSCARDELARENTA",
+    "familia_olfativa": "ORIENTAL",
+    "nota_principal": "ROSA",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/00085A",
+    "tendencia": "DOUI",
+    "familia_olfativa": "FLORAL",
+    "nota_principal": "LIBRO DE LOS VALLES",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/02791A",
+    "tendencia": "DOUI SPLASH",
+    "familia_olfativa": "FRUTAL",
+    "nota_principal": "SANDÍA",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/00086A",
+    "tendencia": "DPALOMA PICASSO",
+    "familia_olfativa": "FOUGERE",
+    "nota_principal": "YLANG YLANG",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/03286A",
+    "tendencia": "DPARADOXE",
+    "familia_olfativa": "ORIENTAL",
+    "nota_principal": "NEROLI",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/00087A",
+    "tendencia": "DPARIS",
+    "familia_olfativa": "FLORAL",
+    "nota_principal": "ROSA",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/00734B",
+    "tendencia": "DPARIS HILTON",
+    "familia_olfativa": "FLORAL",
+    "nota_principal": "MIMOSA",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/03168A",
+    "tendencia": "DPARTY LOVE",
+    "familia_olfativa": "ORIENTAL",
+    "nota_principal": "CEREZA",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/00740B",
+    "tendencia": "DPASSION",
+    "familia_olfativa": "ORIENTAL",
+    "nota_principal": "JAZMÍN",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/02605A",
+    "tendencia": "DPERFECT",
+    "familia_olfativa": "FLORAL",
+    "nota_principal": "NARCISO",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/03097A",
+    "tendencia": "DPERFECT EDT",
+    "familia_olfativa": "ORIENTAL",
+    "nota_principal": "NARCISO",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/00150C",
+    "tendencia": "DPERLAS NEGRAS",
+    "familia_olfativa": "ORIENTAL",
+    "nota_principal": "DURAZNO",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/00715A",
+    "tendencia": "DPERRY ELLIS",
+    "familia_olfativa": "FLORAL",
+    "nota_principal": "AMBAR",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/03011A",
+    "tendencia": "DPETIROBENOIR INTE",
+    "familia_olfativa": "GOURMAND",
+    "nota_principal": "ALGODÓN AZÚCAR",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/03110A",
+    "tendencia": "DPETIROBENOIR RC",
+    "familia_olfativa": "FLORAL",
+    "nota_principal": "FLOR DE CEREZO",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/03352A",
+    "tendencia": "DPINK BY PINK VS",
+    "familia_olfativa": "FLORAL",
+    "nota_principal": "MANZANA",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/00762A",
+    "tendencia": "DPLEASURES",
+    "familia_olfativa": "FLORAL",
+    "nota_principal": "VIOLETA",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/00751A",
+    "tendencia": "DPOEME",
+    "familia_olfativa": "FLORAL",
+    "nota_principal": "NARCISO",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/00742A",
+    "tendencia": "DPOISON",
+    "familia_olfativa": "FLORAL",
+    "nota_principal": "ROSA",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/01887A",
+    "tendencia": "DPOISON GIRL",
+    "familia_olfativa": "ORIENTAL",
+    "nota_principal": "ROSA",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/00772A",
+    "tendencia": "DPOLO SPORT",
+    "familia_olfativa": "FRESCA",
+    "nota_principal": "MENTA",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/01243A",
+    "tendencia": "DPURR BY KATIPERR",
+    "familia_olfativa": "FRUTAL",
+    "nota_principal": "ROSA",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/03016A",
+    "tendencia": "DQ BY DG",
+    "familia_olfativa": "ORIENTAL",
+    "nota_principal": "CÍTRICOS",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/00095A",
+    "tendencia": "DRALPH",
+    "familia_olfativa": "FRUTAL",
+    "nota_principal": "CÍTRICOS",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/01736A",
+    "tendencia": "DRALPH FRESH",
+    "familia_olfativa": "FRUTAL",
+    "nota_principal": "CÍTRICOS",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/00192A",
+    "tendencia": "DRED DELICIOUS WOM",
+    "familia_olfativa": "FRUTAL",
+    "nota_principal": "LICHI",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/00750B",
+    "tendencia": "DRED DOOR",
+    "familia_olfativa": "FLORAL",
+    "nota_principal": "FLOR DE NARANJO",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/02576A",
+    "tendencia": "DREM",
+    "familia_olfativa": "ORIENTAL",
+    "nota_principal": "CARAMELO",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/01854A",
+    "tendencia": "DRIRI",
+    "familia_olfativa": "FLORAL",
+    "nota_principal": "FLOR DE NARANJO",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/00761A",
+    "tendencia": "DROMANCE",
+    "familia_olfativa": "FLORAL",
+    "nota_principal": "FRESIA",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/00757A",
+    "tendencia": "DROYAL SECRET",
+    "familia_olfativa": "FOUGERE",
+    "nota_principal": "SÁNDALO",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/03456A",
+    "tendencia": "DS KISS SHAKIRA",
+    "familia_olfativa": "FLORAL",
+    "nota_principal": "CÍTRICOS",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/00099A",
+    "tendencia": "DSAMBA",
+    "familia_olfativa": "FLORAL",
+    "nota_principal": "JAZMÍN",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/00100A",
+    "tendencia": "DSAMSARA",
+    "familia_olfativa": "ORIENTAL",
+    "nota_principal": "JAZMÍN",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/03095A",
+    "tendencia": "DSANTORINI SUNRISE",
+    "familia_olfativa": "FLORAL",
+    "nota_principal": "BUGAMVILIA",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/01170A",
+    "tendencia": "DSBYSHAKIRA",
+    "familia_olfativa": "ORIENTAL",
+    "nota_principal": "JAZMÍN",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/02053C",
+    "tendencia": "DSCANDAL",
+    "familia_olfativa": "FOUGERE",
+    "nota_principal": "PACHULI",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/02925A",
+    "tendencia": "DSCANDAL LE PARFUM",
+    "familia_olfativa": "FLORAL",
+    "nota_principal": "JAZMÍN",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/01685A",
+    "tendencia": "DSCANDALOUS",
+    "familia_olfativa": "FLORAL",
+    "nota_principal": "PECINA",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/00749B",
+    "tendencia": "DSCAPE",
+    "familia_olfativa": "FLORAL",
+    "nota_principal": "MANZANILLA",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/01860A",
+    "tendencia": "DSELENA GOMEZ",
+    "familia_olfativa": "GOURMAND",
+    "nota_principal": "CHOCOLATE",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/00128A",
+    "tendencia": "DSEXY GRAFITI",
+    "familia_olfativa": "FLORAL",
+    "nota_principal": "VIOLETA",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/00774A",
+    "tendencia": "DSHALIMAR",
+    "familia_olfativa": "ORIENTAL",
+    "nota_principal": "VANILLA",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/03003A",
+    "tendencia": "DSHOW ME LOVE",
+    "familia_olfativa": "FRUTAL",
+    "nota_principal": "MORAS AZULES",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/01564A",
+    "tendencia": "DSI",
+    "familia_olfativa": "ORIENTAL",
+    "nota_principal": "PACHULI",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/02578A",
+    "tendencia": "DSIGNATURE",
+    "familia_olfativa": "ORIENTAL",
+    "nota_principal": "MADERA",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/03115A",
+    "tendencia": "DSIGNORINA LIBERA",
+    "familia_olfativa": "FLORAL",
+    "nota_principal": "ROSA",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/03268B",
+    "tendencia": "DSOLO ELLA ELIXIR",
+    "familia_olfativa": "FLORAL",
+    "nota_principal": "NARDO",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/02147A",
+    "tendencia": "DSORBETTO ROSSO",
+    "familia_olfativa": "FRUTAL",
+    "nota_principal": "SANDÍA",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/02708C",
+    "tendencia": "DSUMMER FESTIVAL",
+    "familia_olfativa": "FLORAL",
+    "nota_principal": "FLOR DE CEREZO",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/02828A",
+    "tendencia": "DSUPER GORGEOUS",
+    "familia_olfativa": "FLORAL",
+    "nota_principal": "YLANG YLANG",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/02064A",
+    "tendencia": "DSWEET LIKE CANDY",
+    "familia_olfativa": "GOURMAND",
+    "nota_principal": "MAUVAVISCO",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/03295A",
+    "tendencia": "DSWEET TOOTH",
+    "familia_olfativa": "GOURMAND",
+    "nota_principal": "CHOCOLATE",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/03416A",
+    "tendencia": "DSWEET TOOTH CARAM",
+    "familia_olfativa": "ORIENTAL",
+    "nota_principal": "CHOCOLATE",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/00289A",
+    "tendencia": "DTABU",
+    "familia_olfativa": "ORIENTAL",
+    "nota_principal": "YLANG YLANG",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/03175A",
+    "tendencia": "DTEASE COCOA SOIRE",
+    "familia_olfativa": "GOURMAND",
+    "nota_principal": "CHOCOLATE",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/02807A",
+    "tendencia": "DTERRACOTA MUSK",
+    "familia_olfativa": "FLORAL",
+    "nota_principal": "FLOR DE NARANJO",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/02489C",
+    "tendencia": "DTHANK YOU NEXT",
+    "familia_olfativa": "FRUTAL",
+    "nota_principal": "FRAMBUESA",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/01608A",
+    "tendencia": "DTHAT MOMENT ONEDI",
+    "familia_olfativa": "FLORAL",
+    "nota_principal": "JAZMÍN",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/03251A",
+    "tendencia": "DTHE ICON WOMAN",
+    "familia_olfativa": "ORIENTAL",
+    "nota_principal": "GROSELLA NEGRA",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/02377A",
+    "tendencia": "DTHE ONLY ONE DG",
+    "familia_olfativa": "ORIENTAL",
+    "nota_principal": "CARAMELO",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/00107A",
+    "tendencia": "DTOMMY GIRL",
+    "familia_olfativa": "FLORAL",
+    "nota_principal": "ROSA",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/00735A",
+    "tendencia": "DTOUCH OF PINK",
+    "familia_olfativa": "FLORAL",
+    "nota_principal": "JAZMÍN",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/00568A",
+    "tendencia": "DTOUS",
+    "familia_olfativa": "FLORAL",
+    "nota_principal": "JAZMÍN",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/01088A",
+    "tendencia": "DTOUS H2O",
+    "familia_olfativa": "FLORAL",
+    "nota_principal": "ROSA",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/02436A",
+    "tendencia": "DTOY 2",
+    "familia_olfativa": "FLORAL",
+    "nota_principal": "JAZMÍN",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/02672A",
+    "tendencia": "DTOY 2 BUBBLE GUM",
+    "familia_olfativa": "GOURMAND",
+    "nota_principal": "GOMA DE MASCAR",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/00754B",
+    "tendencia": "DTRESOR",
+    "familia_olfativa": "FLORAL",
+    "nota_principal": "VIOLETA",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/02758A",
+    "tendencia": "DTRESOR MIDNIGHT R",
+    "familia_olfativa": "FLORAL",
+    "nota_principal": "ROSA",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/00109A",
+    "tendencia": "DTRIBU",
+    "familia_olfativa": "FLORAL",
+    "nota_principal": "JAZMÍN",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/00127A",
+    "tendencia": "DTROPICAL PUNCH",
+    "familia_olfativa": "FRUTAL",
+    "nota_principal": "FLOR DE NARANJO",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/02999",
+    "tendencia": "DTWIST MAGNOLIA",
+    "familia_olfativa": "FLORAL",
+    "nota_principal": "MAGNOLIA",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/00112A",
+    "tendencia": "DULTRAVIOLET",
+    "familia_olfativa": "ORIENTAL",
+    "nota_principal": "VANILLA",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/00168A",
+    "tendencia": "DUNGARO",
+    "familia_olfativa": "ORIENTAL",
+    "nota_principal": "LIRIO DE LOS VALLES",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/00773A",
+    "tendencia": "DVERSACE",
+    "familia_olfativa": "FLORAL",
+    "nota_principal": "JAZMÍN",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/01002A",
+    "tendencia": "DVERSENSE",
+    "familia_olfativa": "FLORAL",
+    "nota_principal": "JAZMÍN",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/02698A",
+    "tendencia": "DVERY GOOD GIRL",
+    "familia_olfativa": "FLORAL",
+    "nota_principal": "LICHI",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/00114B",
+    "tendencia": "DVERY IRRESISTIBLE",
+    "familia_olfativa": "FLORAL",
+    "nota_principal": "ROSA",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/02865A",
+    "tendencia": "DVITA ROSA GUESS",
+    "familia_olfativa": "FLORAL",
+    "nota_principal": "JAZMÍN",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/01867A",
+    "tendencia": "DVIVALAJUICY ROSE",
+    "familia_olfativa": "FLORAL",
+    "nota_principal": "ROSA",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/02754A",
+    "tendencia": "DVOCE VIVA",
+    "familia_olfativa": "ORIENTAL",
+    "nota_principal": "CÍTRICOS",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/00790A",
+    "tendencia": "DVOLUPTE",
+    "familia_olfativa": "FLORAL",
+    "nota_principal": "NARCISO",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/00758A",
+    "tendencia": "DWHITE DIAMONDS",
+    "familia_olfativa": "FLORAL",
+    "nota_principal": "JAZMÍN",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/03008A",
+    "tendencia": "DWHITE TEA EDP",
+    "familia_olfativa": "FLORAL",
+    "nota_principal": "JAZMÍN",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/01168A",
+    "tendencia": "DWISH PINK",
+    "familia_olfativa": "ORIENTAL",
+    "nota_principal": "VANILLA",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/02838A",
+    "tendencia": "DWOW GIRL COSMIC",
+    "familia_olfativa": "GOURMAND",
+    "nota_principal": "ALGODÓN DE AZÚCAR",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/03207A",
+    "tendencia": "DXTINA CRIST AGUI",
+    "familia_olfativa": "FLORAL",
+    "nota_principal": "GROSELLA NEGRA",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/01499A",
+    "tendencia": "DYELLOW DIAMOND",
+    "familia_olfativa": "FLORAL",
+    "nota_principal": "LIRIO",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/02182A",
+    "tendencia": "DYES I AM",
+    "familia_olfativa": "ORIENTAL",
+    "nota_principal": "MADERAS",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/03070A",
+    "tendencia": "DYES I AM BLOOMUP",
+    "familia_olfativa": "FLORAL",
+    "nota_principal": "BAYAS ROJAS",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/02869A",
+    "tendencia": "DYOUR POWERS",
+    "familia_olfativa": "GOURMAND",
+    "nota_principal": "VANILLA",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
+  },
+
+  {
+    "clave": "01/00056A",
+    "tendencia": "GLORIA VANDERBILT",
+    "familia_olfativa": "ORIENTAL",
+    "nota_principal": "JAZMÍN",
+    "dia_noche": "",
+        "tipo":"N",
+    "genero":"C"
   }
+
 ]
 

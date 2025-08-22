@@ -1,128 +1,200 @@
 [
   {
-    "Clave": "03/0555PA",
-    "Tendencia": "DØ61 NAXOS XERJOF",
-    "Familia_Olfativa": "GOURMAND",
-    "Nota_Principal": "VANILLA",
-    "Ocasion": "✔"
+    "clave": "03/00525A",
+    "tendencia": "D1861 NAXOS XERJOF",
+    "familia_olfativa": "GOURMAND",
+    "nota_principal": "VANILLA",
+    "dia_noche": "✔",
+    "genero":"D",
+    "tipo":"A"
   },
   {
-    "Clave": "01/0345A",
-    "Tendencia": "DECLAIRE",
-    "Familia_Olfativa": "GOURMAND",
-    "Nota_Principal": "VANILLA",
-    "Ocasion": "✔"
+    "clave": "01/03425A",
+    "tendencia": "DECLAIRE",
+    "familia_olfativa": "GOURMAND",
+    "nota_principal": "VANILLA",
+    "dia_noche": "✔",
+    "genero":"D",
+    "tipo":"A"
   },
   {
-    "Clave": "01/03307A",
-    "Tendencia": "DI-HAYA",
-    "Familia_Olfativa": "ORIENTAL",
-    "Nota_Principal": "CHAMPÁN",
-    "Ocasion": "✔"
+    "clave": "01/03397A",
+    "tendencia": "DHAYA",
+    "familia_olfativa": "ORIENTAL",
+    "nota_principal": "CHAMPÁN",
+    "dia_noche": "✔",
+    "genero":"D",
+    "tipo":"A"
   },
   {
-    "Clave": "01/03339B",
-    "Tendencia": "DMAYAR",
-    "Familia_Olfativa": "FLORAL",
-    "Nota_Principal": "FRAMBUESA",
-    "Ocasion": "✔"
+    "clave": "01/03239B",
+    "tendencia": "DMAYAR",
+    "familia_olfativa": "FLORAL",
+    "nota_principal": "FRAMBUESA",
+    "dia_noche": "✔",
+    "genero":"D",
+    "tipo":"A"
   },
   {
-    "Clave": "01/03335A",
-    "Tendencia": "DMELODIE ORIENTICA",
-    "Familia_Olfativa": "FLORAL",
-    "Nota_Principal": "FLOR DE NARANJO",
-    "Ocasion": "✔"
+    "clave": "01/03325A",
+    "tendencia": "DMELODIE ORIENTICA",
+    "familia_olfativa": "FLORAL",
+    "nota_principal": "FLOR DE NARANJO",
+    "dia_noche": "✔",
+    "genero":"D",
+    "tipo":"A"
   },
   {
-    "Clave": "01/03334A",
-    "Tendencia": "DVELVET GOLD",
-    "Familia_Olfativa": "FLORAL",
-    "Nota_Principal": "CARAMELO",
-    "Ocasion": "✔"
+    "clave": "01/03334A",
+    "tendencia": "DVELVET GOLD",
+    "familia_olfativa": "FLORAL",
+    "nota_principal": "CARAMELO",
+    "dia_noche": "✔",
+    "genero":"D",
+    "tipo":"A"
   },
   {
-    "Clave": "01/03230A",
-    "Tendencia": "DYARA",
-    "Familia_Olfativa": "ORIENTAL",
-    "Nota_Principal": "VANILLA",
-    "Ocasion": "✔"
+    "clave": "01/03229A",
+    "tendencia": "DYARA",
+    "familia_olfativa": "ORIENTAL",
+    "nota_principal": "VANILLA",
+    "dia_noche": "✔",
+    "genero":"D",
+    "tipo":"A"
   },
   {
-    "Clave": "03/006BA",
-    "Tendencia": "UACCENTO",
-    "Familia_Olfativa": "ORIENTAL",
-    "Nota_Principal": "AMBAR",
-    "Ocasion": "C"
+    "clave": "03/00566A",
+    "tendencia": "UACCENTO",
+    "familia_olfativa": "ORIENTAL",
+    "nota_principal": "AMBAR",
+    "dia_noche": "C",
+    "genero":"U",
+    "tipo":"A"
   },
   {
-    "Clave": "03/009A",
-    "Tendencia": "UAJWAD",
-    "Familia_Olfativa": "MADEROSA",
-    "Nota_Principal": "ROSA TURCA",
-    "Ocasion": "C"
+    "clave": "03/00493A",
+    "tendencia": "UAJWAD",
+    "familia_olfativa": "MADEROSA",
+    "nota_principal": "ROSA TURCA",
+    "dia_noche": "C",
+    "genero":"U",
+    "tipo":"A"
   },
   {
-    "Clave": "03/008A",
-    "Tendencia": "UAMBER NOIR ORIENT",
-    "Familia_Olfativa": "ORIENTAL",
-    "Nota_Principal": "SÁNDALO",
-    "Ocasion": "C"
+    "clave": "03/00364A",
+    "tendencia": "UAMBER NOIR ORIENT",
+    "familia_olfativa": "ORIENTAL",
+    "nota_principal": "SÁNDALO",
+    "dia_noche": "C",
+    "genero":"U",
+    "tipo":"A"
   },
   {
-    "Clave": "03/00A",
-    "Tendencia": "UAMBER OUD GOLD",
-    "Familia_Olfativa": "ORIENTAL",
-    "Nota_Principal": "PIÑA",
-    "Ocasion": "C"
+    "clave": "03/00301A",
+    "tendencia": "UAMBER OUD GOLD",
+    "familia_olfativa": "ORIENTAL",
+    "nota_principal": "PIÑA",
+    "dia_noche": "C",
+    "genero":"U",
+    "tipo":"A"
   },
   {
-    "Clave": "03/010A",
-    "Tendencia": "UAMBER ROUGE ORIEN",
-    "Familia_Olfativa": "MADEROSA",
-    "Nota_Principal": "AZAFRÁN",
-    "Ocasion": "C"
+    "clave": "03/00410A",
+    "tendencia": "UAMBER ROUGE ORIEN",
+    "familia_olfativa": "MADEROSA",
+    "nota_principal": "AZAFRÁN",
+    "dia_noche": "C",
+    "genero":"U",
+    "tipo":"A"
   },
   {
-    "Clave": "03/005A",
-    "Tendencia": "UEJAAZI",
-    "Familia_Olfativa": "ORIENTAL",
-    "Nota_Principal": "CARDAMOMO",
-    "Ocasion": "C"
+    "clave": "03/00557A",
+    "tendencia": "UEJAAZI",
+    "familia_olfativa": "ORIENTAL",
+    "nota_principal": "CARDAMOMO",
+    "dia_noche": "C",
+    "genero":"U",
+    "tipo":"A"
   },
   {
-    "Clave": "03/007A",
-    "Tendencia": "UHANEEN",
-    "Familia_Olfativa": "ORIENTAL",
-    "Nota_Principal": "ROSA",
-    "Ocasion": "C"
+    "clave": "03/00557A",
+    "tendencia": "UHANEEN",
+    "familia_olfativa": "ORIENTAL",
+    "nota_principal": "ROSA",
+    "dia_noche": "C",
+    "genero":"U",
+    "tipo":"A"
   },
   {
-    "Clave": "05/006",
-    "Tendencia": "UKALEMAT",
-    "Familia_Olfativa": "ORIENTAL",
-    "Nota_Principal": "NUEZ MOSCADA",
-    "Ocasion": "C"
+    "clave": "S/03046",
+    "tendencia": "UKALEMAT",
+    "familia_olfativa": "ORIENTAL",
+    "nota_principal": "NUEZ MOSCADA",
+    "dia_noche": "C",
+    "genero":"U",
+    "tipo":"A"
   },
   {
-    "Clave": "03/009A",
-    "Tendencia": "UKHAMRAH",
-    "Familia_Olfativa": "ORIENTAL",
-    "Nota_Principal": "CANELA",
-    "Ocasion": "C"
+    "clave": "03/00404A",
+    "tendencia": "UKHAMRAH",
+    "familia_olfativa": "ORIENTAL",
+    "nota_principal": "CANELA",
+    "dia_noche": "C",
+    "genero":"U",
+    "tipo":"A"
   },
   {
-    "Clave": "03/007A",
-    "Tendencia": "UQUIDGASM ROSE OUD",
-    "Familia_Olfativa": "ORIENTAL",
-    "Nota_Principal": "GERANIO",
-    "Ocasion": "C"
+    "clave": "03/00397A",
+    "tendencia": "UQUIDGASM ROSE OUD",
+    "familia_olfativa": "ORIENTAL",
+    "nota_principal": "GERANIO",
+    "dia_noche": "C",
+    "genero":"U",
+    "tipo":"A"
   },
   {
-    "Clave": "03/028A",
-    "Tendencia": "UVANILLA ROYALE",
-    "Familia_Olfativa": "ORIENTAL",
-    "Nota_Principal": "VAINILLA",
-    "Ocasion": "C"
+    "clave": "03/00298A",
+    "tendencia": "UVANILLA ROYALE",
+    "familia_olfativa": "ORIENTAL",
+    "nota_principal": "VAINILLA",
+    "dia_noche": "C",
+    "genero":"U",
+    "tipo":"A"
+  },
+  {
+    "clave": "02/03372A",
+    "tendencia": "C9PM",
+    "familia_olfativa": "ORIENTAL",
+    "nota_principal": "MANZANA",
+    "dia_noche": "C",
+    "genero":"C",
+    "tipo":"A"
+  },
+  {
+    "clave": "02/02225A",
+    "tendencia": "CCLUB DE NUIT INT",
+    "familia_olfativa": "MADEROSA",
+    "nota_principal": "OSMANTO",
+    "dia_noche": "C",
+    "genero":"C",
+    "tipo":"A"
+  },
+  {
+    "clave": "02/02311A",
+    "tendencia": "CCUIR DE ORIENTICA",
+    "familia_olfativa": "ORIENTAL",
+    "nota_principal": "ELEMÍ",
+    "dia_noche": "C",
+    "genero":"C",
+    "tipo":"A"
+  },
+  {
+    "clave": "02/02319A",
+    "tendencia": "CKING BHARARA",
+    "familia_olfativa": "ORIENTAL",
+    "nota_principal": "CÍTRICOS",
+    "dia_noche": "C",
+    "genero":"C",
+    "tipo":"A"
   }
 ]
