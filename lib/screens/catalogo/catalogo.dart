@@ -1,3 +1,5 @@
+import 'dart:convert';
+
 import 'package:flutter/material.dart';
 import 'package:font_awesome_flutter/font_awesome_flutter.dart';
 import 'package:jimile/model/productos.dart';
@@ -22,8 +24,9 @@ class _CatalogoScreenState extends State<CatalogoScreen> {
   final List<String> etiquetas = ["Éstres", "AutoConfianza", "Concentración"];
   List<Map<String, dynamic>> variables = [];
   List<Productos> _productos = [];
-  List<Productos> _seleccionados = [];
-  Map<String, String> _presentacionesSeleccionadas = {};
+  final List<Productos> _seleccionados = [];
+  final Map<String, String> _presentacionesSeleccionadas = {};
+  List<Map<String, dynamic>> pedido = [];
   String query = "";
 
   void _onItemTapped(int index) {
@@ -120,6 +123,33 @@ class _CatalogoScreenState extends State<CatalogoScreen> {
                             child: Column(
                               crossAxisAlignment: CrossAxisAlignment.start,
                               children: [
+                                Row(
+                                  mainAxisAlignment:
+                                      MainAxisAlignment.spaceBetween,
+                                  children: [
+                                    Text(
+                                      producto.tendencia,
+                                      style: const TextStyle(
+                                        fontSize: 18,
+                                        fontWeight: FontWeight.bold,
+                                      ),
+                                    ),
+                                    IconButton(
+                                      icon: const Icon(
+                                        Icons.delete,
+                                        color: Colors.red,
+                                      ),
+                                      onPressed: () {
+                                        setState(() {
+                                          _seleccionados.remove(producto);
+                                          _presentacionesSeleccionadas.remove(
+                                            producto.clave,
+                                          );
+                                        });
+                                      },
+                                    ),
+                                  ],
+                                ),
                                 Text(
                                   producto.tendencia,
                                   style: const TextStyle(
@@ -163,12 +193,66 @@ class _CatalogoScreenState extends State<CatalogoScreen> {
                                     ),
                                   ],
                                 ),
+                                const SizedBox(height: 8),
+                                Row(
+                                  children: [
+                                    const Text("Categoria: "),
+                                    DropdownButton<String>(
+                                      value:
+                                          _presentacionesSeleccionadas[producto
+                                              .clave],
+                                      hint: const Text("Seleccionar"),
+                                      items: ["10ml", "50ml", "100ml"]
+                                          .map(
+                                            (value) => DropdownMenuItem(
+                                              value: value,
+                                              child: Text(value),
+                                            ),
+                                          )
+                                          .toList(),
+                                      onChanged: (value) {
+                                        setState(() {
+                                          _presentacionesSeleccionadas[producto
+                                                  .clave] =
+                                              value!;
+                                          final item = pedido.firstWhere(
+                                            (p) => p["clave"] == producto.clave,
+                                          );
+                                          item["presentacion"] = value;
+                                        });
+                                        print(
+                                          "Producto ${producto.clave} -> $value",
+                                        );
+                                      },
+                                    ),
+                                  ],
+                                ),
+                                const SizedBox(height: 8),
+                                Text(
+                                  "Género: ${producto.genero == 'C' ? 'Caballero' : (producto.genero == 'D' ? 'Dama' : 'Unisex')}",
+                                ),
+                                const SizedBox(height: 8),
+                                TextField(
+                                  decoration: InputDecoration(
+                                    labelText: "Cantidad",
+                                    border: OutlineInputBorder(),
+                                  ),
+                                  keyboardType: TextInputType.number,
+                                  onChanged: (value) {
+                                    final item = pedido.firstWhere(
+                                      (p) => p["clave"] == producto.clave,
+                                    );
+                                    item["cantidad"] = int.tryParse(value) ?? 0;
+                                  }, // para que salga teclado numérico
+                                ),
+                                const SizedBox(height: 8),
+                                Text("Precio: 0"),
                               ],
                             ),
                           ),
                         ),
                       );
-                    }).toList(),
+                    }),
 
                     // 📋 Mostrar lista solo cuando hay texto en buscador
                     if (query.isNotEmpty)
@@ -181,6 +265,15 @@ class _CatalogoScreenState extends State<CatalogoScreen> {
                             setState(() {
                               if (!_seleccionados.contains(producto)) {
                                 _seleccionados.add(producto);
+                                pedido.add({
+                                  "clave": producto.clave,
+                                  "presentacion":
+                                      null, // se define luego con dropdown
+                                  "categoria": null,
+                                  "genero": producto.genero,
+                                  "cantidad": 0,
+                                  "precio": 0,
+                                });
                               }
                               query = ""; // limpia buscador al seleccionar
                             });
@@ -193,10 +286,15 @@ class _CatalogoScreenState extends State<CatalogoScreen> {
               const SizedBox(height: 12),
               ElevatedButton(
                 onPressed: () {
-                  print('¡Botón presionado!');
+                  print("JSON del pedido:");
+                  print(pedido);
+
+                  // Si quieres enviarlo como JSON string:
+                  final jsonPedido = jsonEncode(pedido);
+                  print(jsonPedido);
                 },
                 style: ElevatedButton.styleFrom(
-                  backgroundColor: Colors.green, // 🎨 Color de fondo
+                  backgroundColor: Colors.blueAccent, // 🎨 Color de fondo
                   foregroundColor: Colors.white, // 🎨 Color del texto e íconos
                   padding: const EdgeInsets.symmetric(
                     horizontal: 24,
@@ -209,7 +307,7 @@ class _CatalogoScreenState extends State<CatalogoScreen> {
                   ),
                   elevation: 4, // Sombra
                 ),
-                child: Text('Realizar Pedido'),
+                child: Text('Agregar a Carrito'),
               ),
               const SizedBox(height: 12),
             ],

@@ -19,10 +19,10 @@ Future<List<Productos>> fProductos() async {
   }
 }
 
-Future<List<Presentacion>> fPresentacion(id_categoria) async {
+Future<List<Presentacion>> fPresentacion(idCategoria) async {
   final response = await http.get(
     Uri.parse(
-      'http://apicatsa.catsaconcretos.mx:2543/api/LJ/GetPresentacion/$id_categoria',
+      'http://apicatsa.catsaconcretos.mx:2543/api/LJ/GetPresentacion/$idCategoria',
     ),
   );
   if (response.statusCode == 200) {

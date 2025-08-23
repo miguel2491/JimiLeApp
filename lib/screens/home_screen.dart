@@ -2,10 +2,6 @@ import 'dart:io';
 
 import 'package:flutter/material.dart';
 import 'package:flutter_local_notifications/flutter_local_notifications.dart';
-import 'package:font_awesome_flutter/font_awesome_flutter.dart';
-import 'package:jimile/main.dart';
-import 'package:jimile/model/productos.dart';
-import 'package:jimile/services/api.dart' as api_service;
 import 'package:jimile/screens/carrito/carrito.dart';
 import 'package:jimile/screens/catalogo/catalogo.dart';
 import 'package:jimile/widget/bottom_nav.dart';

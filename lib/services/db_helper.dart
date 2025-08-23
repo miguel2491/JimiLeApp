@@ -35,6 +35,27 @@ class DBHelper {
         estatus TEXT
       )
     ''');
+    await db.execute('''
+      CREATE TABLE pedidos (
+        id INTEGER PRIMARY KEY,
+        idproducto INTEGER,
+        clave TEXT,
+        tendencia TEXT,
+        genero TEXT,
+        cantidad INTEGER,
+        precio REAL,
+      )
+    ''');
+    await db.execute('''
+      CREATE TABLE ticket (
+        id INTEGER PRIMARY KEY,
+        idpedido INTEGER,
+        cantidad INTEGER,
+        precioUnitario REAL,
+        subtotal REAL,
+        total REAL
+      )
+    ''');
   }
 
   //CREATE
