@@ -58,3 +58,17 @@ void mProductosLocales() async {
     }
   }
 }
+
+Future<List<Map<String, dynamic>>> mPedidos() async {
+  final pedidos = await DBHelper.getPedidosDB();
+  if (pedidos.isEmpty) {
+    print('❌ No hay pedidos guardados');
+  } else {
+    for (var user in pedidos) {
+      print(
+        '📦 Pedido: ${user['id']} | ${user['idproducto']} | ${user['clave']}',
+      );
+    }
+  }
+  return pedidos; // devuelve la lista
+}

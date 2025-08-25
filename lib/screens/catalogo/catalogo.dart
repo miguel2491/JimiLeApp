@@ -1,13 +1,11 @@
 import 'dart:convert';
 
 import 'package:flutter/material.dart';
-import 'package:font_awesome_flutter/font_awesome_flutter.dart';
 import 'package:jimile/model/productos.dart';
 import 'package:jimile/screens/home_screen.dart';
 import 'package:jimile/screens/carrito/carrito.dart';
 import 'package:jimile/services/api.dart' as api_service;
-//import 'package:jimile/services/api.dart' as api_services;
-//import 'package:neru/services/db_helper.dart';
+import 'package:jimile/services/db_helper.dart';
 import 'package:jimile/widget/bottom_nav.dart';
 
 class CatalogoScreen extends StatefulWidget {
@@ -19,8 +17,7 @@ class CatalogoScreen extends StatefulWidget {
 
 class _CatalogoScreenState extends State<CatalogoScreen> {
   final int _selectedIndex = 0;
-  String nombre = "Usuario"; // 🔹 Aquí pones el nombre dinámico
-  double progreso = 0.65; // 🔹 Entre 0.0 y 1.0
+
   final List<String> etiquetas = ["Éstres", "AutoConfianza", "Concentración"];
   List<Map<String, dynamic>> variables = [];
   List<Productos> _productos = [];
@@ -266,9 +263,11 @@ class _CatalogoScreenState extends State<CatalogoScreen> {
                               if (!_seleccionados.contains(producto)) {
                                 _seleccionados.add(producto);
                                 pedido.add({
+                                  "idproducto": producto.id,
                                   "clave": producto.clave,
-                                  "presentacion":
-                                      null, // se define luego con dropdown
+                                  "tendencia": producto
+                                      .tendencia, // se define luego con dropdown
+                                  "presentacion": null,
                                   "categoria": null,
                                   "genero": producto.genero,
                                   "cantidad": 0,
@@ -285,10 +284,24 @@ class _CatalogoScreenState extends State<CatalogoScreen> {
               ),
               const SizedBox(height: 12),
               ElevatedButton(
-                onPressed: () {
+                onPressed: () async {
                   print("JSON del pedido:");
                   print(pedido);
-
+                  for (var item in pedido) {
+                    print(
+                      "Producto: ${item['idproducto']} - Cantidad: ${item['cantidad']}",
+                    );
+                    final result = await DBHelper.AddPedido([
+                      {
+                        'idproducto': item['idproducto'],
+                        'clave': item['clave'],
+                        'tendencia': item['tendencia'],
+                        'genero': item['genero'],
+                        'cantidad': item['cantidad'],
+                        'precio': item['precio'],
+                      },
+                    ]);
+                  }
                   // Si quieres enviarlo como JSON string:
                   final jsonPedido = jsonEncode(pedido);
                   print(jsonPedido);

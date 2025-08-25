@@ -30,6 +30,10 @@ class CustomBottomNavBar extends StatelessWidget {
           icon: Icon(Icons.shopping_cart),
           label: 'Carrito',
         ),
+        BottomNavigationBarItem(
+          icon: Icon(Icons.book_online),
+          label: 'Pedidos',
+        ),
       ],
     );
   }

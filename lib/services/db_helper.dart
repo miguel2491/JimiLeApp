@@ -43,7 +43,7 @@ class DBHelper {
         tendencia TEXT,
         genero TEXT,
         cantidad INTEGER,
-        precio REAL,
+        precio REAL
       )
     ''');
     await db.execute('''
@@ -80,19 +80,31 @@ class DBHelper {
     }
   }
 
-  static Future<void> clearAndInsertAct(List<dynamic> activ) async {
+  static Future<void> AddPedido(List<dynamic> pedido) async {
     final db = await database;
-    // Borrar los datos actuales
-    await db.delete('actividades');
-
     // Insertar nuevos datos
-    for (var ac in activ) {
-      await db.insert('actividades', {
-        'id': ac['id'],
-        'idvariable': ac['idvariable'],
-        'nombre': ac['nombre'],
-        'ruta': ac['ruta'],
-        'estatus': ac['estatus'],
+    for (var ac in pedido) {
+      await db.insert('pedidos', {
+        'idproducto': ac['idproducto'],
+        'clave': ac['clave'],
+        'tendencia': ac['tendencia'],
+        'genero': ac['genero'],
+        'cantidad': ac['cantidad'],
+        'precio': ac['precio'],
+      }, conflictAlgorithm: ConflictAlgorithm.replace);
+    }
+  }
+
+  static Future<void> AddTicket(List<dynamic> ticket) async {
+    final db = await database;
+    // Insertar nuevos datos
+    for (var ac in ticket) {
+      await db.insert('ticket', {
+        'idpedido': ac['idpedido'],
+        'cantidad': ac['cantidad'],
+        'precioUnitario': ac['precioUnitario'],
+        'subtotal': ac['subtotal'],
+        'total': ac['total'],
       }, conflictAlgorithm: ConflictAlgorithm.replace);
     }
   }
@@ -118,6 +130,33 @@ class DBHelper {
       return result.first; // contiene {'nombre': ..., 'icono': ...}
     }
     return null;
+  }
+
+  static Future<List<Map<String, dynamic>>> getPedidosDB() async {
+    final db = await database;
+    final result = await db.query(
+      'pedidos',
+      columns: [
+        'id',
+        'idproducto',
+        'clave',
+        'tendencia',
+        'genero',
+        'cantidad',
+        'precio',
+      ],
+    );
+    return result; // devuelve la lista completa
+  }
+
+  static Future<int> deletePedido(int id) async {
+    final db = await database;
+    return await db.delete('pedidos', where: 'id = ?', whereArgs: [id]);
+  }
+
+  static Future<int> deleteAllPedidos() async {
+    final db = await database;
+    return await db.delete('pedidos');
   }
 
   //DELETE
