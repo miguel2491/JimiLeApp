@@ -42,7 +42,8 @@ class _CarritoScreenState extends State<CarritoScreen> {
 
   Future<void> _loadPedidos() async {
     try {
-      final pedidos = await api_service.mPedidos(); // ahora devuelve List<Map>
+      final pedidos = await api_service.mPedidos();
+      print('☠️ $pedidos');
       setState(() {
         _pedidos = pedidos;
       });

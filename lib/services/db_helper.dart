@@ -41,6 +41,7 @@ class DBHelper {
         idproducto INTEGER,
         clave TEXT,
         tendencia TEXT,
+        presentacion TEXT,
         genero TEXT,
         cantidad INTEGER,
         precio REAL
@@ -88,6 +89,7 @@ class DBHelper {
         'idproducto': ac['idproducto'],
         'clave': ac['clave'],
         'tendencia': ac['tendencia'],
+        'presentacion': ac['presentacion'],
         'genero': ac['genero'],
         'cantidad': ac['cantidad'],
         'precio': ac['precio'],
@@ -141,6 +143,7 @@ class DBHelper {
         'idproducto',
         'clave',
         'tendencia',
+        'presentacion',
         'genero',
         'cantidad',
         'precio',
