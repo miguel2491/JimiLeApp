@@ -6,6 +6,7 @@ import 'package:jimile/model/presentacion.dart';
 import 'package:jimile/model/productos.dart';
 import 'package:jimile/screens/home_screen.dart';
 import 'package:jimile/screens/carrito/carrito.dart';
+import 'package:jimile/screens/pedido/pedido.dart';
 import 'package:jimile/services/api.dart' as api_service;
 import 'package:jimile/services/db_helper.dart';
 import 'package:jimile/widget/bottom_nav.dart';
@@ -47,6 +48,12 @@ class _CatalogoScreenState extends State<CatalogoScreen> {
       Navigator.push(
         context,
         MaterialPageRoute(builder: (context) => const CarritoScreen()),
+      );
+      return;
+    } else if (index == 3) {
+      Navigator.push(
+        context,
+        MaterialPageRoute(builder: (context) => const PedidoScreen()),
       );
       return;
     }
@@ -355,7 +362,7 @@ class _CatalogoScreenState extends State<CatalogoScreen> {
                         'cantidad': item['cantidad'],
                         'precio': item['precio'],
                       },
-                    ]);
+                    ], 0);
                   }
                   // Si quieres enviarlo como JSON string:
                   final jsonPedido = jsonEncode(pedido);

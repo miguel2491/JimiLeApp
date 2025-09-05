@@ -1,21 +1,22 @@
 import 'package:flutter/material.dart';
+import 'package:jimile/screens/carrito/carrito.dart';
 import 'package:jimile/screens/catalogo/catalogo.dart';
 import 'package:jimile/screens/home_screen.dart';
-import 'package:jimile/screens/pedido/pedido.dart';
+import 'package:jimile/screens/pedido/detalle_pedido.dart';
 import 'package:jimile/services/api.dart' as api_service;
 import 'package:jimile/services/db_helper.dart';
 import 'package:jimile/widget/bottom_nav.dart';
 
-class CarritoScreen extends StatefulWidget {
-  const CarritoScreen({super.key});
+class PedidoScreen extends StatefulWidget {
+  const PedidoScreen({super.key});
 
   @override
-  State<CarritoScreen> createState() => _CarritoScreenState();
+  State<PedidoScreen> createState() => _PedidoScreenState();
 }
 
-class _CarritoScreenState extends State<CarritoScreen> {
+class _PedidoScreenState extends State<PedidoScreen> {
   List<Map<String, dynamic>> _pedidos = [];
-  final int _selectedIndex = 2;
+  final int _selectedIndex = 3;
 
   @override
   void initState() {
@@ -24,7 +25,7 @@ class _CarritoScreenState extends State<CarritoScreen> {
   }
 
   void _onItemTapped(int index) {
-    if (index == 2) {
+    if (index == 3) {
       return; // no cambies _selectedIndex si navegas
     } else if (index == 1) {
       Navigator.push(
@@ -38,10 +39,10 @@ class _CarritoScreenState extends State<CarritoScreen> {
         MaterialPageRoute(builder: (context) => const CatalogoScreen()),
       );
       return;
-    } else if (index == 3) {
+    } else if (index == 2) {
       Navigator.push(
         context,
-        MaterialPageRoute(builder: (context) => const PedidoScreen()),
+        MaterialPageRoute(builder: (context) => const CarritoScreen()),
       );
       return;
     }
@@ -49,7 +50,7 @@ class _CarritoScreenState extends State<CarritoScreen> {
 
   Future<void> _loadPedidos() async {
     try {
-      final pedidos = await api_service.mPedidos();
+      final pedidos = await api_service.mTicket();
       print('☠️ $pedidos');
       setState(() {
         _pedidos = pedidos;
@@ -69,21 +70,6 @@ class _CarritoScreenState extends State<CarritoScreen> {
     _loadPedidos();
   }
 
-  Future<void> _gTicket() async {
-    int cantidadT = 0;
-    double subtotalT = 0.0;
-    double totalT = 0.0;
-    for (var pedido in _pedidos) {
-      cantidadT += (pedido['cantidad'] as int);
-      subtotalT += (pedido['precio'] as num).toDouble();
-      totalT += (pedido['precio'] as num).toDouble();
-    }
-    final idTicket = await DBHelper.AddTicket(cantidadT, subtotalT, totalT);
-    print("✅ Ticket insertado con id: $idTicket");
-    await DBHelper.AddPedido(_pedidos, idTicket);
-    print("🚕 Pedidos insertados con Ticket $idTicket: $_pedidos");
-  }
-
   double _calcularTotal() {
     double total = 0;
     for (var item in _pedidos) {
@@ -96,7 +82,7 @@ class _CarritoScreenState extends State<CarritoScreen> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text('Carrito'),
+        title: const Text('Pedidos'),
         backgroundColor: Color(0xFF78A4BF),
         foregroundColor: Colors.white,
         actions: [
@@ -126,23 +112,27 @@ class _CarritoScreenState extends State<CarritoScreen> {
                         child: ListTile(
                           contentPadding: const EdgeInsets.all(12),
                           title: Text(
-                            'Clave: ${pedido['clave']}',
+                            'PEDIDO: ${pedido['id']}',
                             style: const TextStyle(fontWeight: FontWeight.bold),
                           ),
                           subtitle: Column(
                             crossAxisAlignment: CrossAxisAlignment.start,
                             children: [
-                              Text('Producto: ${pedido['tendencia'] ?? 'N/A'}'),
                               Text(
-                                'Presentación: ${pedido['presentacion'] ?? 'N/A'}',
+                                'Cantidad: ${pedido['cantidad'] ?? 'N/A'}',
+                                style: const TextStyle(
+                                  fontWeight: FontWeight.bold,
+                                ),
                               ),
-                              Text('Cantidad: ${pedido['cantidad']}'),
+                              Text('Total: ${pedido['total'] ?? 'N/A'}'),
+                              Text('Nombre: ${pedido['total'] ?? 'N/A'}'),
+                              Text('Fecha: ${pedido['total'] ?? 'N/A'}'),
                             ],
                           ),
                           trailing: Row(
                             mainAxisSize: MainAxisSize.min,
                             children: [
-                              Text('\$${pedido['precio']}'),
+                              Text('\$${pedido['total']}'),
                               IconButton(
                                 icon: const Icon(
                                   Icons.delete,
@@ -152,6 +142,15 @@ class _CarritoScreenState extends State<CarritoScreen> {
                               ),
                             ],
                           ),
+                          onTap: () {
+                            Navigator.push(
+                              context,
+                              MaterialPageRoute(
+                                builder: (_) =>
+                                    DetalleScreenPedido(variable: pedido['id']),
+                              ),
+                            );
+                          },
                         ),
                       );
                     },
@@ -190,7 +189,6 @@ class _CarritoScreenState extends State<CarritoScreen> {
                       ElevatedButton(
                         onPressed: () async {
                           print('👻⚽☠️🌋');
-                          _gTicket();
                         },
                         style: ElevatedButton.styleFrom(
                           backgroundColor:

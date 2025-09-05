@@ -2,8 +2,10 @@ import 'dart:io';
 
 import 'package:flutter/material.dart';
 import 'package:flutter_local_notifications/flutter_local_notifications.dart';
+import 'package:jimile/model/pedido.dart';
 import 'package:jimile/screens/carrito/carrito.dart';
 import 'package:jimile/screens/catalogo/catalogo.dart';
+import 'package:jimile/screens/pedido/pedido.dart';
 import 'package:jimile/widget/bottom_nav.dart';
 
 class HomeScreen extends StatefulWidget {
@@ -37,6 +39,12 @@ class _HomeScreenState extends State<HomeScreen> {
       Navigator.push(
         context,
         MaterialPageRoute(builder: (context) => const CarritoScreen()),
+      );
+      return;
+    } else if (index == 3) {
+      Navigator.push(
+        context,
+        MaterialPageRoute(builder: (context) => const PedidoScreen()),
       );
       return;
     }

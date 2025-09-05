@@ -38,6 +38,7 @@ class DBHelper {
     await db.execute('''
       CREATE TABLE pedidos (
         id INTEGER PRIMARY KEY,
+        idTicket INTEGER,
         idproducto INTEGER,
         clave TEXT,
         tendencia TEXT,
@@ -50,6 +51,7 @@ class DBHelper {
     await db.execute('''
       CREATE TABLE ticket (
         id INTEGER PRIMARY KEY,
+        idTicket INTEGER,
         idpedido INTEGER,
         cantidad INTEGER,
         precioUnitario REAL,
@@ -81,11 +83,12 @@ class DBHelper {
     }
   }
 
-  static Future<void> AddPedido(List<dynamic> pedido) async {
+  static Future<void> AddPedido(List<dynamic> pedido, int idTicket) async {
     final db = await database;
     // Insertar nuevos datos
     for (var ac in pedido) {
       await db.insert('pedidos', {
+        'idTicket': idTicket,
         'idproducto': ac['idproducto'],
         'clave': ac['clave'],
         'tendencia': ac['tendencia'],
@@ -97,18 +100,17 @@ class DBHelper {
     }
   }
 
-  static Future<void> AddTicket(List<dynamic> ticket) async {
+  static Future<int> AddTicket(int cantidad, double st, double total) async {
     final db = await database;
-    // Insertar nuevos datos
-    for (var ac in ticket) {
-      await db.insert('ticket', {
-        'idpedido': ac['idpedido'],
-        'cantidad': ac['cantidad'],
-        'precioUnitario': ac['precioUnitario'],
-        'subtotal': ac['subtotal'],
-        'total': ac['total'],
-      }, conflictAlgorithm: ConflictAlgorithm.replace);
-    }
+
+    final id = await db.insert('ticket', {
+      'cantidad': cantidad,
+      'precioUnitario': 0,
+      'subtotal': st,
+      'total': total,
+    }, conflictAlgorithm: ConflictAlgorithm.replace);
+
+    return id; // 👈 aquí regresas el ID insertado
   }
 
   //READ
@@ -148,6 +150,15 @@ class DBHelper {
         'cantidad',
         'precio',
       ],
+    );
+    return result; // devuelve la lista completa
+  }
+
+  static Future<List<Map<String, dynamic>>> getTicketDB() async {
+    final db = await database;
+    final result = await db.query(
+      'ticket',
+      columns: ['id', 'cantidad', 'total'],
     );
     return result; // devuelve la lista completa
   }

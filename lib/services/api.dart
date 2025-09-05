@@ -72,3 +72,17 @@ Future<List<Map<String, dynamic>>> mPedidos() async {
   }
   return pedidos; // devuelve la lista
 }
+
+Future<List<Map<String, dynamic>>> mTicket() async {
+  final pedidos = await DBHelper.getTicketDB();
+  if (pedidos.isEmpty) {
+    print('❌ No hay Tickets guardados');
+  } else {
+    for (var user in pedidos) {
+      print(
+        '📦 Ticket: ${user['id']} | ${user['cantidad']} | ${user['total']}',
+      );
+    }
+  }
+  return pedidos; // devuelve la lista
+}

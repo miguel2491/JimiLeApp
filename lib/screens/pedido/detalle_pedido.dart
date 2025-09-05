@@ -1,21 +1,23 @@
 import 'package:flutter/material.dart';
+import 'package:jimile/screens/carrito/carrito.dart';
 import 'package:jimile/screens/catalogo/catalogo.dart';
 import 'package:jimile/screens/home_screen.dart';
-import 'package:jimile/screens/pedido/pedido.dart';
 import 'package:jimile/services/api.dart' as api_service;
 import 'package:jimile/services/db_helper.dart';
 import 'package:jimile/widget/bottom_nav.dart';
 
-class CarritoScreen extends StatefulWidget {
-  const CarritoScreen({super.key});
+class DetalleScreenPedido extends StatefulWidget {
+  final int variable;
+
+  const DetalleScreenPedido({super.key, required this.variable});
 
   @override
-  State<CarritoScreen> createState() => _CarritoScreenState();
+  State<DetalleScreenPedido> createState() => _DetalleScreenPedidoState();
 }
 
-class _CarritoScreenState extends State<CarritoScreen> {
+class _DetalleScreenPedidoState extends State<DetalleScreenPedido> {
   List<Map<String, dynamic>> _pedidos = [];
-  final int _selectedIndex = 2;
+  final int _selectedIndex = 3;
 
   @override
   void initState() {
@@ -24,7 +26,7 @@ class _CarritoScreenState extends State<CarritoScreen> {
   }
 
   void _onItemTapped(int index) {
-    if (index == 2) {
+    if (index == 3) {
       return; // no cambies _selectedIndex si navegas
     } else if (index == 1) {
       Navigator.push(
@@ -38,10 +40,10 @@ class _CarritoScreenState extends State<CarritoScreen> {
         MaterialPageRoute(builder: (context) => const CatalogoScreen()),
       );
       return;
-    } else if (index == 3) {
+    } else if (index == 2) {
       Navigator.push(
         context,
-        MaterialPageRoute(builder: (context) => const PedidoScreen()),
+        MaterialPageRoute(builder: (context) => const CarritoScreen()),
       );
       return;
     }
@@ -49,7 +51,7 @@ class _CarritoScreenState extends State<CarritoScreen> {
 
   Future<void> _loadPedidos() async {
     try {
-      final pedidos = await api_service.mPedidos();
+      final pedidos = await api_service.mTicket();
       print('☠️ $pedidos');
       setState(() {
         _pedidos = pedidos;
@@ -69,21 +71,6 @@ class _CarritoScreenState extends State<CarritoScreen> {
     _loadPedidos();
   }
 
-  Future<void> _gTicket() async {
-    int cantidadT = 0;
-    double subtotalT = 0.0;
-    double totalT = 0.0;
-    for (var pedido in _pedidos) {
-      cantidadT += (pedido['cantidad'] as int);
-      subtotalT += (pedido['precio'] as num).toDouble();
-      totalT += (pedido['precio'] as num).toDouble();
-    }
-    final idTicket = await DBHelper.AddTicket(cantidadT, subtotalT, totalT);
-    print("✅ Ticket insertado con id: $idTicket");
-    await DBHelper.AddPedido(_pedidos, idTicket);
-    print("🚕 Pedidos insertados con Ticket $idTicket: $_pedidos");
-  }
-
   double _calcularTotal() {
     double total = 0;
     for (var item in _pedidos) {
@@ -96,7 +83,7 @@ class _CarritoScreenState extends State<CarritoScreen> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text('Carrito'),
+        title: const Text('Detalle Pedidos'),
         backgroundColor: Color(0xFF78A4BF),
         foregroundColor: Colors.white,
         actions: [
@@ -126,23 +113,25 @@ class _CarritoScreenState extends State<CarritoScreen> {
                         child: ListTile(
                           contentPadding: const EdgeInsets.all(12),
                           title: Text(
-                            'Clave: ${pedido['clave']}',
+                            'Clave: ${pedido['id']}',
                             style: const TextStyle(fontWeight: FontWeight.bold),
                           ),
                           subtitle: Column(
                             crossAxisAlignment: CrossAxisAlignment.start,
                             children: [
-                              Text('Producto: ${pedido['tendencia'] ?? 'N/A'}'),
+                              Text('Nombre: ${pedido['cantidad'] ?? 'N/A'}'),
                               Text(
-                                'Presentación: ${pedido['presentacion'] ?? 'N/A'}',
+                                'Presentacion: ${pedido['cantidad'] ?? 'N/A'}',
                               ),
-                              Text('Cantidad: ${pedido['cantidad']}'),
+                              Text('Tamaño: ${pedido['total'] ?? 'N/A'}'),
+                              Text('Frasco: ${pedido['total'] ?? 'N/A'}'),
+                              Text('Total: ${pedido['total'] ?? 'N/A'}'),
                             ],
                           ),
                           trailing: Row(
                             mainAxisSize: MainAxisSize.min,
                             children: [
-                              Text('\$${pedido['precio']}'),
+                              Text('\$${pedido['total']}'),
                               IconButton(
                                 icon: const Icon(
                                   Icons.delete,
@@ -158,7 +147,7 @@ class _CarritoScreenState extends State<CarritoScreen> {
                   ),
                 ),
                 Container(
-                  padding: const EdgeInsets.all(16),
+                  padding: const EdgeInsets.all(8),
                   color: Colors.grey[200],
                   child: Row(
                     mainAxisAlignment: MainAxisAlignment.spaceBetween,
@@ -181,20 +170,18 @@ class _CarritoScreenState extends State<CarritoScreen> {
                   ),
                 ),
                 Container(
-                  padding: const EdgeInsets.all(16),
+                  padding: const EdgeInsets.all(12),
                   color: Colors.grey[200],
                   child: Row(
                     mainAxisAlignment: MainAxisAlignment.spaceBetween,
                     children: [
-                      const SizedBox(height: 12),
+                      const SizedBox(height: 8),
                       ElevatedButton(
                         onPressed: () async {
                           print('👻⚽☠️🌋');
-                          _gTicket();
                         },
                         style: ElevatedButton.styleFrom(
-                          backgroundColor:
-                              Colors.blueAccent, // 🎨 Color de fondo
+                          backgroundColor: Colors.red, // 🎨 Color de fondo
                           foregroundColor:
                               Colors.white, // 🎨 Color del texto e íconos
                           padding: const EdgeInsets.symmetric(
@@ -208,7 +195,7 @@ class _CarritoScreenState extends State<CarritoScreen> {
                           ),
                           elevation: 4, // Sombra
                         ),
-                        child: Text('Comprar'),
+                        child: Text('Finalizar'),
                       ),
                       const SizedBox(height: 12),
                     ],
